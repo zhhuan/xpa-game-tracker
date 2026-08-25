@@ -1,10 +1,10 @@
 {
   "totalGames": 2607,
-  "totalItemsFromAPI": 2673,
+  "totalItemsFromAPI": 2671,
   "totalPagesProcessed": 54,
   "failedPages": [],
-  "lastUpdated": "2026-08-25T21:10:22.502069",
-  "fetchDate": "2026-08-25 21:10:22",
+  "lastUpdated": "2026-08-25T22:51:41.485739",
+  "fetchDate": "2026-08-25 22:51:41",
   "games": [
     {
       "name": "Fortnite",
@@ -150,9 +150,9 @@
       "currency": "USD",
       "productId": "9N8KMNW6942X",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "In Call of Duty®: Black Ops 7, Treyarch and Raven Software are bringing players the biggest Black Ops ever across an innovative Co-Op Campaign, an electrifying Multiplayer experience, and the legendary Round-Based Zombies mode.",
@@ -201,8 +201,8 @@
       "currency": "USD",
       "productId": "9N431PX143P8",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
@@ -533,9 +533,9 @@
       "currency": "USD",
       "productId": "9P6LNN3KZ75R",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Be the last player standing in Battle Royale and Zero Build, solo or with up to three squadmates. Compete for Leaderboard positions in Ranked play, or experience large scale team battles with Team Rumble.\n",
@@ -595,31 +595,6 @@
       "publisherName": "Focus Entertainment"
     },
     {
-      "name": "Mad King Redemption",
-      "title": "Mad King Redemption",
-      "image": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
-      "url": "https://www.xbox.com/en-US/games/mad-king-redemption",
-      "releaseDate": "2026-08-23",
-      "rating": 4.2,
-      "categories": [
-        "Action & adventure",
-        "Fighting"
-      ],
-      "developer": "Secret Mission Games",
-      "publisher": "Secret Mission Games",
-      "price": 14.99,
-      "currency": "USD",
-      "productId": "9N944N1WP67T",
-      "availableOn": [
-        "PC",
-        "XboxSeriesX",
-        "Handheld"
-      ],
-      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
-      "developerName": "Secret Mission Games",
-      "publisherName": "Secret Mission Games"
-    },
-    {
       "name": "Where Winds Meet",
       "title": "Where Winds Meet",
       "image": "https://store-images.s-microsoft.com/image/apps.42564.14070230506579552.c6e9f089-9089-4b9a-bfba-8fbc01f63cb1.bd02e817-7536-48f6-89ed-45b293af11e1",
@@ -645,6 +620,31 @@
       "description": "Where Winds Meet is an epic Wuxia open-world action-adventure RPG set in ancient China at the tenth century. Players will assume the role of a young sword master as they embark on a journey to uncover the mysteries of their own identity. Let the wind carry your legend on an epic journey to the East!Game requires online multiplayer and user-generated content to play on both console and PC.",
       "developerName": "Everstone Studio",
       "publisherName": "NetEase Games"
+    },
+    {
+      "name": "Mad King Redemption",
+      "title": "Mad King Redemption",
+      "image": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
+      "url": "https://www.xbox.com/en-US/games/mad-king-redemption",
+      "releaseDate": "2026-08-23",
+      "rating": 4.1,
+      "categories": [
+        "Action & adventure",
+        "Fighting"
+      ],
+      "developer": "Secret Mission Games",
+      "publisher": "Secret Mission Games",
+      "price": 14.99,
+      "currency": "USD",
+      "productId": "9N944N1WP67T",
+      "availableOn": [
+        "PC",
+        "XboxSeriesX",
+        "Handheld"
+      ],
+      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
+      "developerName": "Secret Mission Games",
+      "publisherName": "Secret Mission Games"
     },
     {
       "name": "Gallipoli",
@@ -715,8 +715,8 @@
       "currency": "USD",
       "productId": "9N917PW2PM3C",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Step into the explosive fury of war with Hell Let Loose – Vietnam. Play a decisive role in one of the most iconic conflicts in history with expansive 50v50 player battles, where teamwork, tactics and an arsenal of destructive weapons combine to shape the battlefield in your favour.",
@@ -789,9 +789,9 @@
       "currency": "USD",
       "productId": "9NKX70BBCDRN",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Limitless driving fun in an ever-evolving open world.",
@@ -930,32 +930,6 @@
       "publisherName": "Xbox Game Studios"
     },
     {
-      "name": "Puppergeist",
-      "title": "Puppergeist",
-      "image": "https://store-images.s-microsoft.com/image/apps.42554.13842460410800249.53b6aba0-711d-411f-b928-08401f4157d6.2ddf9961-3b9d-42c2-a40d-d0f3b1ae5049",
-      "url": "https://www.xbox.com/en-US/games/puppergeist",
-      "releaseDate": "2026-08-20",
-      "rating": 5.0,
-      "categories": [
-        "Music",
-        "Action & adventure"
-      ],
-      "developer": "Serenity Forge",
-      "publisher": "Serenity Forge",
-      "price": 4.99,
-      "currency": "USD",
-      "productId": "9MWBP434XL2V",
-      "availableOn": [
-        "XboxSeriesX",
-        "PC",
-        "XCloud",
-        "Handheld"
-      ],
-      "description": "Journey through the Doggie Underworld in this heartwarming rhythm and visual novel hybrid. Reunite with your lost Pup by connecting with the souls of other dogs, learning their stories, and lifting their spirits through rhythm games full of charm and playful challenges! ",
-      "developerName": "Serenity Forge",
-      "publisherName": "Serenity Forge"
-    },
-    {
       "name": "ARC Raiders",
       "title": "ARC Raiders",
       "image": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
@@ -980,6 +954,32 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
       "developerName": "Embark Studios",
       "publisherName": "Embark Studios"
+    },
+    {
+      "name": "Puppergeist",
+      "title": "Puppergeist",
+      "image": "https://store-images.s-microsoft.com/image/apps.42554.13842460410800249.53b6aba0-711d-411f-b928-08401f4157d6.2ddf9961-3b9d-42c2-a40d-d0f3b1ae5049",
+      "url": "https://www.xbox.com/en-US/games/puppergeist",
+      "releaseDate": "2026-08-20",
+      "rating": 5.0,
+      "categories": [
+        "Music",
+        "Action & adventure"
+      ],
+      "developer": "Serenity Forge",
+      "publisher": "Serenity Forge",
+      "price": 4.99,
+      "currency": "USD",
+      "productId": "9MWBP434XL2V",
+      "availableOn": [
+        "XboxSeriesX",
+        "PC",
+        "XCloud",
+        "Handheld"
+      ],
+      "description": "Journey through the Doggie Underworld in this heartwarming rhythm and visual novel hybrid. Reunite with your lost Pup by connecting with the souls of other dogs, learning their stories, and lifting their spirits through rhythm games full of charm and playful challenges! ",
+      "developerName": "Serenity Forge",
+      "publisherName": "Serenity Forge"
     },
     {
       "name": "Educational Family Games",
@@ -1116,6 +1116,31 @@
       "publisherName": "HAMSTER Corporation"
     },
     {
+      "name": "Halo Infinite",
+      "title": "Halo Infinite",
+      "image": "https://store-images.s-microsoft.com/image/apps.30769.13727851868390641.270e98c5-0c6a-4ce0-81ab-e78c700bf4b5.092f9454-fee6-43b1-94e3-802dd0067d8b",
+      "url": "https://www.xbox.com/en-US/games/halo-infinite",
+      "releaseDate": "2021-12-08",
+      "rating": 3.2,
+      "categories": [
+        "Shooter"
+      ],
+      "developer": "343 Industries",
+      "publisher": "Xbox Game Studios",
+      "price": 59.99,
+      "currency": "USD",
+      "productId": "9NP1P1WFS0LB",
+      "availableOn": [
+        "PC",
+        "XboxOne",
+        "XboxSeriesX",
+        "XCloud"
+      ],
+      "description": "From one of gaming's most iconic sagas, Halo is bigger than ever with a dynamic free to play multiplayer experience.  ",
+      "developerName": "343 Industries",
+      "publisherName": "Xbox Game Studios"
+    },
+    {
       "name": "WonderCat Adventures",
       "title": "WonderCat Adventures",
       "image": "https://store-images.s-microsoft.com/image/apps.28118.13874823173759013.79b1b148-11c9-406d-849d-3680e52c825a.69bb09d7-59a9-4342-a350-49dc3f548760",
@@ -1140,31 +1165,6 @@
       "description": "",
       "developerName": "Obscure Cloud",
       "publisherName": "Obscure Cloud"
-    },
-    {
-      "name": "Halo Infinite",
-      "title": "Halo Infinite",
-      "image": "https://store-images.s-microsoft.com/image/apps.30769.13727851868390641.270e98c5-0c6a-4ce0-81ab-e78c700bf4b5.092f9454-fee6-43b1-94e3-802dd0067d8b",
-      "url": "https://www.xbox.com/en-US/games/halo-infinite",
-      "releaseDate": "2021-12-08",
-      "rating": 3.2,
-      "categories": [
-        "Shooter"
-      ],
-      "developer": "343 Industries",
-      "publisher": "Xbox Game Studios",
-      "price": 59.99,
-      "currency": "USD",
-      "productId": "9NP1P1WFS0LB",
-      "availableOn": [
-        "PC",
-        "XboxOne",
-        "XboxSeriesX",
-        "XCloud"
-      ],
-      "description": "From one of gaming's most iconic sagas, Halo is bigger than ever with a dynamic free to play multiplayer experience.  ",
-      "developerName": "343 Industries",
-      "publisherName": "Xbox Game Studios"
     },
     {
       "name": "War Thunder",
@@ -1237,8 +1237,8 @@
       "currency": "USD",
       "productId": "9P6HVHDP2PGK",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Crimson Desert is an open-world action-adventure game set in the beautiful yet brutal continent of Pywel. Take on the role of the Greymane Kliff and embark on a journey across the continent to reclaim everything you've lost. Explore uncharted lands, encounter mysterious factions, and experience firsthand a world that is as breathtaking as it is merciless.",
@@ -1440,8 +1440,8 @@
       "currency": "USD",
       "productId": "9NPF9F0DCVKS",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training program, and discover an origin story of the world’s most famous spy.",
@@ -1674,9 +1674,9 @@
       "currency": "USD",
       "productId": "9P5B8CPQ9S7F",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud",
         "Handheld"
       ],
@@ -2986,9 +2986,9 @@
       "currency": "USD",
       "productId": "9P4KMR76PLLQ",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The complete Gears 5 experience in one bundle. Get the celebrated campaign, recharged multiplayer and Hivebusters campaign expansion as part of the Game of the Year Edition.  \r\n \r\nGears 5 Game of the Year Edition includes: \r\n•\tGears 5 base game \r\n•\tHalo: Reach Character Pack  \r\n•\t30 days of Boost \r\n•\tGears 5: Hivebusters expansion ",
@@ -3011,9 +3011,9 @@
       "currency": "USD",
       "productId": "9N2S04LGXXH4",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Experience survival horror like never before in the 8th major installment in the Resident Evil franchise - Resident Evil Village. With detailed graphics, intense first-person action and masterful storytelling, the terror has never felt more realistic.",
       "developerName": "CAPCOM CO., LTD.",
@@ -3190,8 +3190,8 @@
       "currency": "USD",
       "productId": "9NLJKM3MDXQX",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "New to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes access to Base Game, Story Expansion, Kombat Pack, Kombat Pack 2, Mortal Kombat and II Movie Skins, Dragon Krystals, and more!",
@@ -3239,8 +3239,8 @@
       "currency": "USD",
       "productId": "9NSKMK4ZL1P9",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Crimson Desert is an open-world action-adventure game set in the beautiful yet brutal continent of Pywel. Take on the role of the Greymane Kliff and embark on a journey across the continent to reclaim everything you've lost. Explore uncharted lands, encounter mysterious factions, and experience firsthand a world that is as breathtaking as it is merciless.",
@@ -3469,9 +3469,9 @@
       "currency": "USD",
       "productId": "9PG26DBX43L1",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Includes MK11, Kombat Pack 1, Aftermath Expansion & Kombat Pack 2.\r\n\r\nTake control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time & rebooting history. Features the komplete 37-fighter roster, incl. Rain, Mileena & Rambo.",
@@ -3622,8 +3622,8 @@
       "currency": "USD",
       "productId": "9N4XW3N02MNJ",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet. Forza Horizon 6 Premium Edition includes the full game, and VIP Membership, Welcome Pack, Time Attack Car Pack, and Car Pass (30 cars delivered to your game, one per week). You also get the Italian Passion Car Pack and two Premium Expansions when they are released.",
@@ -3670,9 +3670,9 @@
       "currency": "USD",
       "productId": "9P96KKM6TFBN",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "With the Free Trial, play the beginning of the game for free in solo or with a friend, using online co-op on the same platform.",
@@ -3927,9 +3927,9 @@
       "currency": "USD",
       "productId": "9NQNDD3H7N6Z",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "This product is the Digital Deluxe Edition of FINAL FANTASY VII REMAKE INTERGRADE. \nIt contains the full game, as well as the FINAL FANTASY VII REMAKE INTERGRADE Digital Art Book and Digital Mini-Soundtrack.",
       "developerName": "SQUARE ENIX CO., LTD.",
@@ -4209,9 +4209,9 @@
       "currency": "USD",
       "productId": "9PB4WLWQS892",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "From the developers of Rocket League comes Rocket Racing, a supersonic arcade racer that lets you drift, fly, and boost with your friends through an ever-growing selection of tracks and modes.\r\n\r\nGetting the bundle/add-on is not necessary to access this content.",
@@ -4387,9 +4387,9 @@
       "currency": "USD",
       "productId": "9PGLL77C201J",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Fire up a wild ride across the cosmos with a fresh take on Marvel’s Guardians of the Galaxy. In this action-adventure game, you are Star-Lord leading the unpredictable Guardians from one explosion of chaos to the next. You got this. Probably.",
@@ -4902,9 +4902,9 @@
       "currency": "USD",
       "productId": "9PBDS7DPPXM5",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "In Call of Duty®: Black Ops 7, Treyarch and Raven Software are bringing players the biggest Black Ops ever across an innovative Co-Op Campaign, an electrifying Multiplayer experience, and the legendary Round-Based Zombies mode.",
@@ -5004,8 +5004,8 @@
       "currency": "USD",
       "productId": "9N7MVHHLZJWG",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Elevate your espionage adventure with 007 First Light Deluxe Edition. Earn your number in style with 4 new outfits, 4 new gadget skins and a new weapon skin.",
@@ -5335,9 +5335,9 @@
       "currency": "USD",
       "productId": "9NF83PRZK6K3",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "All Chapters FREE for the month of June! Tell Me Why is the multi-award winning episodic adventure game from Dontnod Entertainment in which twins use their supernatural bond to discover the truth of their troubled past.",
@@ -5468,9 +5468,9 @@
       "currency": "USD",
       "productId": "9N7T25ZJJQ9T",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "The award-winning modern horror masterpiece Resident Evil Village returns with brand-new additional content: Third Person Mode, The Mercenaries Additional Orders, and Shadows of Rose.",
       "developerName": "CAPCOM CO., LTD.",
@@ -5570,9 +5570,9 @@
       "currency": "USD",
       "productId": "9NLSQ26HM4X5",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Includes full game and 13 Downloadable Character Packs.\r\n\r\nPlay through all 9 films of the saga and choose from over 400 characters from Andor, Book of Boba Fett, The Clone Wars, Rebels and more!",
@@ -5854,9 +5854,9 @@
       "currency": "USD",
       "productId": "9MVBJ3NX67DS",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Little Nightmares III is an atmospheric adventure game in which you follow the journey of Low and Alone, two best friends in search of a way out of the Nowhere. In 2 players online cooperation or solo with an A.I., work together to solve puzzles and survive in this nightmarish world.",
@@ -6184,9 +6184,9 @@
       "currency": "USD",
       "productId": "9MW10GX140N1",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
       "developerName": "Avalanche Software",
@@ -6908,8 +6908,8 @@
       "currency": "USD",
       "productId": "9MSVPJCHHRPR",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Avowed is a first-person fantasy RPG from Obsidian Entertainment.",
@@ -7236,9 +7236,9 @@
       "currency": "USD",
       "productId": "9PFRG44XZCFJ",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The Fallout 4: Anniversary Edition brings the complete post-nuclear epic together. Winner of over 200 “Best Of” awards, this edition includes the acclaimed base game, the 6 official expansions, and more than 150 Creation Club items.",
@@ -7285,9 +7285,9 @@
       "currency": "USD",
       "productId": "9NQWB2KZBS1P",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Experience survival horror like never before in this bundle containing the definitive versions of Resident Evil 7 biohazard and Resident Evil Village.",
       "developerName": "CAPCOM CO., LTD.",
@@ -7309,9 +7309,9 @@
       "currency": "USD",
       "productId": "9PJRSMJ5PSD1",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "The Deluxe Edition includes 7 downloadable content character packs. \r\nPlay through all nine saga films in a brand-new video game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun!",
@@ -7669,9 +7669,9 @@
       "currency": "USD",
       "productId": "9NBLGGH4RQDW",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "THIS IS YOUR HORIZON\nYou’re in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world’s greatest cars. The Forza Horizon 3 Deluxe Edition includes the full game of Forza Horizon 3, VIP Membership and cars, and the Motorsport All-Stars Car Pack, which gives you the chance to take 10 of the hottest modern race cars off the track and out on the open road!\n",
       "developerName": "Playground Games",
@@ -8207,9 +8207,9 @@
       "currency": "USD",
       "productId": "9P402RWR63H4",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "Handheld"
       ],
       "description": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
@@ -8312,8 +8312,8 @@
       "currency": "USD",
       "productId": "9NH6PQ3L7TTP",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
       "developerName": "CAPCOM CO., LTD.",
@@ -8335,8 +8335,8 @@
       "currency": "USD",
       "productId": "9NB3XVDJHSM8",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The End is only the beginning in this mystery horror adventure! Get the Digital Deluxe Edition of REANIMAL to get the Season Pass for all three episodes of DLC, plus the exclusive Foxhead and Muttonhead masks DLC.",
@@ -8479,9 +8479,9 @@
       "currency": "USD",
       "productId": "9MZL842T57QN",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Play in a band with friends or perform solo on stage with hit music by your favorite artists in Fortnite Festival!\n\nOn the Main Stage, select your instrument and play a featured rotation of Jam Tracks. Explore the Festival Jam Stage to find friends and mix hit music together using the Jam Tracks in your locker.\n\nKeep the party going with an ever-expanding lineup of Jam Tracks, Music Icons, and more. Take your stage in Fortnite Festival!\n\nGetting the bundle/add-on is not necessary to access this content.",
@@ -8662,8 +8662,8 @@
       "currency": "USD",
       "productId": "9P4DJHFGK810",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "Wishlist now and get ready for Spyro™’s bold new adventure.\n\nTake flight in a brand-new journey through a strange and wondrous realm.",
       "developerName": "",
@@ -8815,8 +8815,8 @@
       "currency": "USD",
       "productId": "9NF0RTSMR2ST",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Two epic ARK adventures in one bundle? You bet! ARK: Bob's Bundle is the ultimate deal. Get ARK: Survival Ascended & Bob's Tall Tales now!",
@@ -8944,9 +8944,9 @@
       "currency": "USD",
       "productId": "9NBLGGH4X6T9",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "THIS IS YOUR HORIZON\r\n\r\nYou’re in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world’s greatest cars. Make your Horizon the ultimate celebration of cars, music, and freedom of the open road. How you get there is up to you.",
       "developerName": "Playground Games",
@@ -8968,8 +8968,8 @@
       "currency": "USD",
       "productId": "9NJ07VWB9BVK",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and our survival against a reality-bending cosmic threat.",
       "developerName": "Remedy Entertainment",
@@ -9147,8 +9147,8 @@
       "currency": "USD",
       "productId": "9NNHX9HW4TZW",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "A remake of the 2004 game METAL GEAR SOLID 3: SNAKE EATER, with the same gripping story and engrossing world, now with all new graphics and 3D audio that enhance the jungle atmosphere.",
       "developerName": "KONAMI",
@@ -9223,8 +9223,8 @@
       "currency": "USD",
       "productId": "9N0NMPJPFF4G",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Find the object of your affection\n\nDate Everything is a sandbox dating simulator set in the comfort of your own home, featuring 100 fully voice acted datable characters! Let the romance flow between your bed, smoke alarm and… Overwhelming Sense of Existential Dread? Are you ready to Date Everything?",
@@ -9326,8 +9326,8 @@
       "currency": "USD",
       "productId": "9P7VVC7BTZNX",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Build your own Jurassic World like never before. Nurture generations of awe-inspiring dinosaurs with the series debut of juveniles, create and manage sprawling prehistoric parks around the globe, and let your imagination roar with powerful new creative options. \n",
@@ -9928,9 +9928,9 @@
       "currency": "USD",
       "productId": "9NN3HCKW5TPC",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Gears Tactics is the fast-paced, turn-based strategy game from one of the most-acclaimed video game franchises – Gears of War. Outnumbered and fighting for survival, recruit and command your squad to hunt down an evil mastermind who makes monsters. ",
@@ -9953,9 +9953,9 @@
       "currency": "USD",
       "productId": "9NJN1MC1X5FK",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Play through all nine Skywalker saga films in a game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! \r\n\r\n*Purchasers of the digital edition receive an exclusive classic Obi-Wan Kenobi playable character.",
@@ -10010,9 +10010,9 @@
       "currency": "USD",
       "productId": "C4VHLVCM017T",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "The Deluxe Edition includes:\r\n• DRAGON BALL XENOVERSE 2\r\n• Super Pass\r\n- Super Pack 1\r\n- Super Pack 2\r\n- Super Pack 3\r\n- Super Pack 4\r\n- Super Pass Bonus: Early access to the character Future Trunks from DRAGON BALL SUPER.",
@@ -10139,9 +10139,9 @@
       "currency": "USD",
       "productId": "9NV34NLCLG81",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "After September 15, 2021, Forza Motorsport 7 and its associated DLC will no longer be available for purchase in the Microsoft Store or offered on Xbox Game Pass. Xbox Game Pass members who purchased Forza Motorsport 7 DLC prior to July 29 get a token for the game via the Xbox Message Center. Players who owned Forza Motorsport 7 and its DLC prior to September 15 will still be able to download and play the game and its associated content as normal.  To learn more visit aka.ms/FM7FAQ.\r\n\r\nForza Motorsport 7 is where Racers, Drifters, Drag Racers, Tuners, and Creators come together in a community devoted to everything automotive. Drive the cars of your dreams, with more than 700 amazing vehicles to choose from. Challenge yourself across 30 famous destinations and 200 Tracks. Experience it all in gorgeous 60fps and native 4K resolution in HDR. ",
       "developerName": "Turn 10 Studios",
@@ -10214,8 +10214,8 @@
       "currency": "USD",
       "productId": "9NS0RX8F5865",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "If war is the closest we get to hell on earth, it's because Earth harbours the worst of demons: humankind. In an isolated country ravaged by infighting, discover the secrets of your past and deal with the repercussions of a mysterious calamity.",
       "developerName": "Rogue Factor",
@@ -10262,9 +10262,9 @@
       "currency": "USD",
       "productId": "9NDGTQVVRSVS",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Digital Premium Edition includes base game, artbook, soundtrack, and DLC Pack!",
       "developerName": "ATLUS",
@@ -10337,9 +10337,9 @@
       "currency": "USD",
       "productId": "9P9MC8B7R5FP",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Just Cause 4 Reloaded delivers an expansive and explosive gameplay experience in an all-new package! Just Cause 4 Reloaded includes additional premium content as well as all previously released improvements and additions to the game.\r\n\r\nJust Cause 4 Reloaded includes:\r\n- Just Cause 4\r\n- ‘Skystriker’ Weaponized Wingsuit\r\n- Black Hand Stealth Micro Jet\r\n- Neon Racer Pack\r\n- Deathstalker Scorpion Pack\r\n- Renegade Pack\r\n",
@@ -10386,8 +10386,8 @@
       "currency": "USD",
       "productId": "9NZFTFQFKJJP",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "",
       "developerName": "Playground Games",
@@ -10774,9 +10774,9 @@
       "currency": "USD",
       "productId": "9P513P4MWC71",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar. ",
       "developerName": "Playground Games",
@@ -10956,8 +10956,8 @@
       "currency": "USD",
       "productId": "9P9JDV1PV21H",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "\"My name...is Maria,\" the woman smiles, just like my late wife.",
       "developerName": "Bloober Team SA",
@@ -11113,9 +11113,9 @@
       "currency": "USD",
       "productId": "9NSCH45HZ9HK",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "State of Decay 2: Ultimate Edition includes three add-on content packs*: Independence Pack, Daybreak Pack and Doomsday Pack.",
@@ -11978,9 +11978,9 @@
       "currency": "USD",
       "productId": "9NQ69THT77SV",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "Handheld"
       ],
       "description": "",
@@ -12380,8 +12380,8 @@
       "currency": "USD",
       "productId": "9PBHX1S4DGZ4",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Live a medieval life with the unforgettable RPG experience of Kingdom Come: Deliverance II. Immerse yourself in a thrilling adventure — through the eyes of Henry — as you embark on a journey of epic proportions.\nThe Royal Edition features every game update and DLC content in one package — including the main story expansions Brushes with Death, Legacy of the Forge, and Mysteria Ecclesiae.",
@@ -13119,8 +13119,8 @@
       "currency": "USD",
       "productId": "9P1C361XMN7F",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Buy Warhammer 40,000: Darktide - Imperial Edition and get:\r\n\r\nBase Game\r\nLoyalist Pack: Purge heresy in style with these 4 unique class outfits, 8 weapon skin patterns, one set of headgear as well as an Ogryn body tattoo.\r\nMortis Veteran Portrait Frame: A cosmetic portrait frame used to pay tribute to the fallen defenders of Tertium Hive.\r\nCaducades Backpack: A cosmetic backpack for human characters. Scavenged from the fallen troops of Cadia, this backpack has been repurposed to serve those still alive and fighting.\r\n2500 Aquilas (premium currency)",
@@ -13194,8 +13194,8 @@
       "currency": "USD",
       "productId": "9P4TXTFKN90Z",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Crimson Curse —Will Your Fate Bloom in Despair or Salvation\nSet 23 years after Castlevania Dracula's Curse - follow Rose Belmont's journey in an all new 2D Action-Exploration title from KONAMI, Evil Empire and Motion Twin.",
       "developerName": "Evil Empire",
@@ -13504,8 +13504,8 @@
       "currency": "USD",
       "productId": "9NFH3VCDSLM6",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "The Warhammer 40,000: Space Marine 2 Year 1 Anniversary Edition includes the base game and its Season Pass.\n\nEmbody the superhuman skill and brutality of a Space Marine and defend the Imperium in spectacular third-person action in solo or multiplayer modes.\n",
@@ -14307,9 +14307,9 @@
       "currency": "USD",
       "productId": "9N0V23PTTR50",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Combine the clues, uncover the truth, and survive.\n",
       "developerName": "Demir Games",
@@ -14455,9 +14455,9 @@
       "currency": "USD",
       "productId": "9PFB0XGSXLR9",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "The Special Edition includes:\r\n• DRAGON BALL XENOVERSE 2\r\n• Super Pass\r\n- Super Pack 1\r\n- Super Pack 2\r\n- Super Pack 3\r\n- Super Pack 4\r\n- Super Pass Bonus: Early access to the character Future Trunks from DRAGON BALL SUPER.\r\n• HERO OF JUSTICE Pack Set\r\n- HERO OF JUSTICE Pack 1\r\n- HERO OF JUSTICE Pack 2",
@@ -14480,9 +14480,9 @@
       "currency": "USD",
       "productId": "9NSNSBW1JTJX",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "After September 15, 2021, Forza Motorsport 7 and its associated DLC will no longer be available for purchase in the Microsoft Store or offered on Xbox Game Pass. Xbox Game Pass members who purchased Forza Motorsport 7 DLC prior to July 29 get a token for the game via the Xbox Message Center. Players who owned Forza Motorsport 7 and its DLC prior to September 15 will still be able to download and play the game and its associated content as normal.  To learn more visit aka.ms/FM7FAQ.\r\n\r\nForza Motorsport 7 is where Racers, Drifters, Drag Racers, Tuners, and Creators come together in a community devoted to everything automotive. Drive the cars of your dreams, with more than 700 amazing vehicles to choose from. Challenge yourself across 30 famous destinations and 200 Tracks. Experience it all in gorgeous 60fps and native 4K resolution in HDR. ",
       "developerName": "Turn 10 Studios",
@@ -14530,9 +14530,9 @@
       "currency": "USD",
       "productId": "9PC09KXKZS1B",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Take home the complete Remnant: From the Ashes experience, as you fight through a post-apocalyptic world overrun by monstrous creatures - fighting to restore humanity while overcoming hordes of deadly enemies and epic bosses alone, or alongside up to two other players. ",
@@ -14663,8 +14663,8 @@
       "currency": "USD",
       "productId": "9NN144QSW0T0",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Embark on a gaming journey of first-class offerings with the Age of Mythology: Retold Premium Edition.  Curated to offer an elevated gaming experience at launch and beyond.  ",
@@ -14815,8 +14815,8 @@
       "currency": "USD",
       "productId": "9NWKWDV424BQ",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "The Deluxe Edition contains the base game as well as 5 additional missions, 2 new recruitable heroes and 3 new technologies.",
       "developerName": "Gamexcite",
@@ -15353,8 +15353,8 @@
       "currency": "USD",
       "productId": "9N6GZJZV4XVH",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Warhammer: Space Marine 2’s 2-Year Anniversary Edition includes the base game, the Season Pass 1 and the Season Pass 2.\nUnleash the superhuman skill and brutality of a Space Marine against the relentless Tyranid swarms in solo or multiplayer modes.",
@@ -15641,9 +15641,9 @@
       "currency": "USD",
       "productId": "9P1HX37NMJLT",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Limitless driving fun in an ever-evolving open world. The Deluxe Edition includes the full game and Car Pass. ",
@@ -15666,8 +15666,8 @@
       "currency": "USD",
       "productId": "9PFPMMQPKCL6",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and our survival against a reality-bending cosmic threat.",
       "developerName": "Remedy Entertainment",
@@ -15795,8 +15795,8 @@
       "currency": "USD",
       "productId": "9MZQ9BGNL7VK",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "",
@@ -16340,9 +16340,9 @@
       "currency": "USD",
       "productId": "9PM196H6RFJB",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "BRAVELY DEFAULT returns in HD! Relive the tale of the warriors of light. Enjoy strategic battles and over 20 different jobs. Plus modern gameplay enhancements and all-new minigames. The story of light and shadow that never fades is reborn.",
       "developerName": "Cattle Call Inc.",
@@ -16571,8 +16571,8 @@
       "currency": "USD",
       "productId": "9NSLL5HCLH23",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Hinako's hometown is engulfed in fog, driving her to fight grotesque monsters and solve eerie puzzles. Uncover the disturbing beauty hidden in terror.",
       "developerName": "NeoBards Entertainment Ltd.",
@@ -16913,8 +16913,8 @@
       "currency": "USD",
       "productId": "9P0SWLC2F1XJ",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "Live the adventure with the Premium Edition and receive Indiana Jones and the Great Circle™: The Order of Giants Story DLC, a digital artbook, and the Temple of Doom™ Outfit, Indy’s iconic look as seen in Temple of Doom™.",
       "developerName": "MachineGames",
@@ -17140,8 +17140,8 @@
       "currency": "USD",
       "productId": "9N105N56MVGM",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "Unravel the mysteries of the past in DRAGON QUEST VII Reimagined! Gather your companions and travel beyond the shores of your small kingdom to discover why it is the only remaining island in the world.",
       "developerName": "HEXADRIVE Inc.",
@@ -17368,8 +17368,8 @@
       "currency": "USD",
       "productId": "9NVGT8L46GXT",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "The Deluxe Edition includes the game plus the Arcade Apocalypse Pack. Fight as Rick Grimes, Daryl Dixon and Michonne in an arcade brawler set in the world of AMC’s The Walking Dead. Face enemies like the Saviors and walker swarms as you unleash combos, signature attacks, and crushing finishers.",
       "developerName": "Odaclick Game Studio",
@@ -17471,8 +17471,8 @@
       "currency": "USD",
       "productId": "9PH7CL8KW2N2",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
       "developerName": "CAPCOM CO., LTD.",
@@ -17857,9 +17857,9 @@
       "currency": "USD",
       "productId": "9NCG3X89KRLD",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "3 high speed ninja action titles are now available in one package!",
       "developerName": "KOEI TECMO GAMES",
@@ -17982,8 +17982,8 @@
       "currency": "USD",
       "productId": "9PJK9C50MB67",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "The Outer Worlds 2 is the eagerly-awaited sequel to the award-winning first-person sci-fi RPG from Obsidian Entertainment (just look at the exciting number of dashes in this sentence!). Time to clear your calendar – get ready for an action-packed adventure with a new crew, new weapons, and new enemies in a new colony! So much newness!",
       "developerName": "Obsidian Entertainment",
@@ -18030,9 +18030,9 @@
       "currency": "USD",
       "productId": "9MWFTJF7G5XF",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Become Ichiban Kasuga, a low-ranking yakuza grunt left on the brink of death by the man he trusted most. Take up your legendary bat and get ready to crack some underworld skulls in dynamic RPG combat set against the backdrop of modern-day Japan in Yakuza: Like a Dragon.\r\n\r\nYakuza: Like a Dragon Legendary Hero Edition includes Job Set, Crafting Mat Set, Management Mode Set, Karaoke Set, Ultimate Costume Set, and Stat Boost Set DLC.\r\n\r\nRussian and Brazilian Portuguese subtitles available in early 2021 via patch update.\r\n\r\nGame leverages Smart Delivery allowing access to both the Xbox One title and Xbox Series X title when available. Product does not yet have a firm release date. If pre-ordered, you will be notified when the release date is set and opportunity provided to manage your order.",
       "developerName": "Ryu Ga Gotoku Studio",
@@ -18288,9 +18288,9 @@
       "currency": "USD",
       "productId": "9MZ313B6R2C0",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. Experience the intense 4 player co-op narrative campaign, competitive multiplayer as human or Ridden, and frenetic gameplay that keeps you in the action.",
@@ -18661,8 +18661,8 @@
       "currency": "USD",
       "productId": "9NP5H2FRHQ5N",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "",
       "developerName": "ARTDINK CORPORATION",
@@ -19278,8 +19278,8 @@
       "currency": "USD",
       "productId": "9P8PGC771MLP",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Race over 500 real-world cars including modern race cars and more than 100 cars new to Forza Motorsport. Make every lap count across 30 living tracks with multiple layouts to master and fan-favorite locations Fujimi Kaido, Nürburgring Nordschleife and Sunset Peninsula, each featuring live on-track scoring, fully dynamic time-of-day with weather and unique driving conditions that ensure no two laps ever look or play the same. Celebrate 20 Years of Forza Motorsport in the 20th Anniversary Tour and obtain special rewards.",
@@ -19455,8 +19455,8 @@
       "currency": "USD",
       "productId": "9N6KFNS3CKRL",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Go all-in with the Ultimate Edition. Includes all Deluxe content, extra weapons and gear, a Season Pass for future expansions and bonus quest.",
       "developerName": "GSC Game World",
@@ -19746,8 +19746,8 @@
       "currency": "USD",
       "productId": "9PNX7LQ1SB8D",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "South of Midnight is a new action-adventure from Compulsion Games. Learn an ancient weaving power, explore the Deep South mythos and confront mysterious creatures in this folktale for modern times.",
       "developerName": "Compulsion Games",
@@ -19769,9 +19769,9 @@
       "currency": "USD",
       "productId": "9MV5GH8GQM8L",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Play as the vampire Kain and his betrayed lieutenant Raziel. Wield legendary blades, use supernatural abilities, and battle through a world of conflict, intrigue, and prophecy as their paths collide across the dark world of Nosgoth.",
@@ -20787,9 +20787,9 @@
       "currency": "USD",
       "productId": "9MW1HPPBR917",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "The acclaimed Sniper Elite franchise returns with a new lead operative. Infiltrate occupied France and fight alongside the French Resistance to stop the Nazis developing an insidious new wonder weapon that could change the course of the war. (242 characters with spaces)",
@@ -20864,8 +20864,8 @@
       "currency": "USD",
       "productId": "9P1PS99H3GRJ",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "Ryu Ga Gotoku Studio",
@@ -21079,9 +21079,9 @@
       "currency": "USD",
       "productId": "9P4KDC8GXNKW",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "The Shin Megami Tensei V: Vengeance Digital Deluxe Edition bundles the base game with all purchasable DLC content including three Mitama items and two Demon Subquests.",
       "developerName": "ATLUS",
@@ -21237,9 +21237,9 @@
       "currency": "USD",
       "productId": "9NBL72W4SZLV",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Strap into your wingsuit, equip your fully customizable grappling hook, and get ready to bring the thunder! \r\n\r\nJust Cause 4 Gold Edition includes:\r\n- Just Cause 4\r\n- The Expansion Pass\r\n- Golden Gear Pack\r\n- ‘Skystriker’ Weaponized Wingsuit\r\n- Black Hand Stealth Micro Jet\r\n- Neon Racer Pack\r\n- Deathstalker Scorpion Pack\r\n- Renegade Pack\r\n",
@@ -21907,9 +21907,9 @@
       "currency": "USD",
       "productId": "9N7HLTLQW48R",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Ungodly is a dark fantasy RPG where visceral real-time combat meets collectible hero strategy. Build your roster, chain elemental powers through seamless team swapping, and forge bonds that unlock devastating synergies in a world on the edge of ruin.",
       "developerName": "Azra Games, Inc.",
@@ -21931,9 +21931,9 @@
       "currency": "USD",
       "productId": "9P9SF1VCFPBD",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "The Heart of Darkness Collection is the ultimate Legacy of Kain experience, bringing together Defiance Remastered Deluxe Edition and Ascendance. ",
       "developerName": "Crystal Dynamics, PlayEveryWare, Bit Bot Media",
@@ -22192,9 +22192,9 @@
       "currency": "USD",
       "productId": "9N1X7CD94CHM",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "State of Decay 2: Ultimate Edition includes early access to the full game four days before the standard release date, a code for the original Xbox State of Decay: Year One Survival Edition on console, and a code for two add-on content packs*: Independence Pack and Daybreak Pack.",
@@ -23488,8 +23488,8 @@
       "currency": "USD",
       "productId": "9N5XVTVJNLHF",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "",
@@ -23697,8 +23697,8 @@
       "currency": "USD",
       "productId": "9N7J4DKK7V15",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Pursue your aviation career throughout the world with dynamically-generated missions ranging from Medevac and Search & Rescue to Aerial Firefighting and Passenger Transport. Compete against other pilots in the iconic Reno and Red Bull Air Races. Enhanced physics and aircraft systems and a groundbreaking flight planner create an unparalleled simulation experience. Explore the most detailed digital twin of the world to date with real-time air and ship traffic and a vast array of animals. Set out on your global adventure with our largest fleet of aircraft as Microsoft Flight Simulator 2024 takes simulation to new heights of authenticity and realism.",
@@ -23928,9 +23928,9 @@
       "currency": "USD",
       "productId": "9N595SMP9XJC",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Choose the Deluxe Edition to experience a host of new and exclusive behind-the-scenes bonus content celebrating the return of Max and Chloe!\n\nThe Life is Strange: Reunion Deluxe Edition contains:\n\n• Life is Strange: Reunion - the complete game\n• Digital Mini Soundtrack\n• Digital Art Book\n• Digital Comic\n• Exclusive Behind the Scenes Documentary with Hannah Telle and Rhianna DeVries",
       "developerName": "Deck Nine Games",
@@ -24113,8 +24113,8 @@
       "currency": "USD",
       "productId": "9N2Q1NCX7HVC",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Take the battle to Arthur in style with Deluxe Edition, giving you access to the ultimate collection of cosmetic upgrades for SWORN.",
@@ -24244,8 +24244,8 @@
       "currency": "USD",
       "productId": "9N7MNF1QC3X4",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Pursue your aviation career throughout the world with dynamically-generated missions ranging from Medevac and Search & Rescue to Aerial Firefighting and Passenger Transport. Compete against other pilots in the iconic Reno and Red Bull Air Races. Enhanced physics and aircraft systems and a groundbreaking flight planner create an unparalleled simulation experience. Explore the most detailed digital twin of the world to date with real-time air and ship traffic and a vast array of animals. Set out on your global adventure with our largest fleet of aircraft as Microsoft Flight Simulator 2024 takes simulation to new heights of authenticity and realism.",
@@ -24320,8 +24320,8 @@
       "currency": "USD",
       "productId": "9NRVQSNK91GK",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Remnant II® pits survivors of humanity against new deadly creatures and god-like bosses across terrifying worlds. Play solo or co-op with two other friends to explore the depths of the unknown to stop an evil from destroying reality itself.",
@@ -24681,9 +24681,9 @@
       "currency": "USD",
       "productId": "9P083RDJ4CBM",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Get two game expansions at a reduced price! This bundle gives you access to the Fortune Island and LEGO® Speed Champions game expansions. This add-on requires Forza Horizon 4 (game sold separately).",
       "developerName": "Playground Games",
@@ -24730,8 +24730,8 @@
       "currency": "USD",
       "productId": "9NFHQ2719J83",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Premium Edition includes:  \n- Avowed base game  \n- Up to 5 days early access \n- Two Premium Skin Packs  \n- Access to Avowed Digital Artbook & Original Soundtrack ",
       "developerName": "Obsidian Entertainment",
@@ -25836,8 +25836,8 @@
       "currency": "USD",
       "productId": "9P50G4HDZJSH",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
       "developerName": "CAPCOM CO., LTD.",
@@ -26044,8 +26044,8 @@
       "currency": "USD",
       "productId": "9P1J1N46CJRG",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "",
@@ -27757,9 +27757,9 @@
       "currency": "USD",
       "productId": "9NXDK13188ZV",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Purchase the Digital Deluxe Edition to skate as the Doom Slayer and rip and tear through a ton of additional content.\n\nGet hyped for the legendary franchise to return with Tony Hawk’s™ Pro Skater™ 3 + 4. Everything you loved is back, but revamped with more skaters, new parks, gnarlier tricks, eardrum shattering music, plus a whole lot more.",
@@ -28041,8 +28041,8 @@
       "currency": "USD",
       "productId": "9MXF0F1L4P8H",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Dig your claws into the complete Metal: Hellsinger experience with the base game and all DLCs, containing more original and licensed music, new weapons, and new outfits.",
@@ -28572,9 +28572,9 @@
       "currency": "USD",
       "productId": "9NDRFJPJFX5X",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "A Turn-Based Tactics game set in Viking-Age Norway. Build a settlement, forge alliances, and fight strategic battles. Manage a community of craftspeople, farmers, and warriors, as you grow strong on your path to vengeance in this story-rich saga.",
       "developerName": "Arctic Hazard",
@@ -29392,8 +29392,8 @@
       "currency": "USD",
       "productId": "9NH8N0M7CWLN",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "From light planes to wide body jets to gliders and helicopters, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.\r\n\r\nThe Deluxe 40th Anniversary Edition includes everything from the Standard Edition plus 5 additional highly accurate planes with unique flight models and 5 additional handcrafted international airports.\r\n",
@@ -29469,8 +29469,8 @@
       "currency": "USD",
       "productId": "9NQ4097N5GSB",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Live the ultimate challenge with RIDE 6 - Ultimate Edition. In addition to the full game, you'll get Season Pass Vol. 1 and Vol. 2 and you will obtain bikes, tracks and extra Career areas as soon as they become available.",
@@ -29908,8 +29908,8 @@
       "currency": "USD",
       "productId": "9N82RH54R2K3",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Check it, clean it, sort it, ship it. Don't just take jobs from underworld contacts and clean some cash, but do it in style with additional cosmetics and even a new money gun as you upgrade your base game of Cash Cleaner Simulator with three expansive DLCs...",
@@ -30039,9 +30039,9 @@
       "currency": "USD",
       "productId": "9MZ0SR207MG8",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "The Forza Horizon 5 Premium Add-Ons Bundle includes Forza Horizon 5: Rally Adventure, Forza Horizon 5: Hot Wheels, VIP, Car Pass and the Welcome Pack. This add-on requires Forza Horizon 5 (game sold separately).",
       "developerName": "Playground Games",
@@ -30277,9 +30277,9 @@
       "currency": "USD",
       "productId": "9NF72HCBTH51",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Alex Chen must embrace her volatile psychic power of Empathy to uncover the truth about her brother's death. Get the Deluxe Edition to play as Steph in the all-new story 'Wavelengths', plus 4 exclusive Life is Strange hero outfits for Alex. ",
@@ -30981,9 +30981,9 @@
       "currency": "USD",
       "productId": "9PF4B4MD1QZC",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Fast-paced isometric team PVP looter where every item you find changes everything. Adapt your playstyle, build on the fly and fight your way up to the top of the Tower.",
       "developerName": "Bonfire Studios",
@@ -31718,8 +31718,8 @@
       "currency": "USD",
       "productId": "9PPDC1GHF831",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The Outer Worlds 2 is the eagerly-awaited sequel to the award-winning first-person sci-fi RPG from Obsidian Entertainment (just look at the exciting number of dashes in this sentence!). Time to clear your calendar – get ready for an action-packed adventure with a new crew, new weapons, and new enemies in a new colony! So much newness!",
@@ -31948,9 +31948,9 @@
       "currency": "USD",
       "productId": "9P858BX7N341",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "The shadows are your ally. Return to the city as Garrett, master thief, in this remastered classic by Nightdive Studios. Pickpocket, prowl, and outsmart in a world where trust is a luxury and every stolen secret comes at a price.",
       "developerName": "Nightdive Studios",
@@ -32161,8 +32161,8 @@
       "currency": "USD",
       "productId": "9NFP1HC2JXX2",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "NeoBards Entertainment Ltd.",
@@ -32389,8 +32389,8 @@
       "currency": "USD",
       "productId": "9PHCZKD437VM",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "Everything a trucker needs to start a career among the stars, in one place!",
@@ -33048,9 +33048,9 @@
       "currency": "USD",
       "productId": "9NRJV9RPS97D",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "The second title in the Katamari Damacy series has returned in a remastered, powered-up version!\r\n\r\nWe Love Katamari REROLL+ Royal Reverie is a fully remastered version of We Love Katamari Damacy, originally released in 2005, with new and improved graphics and gameplay enhancements to make it easier to jump in and have fun.\r\n\r\nThe Special Edition contains We Love Katamari REROLL+ Royal Reverie, the Little Prince Costume, and the Katamari Damacy Series Music Bundle.",
       "developerName": "MONKEYCRAFT Co. Ltd.",
@@ -33752,9 +33752,9 @@
       "currency": "USD",
       "productId": "9N8Z1ZL33LM9",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Eiyuden Chronicles: Hundred Heroes is designed to bring players a modern take on a classic JRPG experience. Get ready to lead 100+ playable characters through a war-torn world only you can save.  ",
@@ -34625,9 +34625,9 @@
       "currency": "USD",
       "productId": "9NQT1336LCNZ",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "Handheld"
       ],
       "description": "The celebrated RPG classic comes West for the first time! Romancing SaGa™ 3 was originally released in Japan in 1995. This HD remaster of the legendary RPG masterpiece introduces optimized graphics, a new dungeon  to explore, new scenarios and a new game+ function.",
@@ -34812,9 +34812,9 @@
       "currency": "USD",
       "productId": "9MTC0Z5TMCQ9",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Hot Wheels Monster Trucks: Stunt Mayhem™ Deluxe Edition is the definitive arcade Monster Trucks experience combining the full game with the exclusive Treasure Hunt Pack digital content.",
@@ -34837,9 +34837,9 @@
       "currency": "USD",
       "productId": "9P1K4FCX2SB9",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Includes Monster Hunter Rise and the Deluxe Kit content in one package!",
       "developerName": "CAPCOM CO., LTD.",
@@ -34935,8 +34935,8 @@
       "currency": "USD",
       "productId": "9N24GBXKDFXN",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "The Deluxe Edition of Nicktoons & The Dice of Destiny includes the full game plus the Wardrobe of Wonder Pack - 9 dazzling new costumes that reimagine each hero with extra flair and fantasy style. Gear up, cast spells, and let your destiny shine!",
@@ -34984,9 +34984,9 @@
       "currency": "USD",
       "productId": "9PKZZT5HXJ8C",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Laundering Simulator puts you in charge of a two-faced enterprise – a hidden counterfeiting workshop with a laundromat as its front! Help Eddie Wiser run this crazy show and deal with small-business management, a criminal underground, nosy authorities, and a rage-inducing grandmother!",
       "developerName": "Ritual Interactive",
@@ -35931,9 +35931,9 @@
       "currency": "USD",
       "productId": "9NBB9H2P6K9S",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Miraculous: Paris Under Siege - Deluxe Edition contains the base game,  as well as an exclusive Digital Art Book, two new outfits, and two new visual effects for Ladybug and Cat Noir.",
@@ -36063,9 +36063,9 @@
       "currency": "USD",
       "productId": "9N0SR4KP0DRG",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Explore isometric dungeons and master evolving skills in a classic JRPG",
       "developerName": "WorldWideSoftware",
@@ -37767,8 +37767,8 @@
       "currency": "USD",
       "productId": "9PGDZZVNH4RC",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "A Metroidvania x Roguelite where you journey with the aid of a cursed hat. Use a variety of magic or possess your enemies to reach the lowest levels! Bring back loot, build new facilities in your village, make a living and strengthen yourself for the next battle! Supports up to 4-player multiplayer.",
       "developerName": "Frontside 180",
@@ -37816,8 +37816,8 @@
       "currency": "USD",
       "productId": "9P8T78T2D9ZW",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "",
@@ -38479,8 +38479,8 @@
       "currency": "USD",
       "productId": "9NN01GMBGV56",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The Deluxe Edition of Hot Wheels Let's Race™: Ultimate Speed includes the full game plus the High Voltage Speed Pack. Race the futuristic Power Surge and sleek Mach Speeder, build with electrified track parts, and customize with 6 exclusive high-tech decals. Get ready to light up the track!",
@@ -38797,9 +38797,9 @@
       "currency": "USD",
       "productId": "9PHD73MH05F4",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "",
       "developerName": "Halberd Studios",
@@ -38874,9 +38874,9 @@
       "currency": "USD",
       "productId": "9MZ3LCM4503G",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "In addition to Kingdom Two Crowns, this edition includes Call of Olympus, the latest major expansion set in ancient Greece!",
@@ -39575,8 +39575,8 @@
       "currency": "USD",
       "productId": "9NT9204DGTS8",
       "availableOn": [
-        "XboxSeriesX",
         "PC",
+        "XboxSeriesX",
         "XCloud"
       ],
       "description": "FBC: Firebreak is a cooperative first-person shooter set within a mysterious federal agency under assault by otherworldly forces.",
@@ -40732,9 +40732,9 @@
       "currency": "USD",
       "productId": "9PLSN722F700",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Featuring the all-new Management Career, a bigger and better Pro Team, in-depth Ashes mode, and expanded control on and off the field from enhanced gameplay and in-depth strategies - Cricket 26 is The Ultimate Showdown. ",
@@ -40918,9 +40918,9 @@
       "currency": "USD",
       "productId": "9NPJKMCSJR0D",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Saddle up to the arcade and take the streets of Cypress Ridge by storm in online co-op survival horror! This bundle features brand new DLC which is also available for purchase separately.",
       "developerName": "Dead Drop Studios LLC",
@@ -41366,9 +41366,9 @@
       "currency": "USD",
       "productId": "9NZDL3CL3VM4",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "At Fate’s End is an action-adventure game where you fight the ones you love and your skill tree is your family tree. Explore a lush fantasy world, defeat the foul creatures of the realm, and face your estranged siblings in intense, emotional duels to decide your family’s fate.",
       "developerName": "Thunder Lotus",
@@ -42348,9 +42348,9 @@
       "currency": "USD",
       "productId": "9MWS5X8ZRL7V",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Adventure through the Shadow Realm with three princesses!",
@@ -43864,9 +43864,9 @@
       "currency": "USD",
       "productId": "9NZTPBMRZ572",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Bake, style, and shine in the ultimate beauty simulator collection!",
       "developerName": "QubicGames",
@@ -43888,9 +43888,9 @@
       "currency": "USD",
       "productId": "9NWKLZT5R7VG",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Enjoy 4 fantasy adventures at once!",
       "developerName": "Exe Create Inc.",
@@ -44264,9 +44264,9 @@
       "currency": "USD",
       "productId": "9NL75K01XDG5",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Enhance your Evil Empire with the Deluxe Edition of Evil Genius 2!  This version includes the Season Pass.\r\n\r\nIncluded in the Season Pass:\r\n• 1 Campaign Pack\r\n• 1 Lair Items Pack\r\n• 2 Henchmen Packs\r\n• 2 Minion Packs",
@@ -44289,9 +44289,9 @@
       "currency": "USD",
       "productId": "9P4SN1F2ZR1Q",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Celebrate special moments with cats and friends! This cozy bundle includes three Meow Moments games, each with two festive scenes to explore.",
       "developerName": "Mens Sana Interactive",
@@ -44894,9 +44894,9 @@
       "currency": "USD",
       "productId": "9NJDR4G93TH4",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home.",
@@ -46388,9 +46388,9 @@
       "currency": "USD",
       "productId": "9PHF1VFSTHWZ",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Experience epic RPG adventures at once! This bundle includes Asdivine Hearts and Asdivine Hearts II.",
       "developerName": "EXE-CREATE",
@@ -47152,9 +47152,9 @@
       "currency": "USD",
       "productId": "9P5MFG9SBG9K",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Enjoy 4 fantasy adventures at once!",
       "developerName": "Exe Create Inc.",
@@ -48125,9 +48125,9 @@
       "currency": "USD",
       "productId": "9NHJ2R55Z7TS",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Enjoy 4 fantasy adventures at once!",
       "developerName": "Hit-Point",
@@ -48566,9 +48566,9 @@
       "currency": "USD",
       "productId": "9PLZB3GX6CHX",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Race with your friends on waterslides and jump into the pool for victory!",
@@ -48798,9 +48798,9 @@
       "currency": "USD",
       "productId": "9NS5XFZ8QQ9S",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Conquer territory solo or beat your friends in multiplayer mode!",
@@ -49539,9 +49539,9 @@
       "currency": "USD",
       "productId": "9NMHK7T44J8W",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Enjoy 4 fantasy adventures at once!",
       "developerName": "Exe Create Inc.",
@@ -50019,9 +50019,9 @@
       "currency": "USD",
       "productId": "9PBR7H3BNMDC",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "The first chapter of the modern old school survival horror saga, rebuilt in Unreal Engine 5. Same ruthless tension, sharper everything.",
       "developerName": "Stormind Games",
@@ -51197,9 +51197,9 @@
       "currency": "USD",
       "productId": "9N0T3PFG2T00",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "Shiny Shoe",
@@ -51301,8 +51301,8 @@
       "currency": "USD",
       "productId": "9NS8Q9PKVXCJ",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "",
@@ -51538,9 +51538,9 @@
       "currency": "USD",
       "productId": "9N586WW79MS3",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "Happy Player",
@@ -52903,9 +52903,9 @@
       "currency": "USD",
       "productId": "9P0XMJ74K75C",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Enjoy that warm and fuzzy feeling— literally!  This bundle includes new content that is also available for purchase separately.  This bundle is only available for a limited time.",
       "developerName": "Dead Drop Studios LLC",
@@ -54197,9 +54197,9 @@
       "currency": "USD",
       "productId": "9P3DD7NHBHZQ",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "A mature take on Cinderella that's all about player choices and shaping the famous fairy tale in any way you like. \r\n\r\nCinders is a witty young woman living with an overbearing stepmother and her two daughters, as if she was reenacting a certain well-known fairy tale. But unlike its protagonist, Cinders is not afraid of taking fate into her own hands. Even if it means breaking the rules... \r\n",
@@ -55241,9 +55241,9 @@
       "currency": "USD",
       "productId": "9NQNX4MGWSHG",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "A cozy narrative farming sim set in a hidden mountain village. Grow crops, cook, fish, and build heartfelt relationships as you struggle to find your place among a close-knit community.",
       "developerName": "CINNADEV",
@@ -56651,9 +56651,9 @@
       "currency": "USD",
       "productId": "9P7CFHVM9PZ2",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Online co-op survival horror returns in this early 2000s-inspired, undead apocalyptic nightmare. This founders edition is a limited time offering containing the core game, standalone prequel, and starter DLC packs.",
       "developerName": "Dead Drop Studios LLC",
@@ -57091,9 +57091,9 @@
       "currency": "USD",
       "productId": "9N74G6B9G7Q2",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Explore ancient ruins with the alchemist Noah and her trusty cat companion!\r\nCreate unique teams and combos from 40+ recruitable allies in this casual but compelling game!\r\n",
@@ -57304,8 +57304,8 @@
       "currency": "USD",
       "productId": "9NW88Q1MKTM6",
       "availableOn": [
-        "PC",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "",
       "developerName": "ATLUS",
@@ -57544,8 +57544,8 @@
       "currency": "USD",
       "productId": "9PNR1VKQR1N7",
       "availableOn": [
-        "PC",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "The Deluxe Edition includes the base game, soundtrack, artbook, and printable extras.",
@@ -60331,9 +60331,9 @@
       "currency": "USD",
       "productId": "9P5T90GT4LWQ",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "XCloud"
       ],
       "description": "Face off against a dozen opponents in an ultimate golf battle royale, or invite friends to play in multiplayer mode for up to 4 players!",
@@ -60738,9 +60738,9 @@
       "currency": "USD",
       "productId": "9NWBL5RPKV4M",
       "availableOn": [
+        "PC",
         "XboxOne",
         "XboxSeriesX",
-        "PC",
         "XCloud"
       ],
       "description": "Includes the original StickType game along with all three new DLCs: StickLady, Challenge, and Colors.",
@@ -61244,9 +61244,9 @@
       "currency": "USD",
       "productId": "9MT9WXV6RZWC",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Hollow Home is a narrative survival RPG set in a city under occupation. Learn to adapt, choose who to trust and make decisions that carry real weight. No weapons, no battles and no easy answers.",
       "developerName": "Twigames",
@@ -62589,9 +62589,9 @@
       "currency": "USD",
       "productId": "9P10JGHRZ69S",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Bobo and the Chest of Nightmares is a Dark 3D Collectathon platformer that mixes fluid acrobatics, light combat, and secret-hunting inside a twisted carnival of dreams. ",
       "developerName": "Polycast Labs",
@@ -63022,9 +63022,9 @@
       "currency": "USD",
       "productId": "9P40542LMBWP",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "The Road of Dust and Sorrow is a tense, story-driven pixel art horror inspired by ’90s classics. Survive a world gone wrong and protect what matters most: your daughter.",
       "developerName": "Painted Black Games ",
@@ -63349,9 +63349,9 @@
       "currency": "USD",
       "productId": "9MX37BG3RMX9",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "A psychological narrative adventure where every small decision shapes reality and the path through one heavy morning.",
       "developerName": "Saf Interactive",
@@ -63373,9 +63373,9 @@
       "currency": "USD",
       "productId": "9PCQGH15713F",
       "availableOn": [
-        "PC",
         "XboxOne",
         "XboxSeriesX",
+        "PC",
         "Handheld"
       ],
       "description": "Play as Tristan and solve puzzles to recover human consciousnesses in the year 2071. Investigate environments, uncover secrets, and make choices that affect the ending. Explore a neon-noir world with a low poly aesthetic inspired by the 90s.",
@@ -63540,9 +63540,9 @@
       "currency": "USD",
       "productId": "9P68RSXP9VNV",
       "availableOn": [
-        "PC",
         "XboxOne",
-        "XboxSeriesX"
+        "XboxSeriesX",
+        "PC"
       ],
       "description": "Protect Earth and her colonies in a roguelike deckbuilder inspired by ’90s mech anime and Greek mythology. In MECHBORN - YOUR MECH IS YOUR DECK - Unlock mech parts and pilots, craft custom decks and unleash devastating combos as you fight to repel the Kaiju incursions!",
       "developerName": "Turtle Juice",
@@ -65650,9 +65650,9 @@
       "currency": "USD",
       "productId": "9PLSQ6NTN6P1",
       "availableOn": [
+        "PC",
         "XboxOne",
-        "XboxSeriesX",
-        "PC"
+        "XboxSeriesX"
       ],
       "description": "Step into mystery in The Orphaned House. Explore its rooms, manipulate the environment to solve puzzles, and follow your intuition to uncover every hidden secret in this atmospheric adventure game.",
       "developerName": "Charm Games",
@@ -68234,8 +68234,8 @@
       "currency": "USD",
       "productId": "9NRWGQPH6QPG",
       "availableOn": [
-        "XboxSeriesX",
-        "PC"
+        "PC",
+        "XboxSeriesX"
       ],
       "description": "Get the Deluxe Edition of Gear.Club Unlimited 3 and enjoy bonus content. Customize your favourite cars for speeding along the roads of France and Japan. Be the best while showing off your style!",
       "developerName": "Eden Games",
