@@ -284,16 +284,11 @@ def get_all_xpa_games():
     if not all_games:
         raise RuntimeError("API 未返回任何游戏，保留现有数据文件")
 
-    # Xbox API 的产品和平台顺序可能在请求之间变化。发布前标准化顺序，
-    # 避免无语义变化的每日提交，同时让前后快照便于 review。
+    # 平台数组本身没有展示顺序语义；游戏列表则必须保留 Xbox API 的原始顺序。
     for game in all_games:
         available_on = game.get('availableOn', [])
         if isinstance(available_on, list):
             game['availableOn'] = sorted(set(available_on))
-    all_games.sort(key=lambda game: (
-        str(game.get('productId') or '').lower(),
-        str(game.get('title') or game.get('name') or '').lower()
-    ))
     
     # 保存处理后的数据
     output_data = {

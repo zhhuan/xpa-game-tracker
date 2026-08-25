@@ -54,12 +54,8 @@ def tag_new_games(current_games, previous_games):
 
         tagged_games.append(game)
 
-    tagged_games.sort(
-        key=lambda game: (
-            not game.get("isNew", False),
-            str(game.get("title") or game.get("name") or "").lower(),
-        )
-    )
+    # Python 的排序是稳定的：只按“是否新增”分组，不改变 API 返回的相对顺序。
+    tagged_games.sort(key=lambda game: not game.get("isNew", False))
     return tagged_games, new_games
 
 
