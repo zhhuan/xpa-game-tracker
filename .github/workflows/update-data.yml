@@ -9,6 +9,7 @@ permissions:
   actions: write
   contents: write
   pull-requests: write
+  statuses: write
 
 concurrency:
   group: update-xpa-data
@@ -65,8 +66,56 @@ jobs:
           else
             echo "Updated existing data PR #$pr_number"
           fi
-      - name: Trigger validation for data branch
+      - name: Validate data branch and publish required status
         if: steps.data-update.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run ci.yml --ref codex/data-update
+        run: |
+          sha="$(git rev-parse HEAD)"
+          status_api="repos/$GITHUB_REPOSITORY/statuses/$sha"
+
+          gh api --method POST "$status_api" \
+            -f state=pending \
+            -f context=validate \
+            -f description="Validate workflow is running"
+
+          gh workflow run ci.yml --ref codex/data-update
+
+          run_id=""
+          for attempt in {1..12}; do
+            run_id="$(gh run list \
+              --workflow ci.yml \
+              --branch codex/data-update \
+              --event workflow_dispatch \
+              --commit "$sha" \
+              --limit 1 \
+              --json databaseId \
+              --jq '.[0].databaseId')"
+            if [ -n "$run_id" ]; then
+              break
+            fi
+            sleep 5
+          done
+
+          if [ -z "$run_id" ]; then
+            gh api --method POST "$status_api" \
+              -f state=error \
+              -f context=validate \
+              -f description="Validate workflow did not start"
+            exit 1
+          fi
+
+          if gh run watch "$run_id" --exit-status --interval 10; then
+            gh api --method POST "$status_api" \
+              -f state=success \
+              -f context=validate \
+              -f description="Validate workflow passed" \
+              -f target_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$run_id"
+          else
+            gh api --method POST "$status_api" \
+              -f state=failure \
+              -f context=validate \
+              -f description="Validate workflow failed" \
+              -f target_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$run_id"
+            exit 1
+          fi
