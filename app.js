@@ -244,19 +244,18 @@ function sortGames(games) {
             
         case 'default':
         default:
-            // 默认排序：新游戏排在最前面，然后按发布日期倒序
+            // 默认排序：新增游戏优先，其次是没有发售日期的游戏；
+            // 各组内部保持数据文件（Xbox API）的原始顺序。
             return sortedGames.sort((a, b) => {
-                // 新游戏优先级更高
-                const aIsNew = a.isNew || false;
-                const bIsNew = b.isNew || false;
-                
-                if (aIsNew && !bIsNew) return -1; // a是新游戏，排前面
-                if (!aIsNew && bIsNew) return 1;  // b是新游戏，排前面
-                
-                // 如果都是新游戏或都是旧游戏，按发布日期倒序
-                const dateA = a.releaseDate ? new Date(a.releaseDate) : new Date('9999-12-31');
-                const dateB = b.releaseDate ? new Date(b.releaseDate) : new Date('9999-12-31');
-                return dateB - dateA; // 新到旧
+                const group = game => {
+                    if (game.isNew) return 0;
+                    const releaseDate = typeof game.releaseDate === 'string'
+                        ? game.releaseDate.trim()
+                        : '';
+                    return releaseDate ? 2 : 1;
+                };
+
+                return group(a) - group(b);
             });
     }
 }

@@ -35,6 +35,24 @@ def validate_games_file(path):
     return len(games)
 
 
+def validate_published_default_order(path):
+    with path.open("r", encoding="utf-8") as handle:
+        games = json.load(handle)["games"]
+
+    def group(game):
+        if game.get("isNew", False):
+            return 0
+        if not str(game.get("releaseDate") or "").strip():
+            return 1
+        return 2
+
+    groups = [group(game) for game in games]
+    if groups != sorted(groups):
+        raise ValueError(
+            "games_with_new_markers.json 默认顺序必须为：新增、无发售日期、正常游戏"
+        )
+
+
 def main():
     for relative_path in REQUIRED_FILES:
         if not (ROOT / relative_path).is_file():
@@ -45,6 +63,7 @@ def main():
     published_count = counts["games_with_new_markers.json"]
     if current_count != published_count:
         raise ValueError("games.json 与发布版游戏数量不一致")
+    validate_published_default_order(DATA_FILES[2])
 
     print("项目验证通过")
     for name, count in counts.items():

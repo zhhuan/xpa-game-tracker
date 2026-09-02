@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
+  pull-requests: write
 
 concurrency:
   group: update-xpa-data
@@ -16,8 +18,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -25,14 +27,46 @@ jobs:
         run: pip install -r requirements.txt
       - name: Fetch and compare XPA data
         run: python update_xpa_data.py
-      - name: Commit changed data
+      - name: Commit data to update branch
+        id: data-update
         run: |
           if git diff --quiet -- data; then
             echo "No data changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c codex/data-update
           git add data/games.json data/games.previous.json data/games_with_new_markers.json
           git commit -m "chore(data): update XPA game catalog"
-          git push
+          git fetch origin codex/data-update:refs/remotes/origin/codex/data-update || true
+          git push --force-with-lease origin HEAD:codex/data-update
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Create or update data pull request
+        if: steps.data-update.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pr_number="$(gh pr list \
+            --head codex/data-update \
+            --base main \
+            --state open \
+            --json number \
+            --jq '.[0].number')"
+
+          if [ -z "$pr_number" ]; then
+            gh pr create \
+              --head codex/data-update \
+              --base main \
+              --title "chore(data): update XPA game catalog" \
+              --body "Automated daily XPA catalog update. Review and merge after the Validate check passes."
+          else
+            echo "Updated existing data PR #$pr_number"
+          fi
+      - name: Trigger validation for data branch
+        if: steps.data-update.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run ci.yml --ref codex/data-update
