@@ -13,6 +13,8 @@ DATA_DIR = Path("data")
 CURRENT_FILE = DATA_DIR / "games.json"
 PREVIOUS_FILE = DATA_DIR / "games.previous.json"
 PREVIOUS_BACKUP_FILE = DATA_DIR / "games.previous.json.tmp"
+PUBLISHED_FILE = DATA_DIR / "games_with_new_markers.json"
+PUBLISHED_BACKUP_FILE = DATA_DIR / "games_with_new_markers.json.tmp"
 
 
 def run(script):
@@ -38,8 +40,11 @@ def main():
 
     DATA_DIR.mkdir(exist_ok=True)
     had_previous = PREVIOUS_FILE.exists()
+    had_published = PUBLISHED_FILE.exists()
     if had_previous:
         shutil.copy2(PREVIOUS_FILE, PREVIOUS_BACKUP_FILE)
+    if had_published:
+        shutil.copy2(PUBLISHED_FILE, PUBLISHED_BACKUP_FILE)
     shutil.copy2(CURRENT_FILE, PREVIOUS_FILE)
 
     try:
@@ -58,9 +63,12 @@ def main():
         shutil.copy2(PREVIOUS_FILE, CURRENT_FILE)
         if had_previous:
             shutil.copy2(PREVIOUS_BACKUP_FILE, PREVIOUS_FILE)
+        if had_published:
+            shutil.copy2(PUBLISHED_BACKUP_FILE, PUBLISHED_FILE)
         raise
     finally:
         PREVIOUS_BACKUP_FILE.unlink(missing_ok=True)
+        PUBLISHED_BACKUP_FILE.unlink(missing_ok=True)
 
 
 if __name__ == "__main__":

@@ -54,8 +54,16 @@ def tag_new_games(current_games, previous_games):
 
         tagged_games.append(game)
 
-    # Python 的排序是稳定的：只按“是否新增”分组，不改变 API 返回的相对顺序。
-    tagged_games.sort(key=lambda game: not game.get("isNew", False))
+    def default_group(game):
+        if game.get("isNew", False):
+            return 0
+        if not str(game.get("releaseDate") or "").strip():
+            return 1
+        return 2
+
+    # Python 的排序是稳定的：依次放置新增、无发售日期、正常游戏，
+    # 同组内不改变 Xbox API 返回的相对顺序。
+    tagged_games.sort(key=default_group)
     return tagged_games, new_games
 
 

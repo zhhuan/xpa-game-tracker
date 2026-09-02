@@ -284,6 +284,24 @@ def get_all_xpa_games():
     if not all_games:
         raise RuntimeError("API 未返回任何游戏，保留现有数据文件")
 
+    # 分页过程中目录可能实时变化，Xbox API 偶尔会让同一产品跨页重复出现。
+    # 按首次出现去重，从而保留 API 原始相对顺序。
+    unique_games = []
+    seen_game_keys = set()
+    duplicate_count = 0
+    for game in all_games:
+        product_id = str(game.get('productId') or '').strip().lower()
+        title = str(game.get('title') or game.get('name') or '').strip().lower()
+        game_key = f'id:{product_id}' if product_id else f'title:{title}'
+        if game_key in seen_game_keys:
+            duplicate_count += 1
+            continue
+        seen_game_keys.add(game_key)
+        unique_games.append(game)
+    all_games = unique_games
+    if duplicate_count:
+        print(f"⚠️  已按首次出现顺序移除 {duplicate_count} 条分页重复记录")
+
     # 平台数组本身没有展示顺序语义；游戏列表则必须保留 Xbox API 的原始顺序。
     for game in all_games:
         available_on = game.get('availableOn', [])
