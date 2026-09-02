@@ -1,144 +1,36 @@
 {
-  "totalGames": 2647,
-  "newGamesCount": 5,
-  "taggingDate": "2026-09-02T12:20:51.284150+00:00",
+  "totalGames": 2648,
+  "newGamesCount": 1,
+  "taggingDate": "2026-09-02T12:52:50.418413+00:00",
   "games": [
     {
-      "name": "Lawn Mowing Simulator 2",
-      "title": "Lawn Mowing Simulator 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.10978.13801124939846654.125ed513-ea58-4ecf-b66e-1161ab635bc9.88418781-27f6-4cf9-a1fe-6008db518bdd",
-      "url": "https://www.xbox.com/en-US/games/lawn-mowing-simulator-2",
+      "name": "Blades & Battles",
+      "title": "Blades & Battles",
+      "image": "https://store-images.s-microsoft.com/image/apps.16951.14630288836813338.3c5e6b01-8b0a-4d7e-9785-d778d0156774.d09bd265-1e14-45c9-9a78-0938d36cb956",
+      "url": "https://www.xbox.com/en-US/games/blades-&-battles",
       "releaseDate": "",
       "rating": 0.0,
-      "categories": [
-        "Simulation"
-      ],
-      "developer": "Skyhook Games",
-      "publisher": "Skyhook Games",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9MTV43N5JJMH",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Head to the USA and grow your own business with a realistic and relaxing lawn mowing experience! Featuring brand new grass tech, the addition of leaf-blowing plus reworked systems based on player feedback to the original - including licensed equipment from Kubota, STIGA and SCAGⓇ!",
-      "developerName": "Skyhook Games",
-      "publisherName": "Skyhook Games",
-      "isNew": true,
-      "firstSeenDate": "2026-09-02T12:20:51.281149+00:00"
-    },
-    {
-      "name": "Hatsune Miku Logic Paint S+",
-      "title": "Hatsune Miku Logic Paint S+",
-      "image": "https://store-images.s-microsoft.com/image/apps.46563.13766401333538127.ef4026f6-a394-4042-9956-7e9b79e03777.e5e3777b-123c-417e-a5f2-3dd8b1d153ed",
-      "url": "https://www.xbox.com/en-US/games/hatsune-miku-logic-paint-s+",
-      "releaseDate": "2025-07-24",
-      "rating": 4.8,
-      "categories": [
-        "Puzzle & trivia",
-        "Music",
-        "Educational"
-      ],
-      "developer": "Crypton Future Media",
-      "publisher": "Crypton Future Media",
-      "price": 14.99,
-      "currency": "USD",
-      "productId": "9NQN5ZSBM2S8",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Hatsune Miku Logic Paint S+ is coming to Microsoft Store!",
-      "developerName": "Crypton Future Media",
-      "publisherName": "Crypton Future Media",
-      "isNew": true,
-      "firstSeenDate": "2026-09-02T12:20:51.281149+00:00"
-    },
-    {
-      "name": "The Quiet Things",
-      "title": "The Quiet Things",
-      "image": "https://store-images.s-microsoft.com/image/apps.44102.13910372811170556.737e2fe4-759e-4766-a7bf-5fa829fe1513.d341482f-0283-42e5-9941-e5dcb057d17f",
-      "url": "https://www.xbox.com/en-US/games/the-quiet-things",
-      "releaseDate": "2026-06-04",
-      "rating": 5.0,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Silver Script Games",
-      "publisher": "Silver Script Games",
-      "price": 24.99,
-      "currency": "USD",
-      "productId": "9N18FMWMPGZP",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The Quiet Things is an autobiographical game about creators Alyx Jones’s personal experiences growing up in childhood abuse. \n\nExplore beautifully recreated environments to uncover the story through objects and diary entries.\n\nUltimately, it’s a game about empathy and hope.",
-      "developerName": "Silver Script Games",
-      "publisherName": "Silver Script Games",
-      "isNew": true,
-      "firstSeenDate": "2026-09-02T12:20:51.281149+00:00"
-    },
-    {
-      "name": "Moonlighter 2: The Endless Vault",
-      "title": "Moonlighter 2: The Endless Vault",
-      "image": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
-      "url": "https://www.xbox.com/en-US/games/moonlighter-2-the-endless-vault",
-      "releaseDate": "2026-09-02",
-      "rating": 4.2,
       "categories": [
         "Action & adventure",
-        "Role playing"
+        "Fighting",
+        "Other"
       ],
-      "developer": " Digital Sun",
-      "publisher": "11 bit studios",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9NDJX252Q5BW",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
-      "developerName": " Digital Sun",
-      "publisherName": "11 bit studios",
-      "isNew": true,
-      "firstSeenDate": "2026-09-02T12:20:51.281149+00:00"
-    },
-    {
-      "name": "Lost in Loss",
-      "title": "Lost in Loss",
-      "image": "https://store-images.s-microsoft.com/image/apps.57939.14524176624535453.4a6b3ffd-1f41-4416-9d17-2d44dec98d07.a1d1ed56-0bfa-4898-9428-62b1aa6795be",
-      "url": "https://www.xbox.com/en-US/games/lost-in-loss",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids"
-      ],
-      "developer": "Soroka Games",
-      "publisher": "Soroka Games",
+      "developer": "QUByte Interactive",
+      "publisher": "QUByte Interactive",
       "price": 0,
       "currency": "USD",
-      "productId": "9P0MHMZ12ZZ0",
+      "productId": "9P667J1H4RZC",
       "availableOn": [
         "Handheld",
         "PC",
         "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Welcome to the strangest case of your career, detective: characters have forgotten who they are! In this cozy hidden object adventure, find items tied to memories and restore lost identities — uncover the truth behind the loss.",
-      "developerName": "Soroka Games",
-      "publisherName": "Soroka Games",
+      "description": "Pick your hero, master devastating sword combos, and defeat epic armies solo or in local co-op.",
+      "developerName": "QUByte Interactive",
+      "publisherName": "QUByte Interactive",
       "isNew": true,
-      "firstSeenDate": "2026-09-02T12:20:51.281149+00:00"
+      "firstSeenDate": "2026-09-02T12:52:50.415324+00:00"
     },
     {
       "name": "Forza Horizon 6",
@@ -2261,6 +2153,31 @@
       "isNew": false
     },
     {
+      "name": "Lawn Mowing Simulator 2",
+      "title": "Lawn Mowing Simulator 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.10978.13801124939846654.125ed513-ea58-4ecf-b66e-1161ab635bc9.88418781-27f6-4cf9-a1fe-6008db518bdd",
+      "url": "https://www.xbox.com/en-US/games/lawn-mowing-simulator-2",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Simulation"
+      ],
+      "developer": "Skyhook Games",
+      "publisher": "Skyhook Games",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9MTV43N5JJMH",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Head to the USA and grow your own business with a realistic and relaxing lawn mowing experience! Featuring brand new grass tech, the addition of leaf-blowing plus reworked systems based on player feedback to the original - including licensed equipment from Kubota, STIGA and SCAGⓇ!",
+      "developerName": "Skyhook Games",
+      "publisherName": "Skyhook Games",
+      "isNew": false
+    },
+    {
       "name": "Airport Baggage Sim",
       "title": "Airport Baggage Sim",
       "image": "https://store-images.s-microsoft.com/image/apps.55853.14332594941239183.01442a9a-73f0-46c9-b21c-f2f4b829c4d9.08a64a4d-ec4e-4d28-8a1d-b0823b410cfd",
@@ -4273,7 +4190,7 @@
     {
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "image": "https://store-images.s-microsoft.com/image/apps.43072.14060026460961985.feb23253-f7c2-43cb-aeba-d3641b5f86a7.dc0b3b53-ae35-4c00-8e9f-e51d982172fc",
+      "image": "https://store-images.s-microsoft.com/image/apps.18497.14060026460961985.798796d7-f514-47f3-8fab-ce5813814f07.f245f1ef-de16-41c6-b359-8833ae34400f",
       "url": "https://www.xbox.com/en-US/games/dragon-quest-monsters-the-withered-world",
       "releaseDate": "",
       "rating": 3.0,
@@ -5777,6 +5694,33 @@
       "isNew": false
     },
     {
+      "name": "Lost in Loss",
+      "title": "Lost in Loss",
+      "image": "https://store-images.s-microsoft.com/image/apps.57939.14524176624535453.4a6b3ffd-1f41-4416-9d17-2d44dec98d07.a1d1ed56-0bfa-4898-9428-62b1aa6795be",
+      "url": "https://www.xbox.com/en-US/games/lost-in-loss",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Puzzle & trivia",
+        "Family & kids"
+      ],
+      "developer": "Soroka Games",
+      "publisher": "Soroka Games",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9P0MHMZ12ZZ0",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Welcome to the strangest case of your career, detective: characters have forgotten who they are! In this cozy hidden object adventure, find items tied to memories and restore lost identities — uncover the truth behind the loss.",
+      "developerName": "Soroka Games",
+      "publisherName": "Soroka Games",
+      "isNew": false
+    },
+    {
       "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition (Windows)",
       "title": "Call of Duty®: Modern Warfare® 4 - Vault Edition (Windows)",
       "image": "https://store-images.s-microsoft.com/image/apps.46360.14274865622313390.5e087caa-5224-4e26-9cfd-15af620ade52.0c12fee1-74c8-43da-8ca1-8ac8511e879b",
@@ -6792,32 +6736,6 @@
       "isNew": false
     },
     {
-      "name": "Once Alive",
-      "title": "Once Alive",
-      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
-      "url": "https://www.xbox.com/en-US/games/once-alive",
-      "releaseDate": "2026-08-28",
-      "rating": 3.4,
-      "categories": [
-        "Action & adventure",
-        "Other"
-      ],
-      "developer": "Cem Boray Yıldırım",
-      "publisher": "NAISU",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9MZNL4W23TWR",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
-      "developerName": "Cem Boray Yıldırım",
-      "publisherName": "NAISU",
-      "isNew": false
-    },
-    {
       "name": "ARC Raiders",
       "title": "ARC Raiders",
       "image": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
@@ -6842,6 +6760,32 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
       "developerName": "Embark Studios",
       "publisherName": "Embark Studios",
+      "isNew": false
+    },
+    {
+      "name": "Once Alive",
+      "title": "Once Alive",
+      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
+      "url": "https://www.xbox.com/en-US/games/once-alive",
+      "releaseDate": "2026-08-28",
+      "rating": 3.4,
+      "categories": [
+        "Action & adventure",
+        "Other"
+      ],
+      "developer": "Cem Boray Yıldırım",
+      "publisher": "NAISU",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9MZNL4W23TWR",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
+      "developerName": "Cem Boray Yıldırım",
+      "publisherName": "NAISU",
       "isNew": false
     },
     {
@@ -7009,6 +6953,32 @@
       "isNew": false
     },
     {
+      "name": "Grounded 2 (Game Preview)",
+      "title": "Grounded 2 (Game Preview)",
+      "image": "https://store-images.s-microsoft.com/image/apps.38489.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.8145fbfb-2a62-47c8-8aac-a0582d8eaed7",
+      "url": "https://www.xbox.com/en-US/games/grounded-2-(game-preview)",
+      "releaseDate": "2025-07-29",
+      "rating": 4.3,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Obsidian Entertainment / Eidos Montréal",
+      "publisher": "Xbox Game Studios",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9P77PG7DK0W2",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Two years ago, you shrank to the size of an ant—now it’s happening again, but it’s not the same\nYou survived shrinking once—can you handle an even bigger challenge?\nShrink down again in this co-op, survival adventure game. ",
+      "developerName": "Obsidian Entertainment / Eidos Montréal",
+      "publisherName": "Xbox Game Studios",
+      "isNew": false
+    },
+    {
       "name": "Murders on the Yangtze River",
       "title": "Murders on the Yangtze River",
       "image": "https://store-images.s-microsoft.com/image/apps.18861.14472600456642648.aeb27e74-b7d1-4d98-949d-4eb7ae386f62.95915c98-5cb1-420b-8cc2-6bcac2f132ef",
@@ -7033,32 +7003,6 @@
       "description": "",
       "developerName": "OMEGAMES STUDIO",
       "publisherName": "NiuGamer",
-      "isNew": false
-    },
-    {
-      "name": "Grounded 2 (Game Preview)",
-      "title": "Grounded 2 (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.38489.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.8145fbfb-2a62-47c8-8aac-a0582d8eaed7",
-      "url": "https://www.xbox.com/en-US/games/grounded-2-(game-preview)",
-      "releaseDate": "2025-07-29",
-      "rating": 4.3,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Obsidian Entertainment / Eidos Montréal",
-      "publisher": "Xbox Game Studios",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9P77PG7DK0W2",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Two years ago, you shrank to the size of an ant—now it’s happening again, but it’s not the same\nYou survived shrinking once—can you handle an even bigger challenge?\nShrink down again in this co-op, survival adventure game. ",
-      "developerName": "Obsidian Entertainment / Eidos Montréal",
-      "publisherName": "Xbox Game Studios",
       "isNew": false
     },
     {
@@ -24611,7 +24555,7 @@
     {
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "image": "https://store-images.s-microsoft.com/image/apps.43072.13825677853630511.3314ac94-a587-4cc1-99f7-6144ce6808b3.82e2d860-724d-45c6-acb3-4b23f5545205",
+      "image": "https://store-images.s-microsoft.com/image/apps.18497.13825677853630511.34c22f08-dbbb-42c7-9f0e-bf309f685583.f7f7bef3-e823-46fc-bb43-5534d9ee8fd6",
       "url": "https://www.xbox.com/en-US/games/dragon-quest-monsters-the-withered-world",
       "releaseDate": "2026-12-03",
       "rating": 3.0,
@@ -31232,6 +31176,35 @@
       "description": "",
       "developerName": "Happy Player",
       "publisherName": "Happy Player",
+      "isNew": false
+    },
+    {
+      "name": "Hatsune Miku Logic Paint S+",
+      "title": "Hatsune Miku Logic Paint S+",
+      "image": "https://store-images.s-microsoft.com/image/apps.46563.13766401333538127.ef4026f6-a394-4042-9956-7e9b79e03777.e5e3777b-123c-417e-a5f2-3dd8b1d153ed",
+      "url": "https://www.xbox.com/en-US/games/hatsune-miku-logic-paint-s+",
+      "releaseDate": "2025-07-24",
+      "rating": 4.8,
+      "categories": [
+        "Puzzle & trivia",
+        "Music",
+        "Educational"
+      ],
+      "developer": "Crypton Future Media",
+      "publisher": "Crypton Future Media",
+      "price": 14.99,
+      "currency": "USD",
+      "productId": "9NQN5ZSBM2S8",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Hatsune Miku Logic Paint S+ is coming to Microsoft Store!",
+      "developerName": "Crypton Future Media",
+      "publisherName": "Crypton Future Media",
       "isNew": false
     },
     {
@@ -44285,6 +44258,31 @@
       "isNew": false
     },
     {
+      "name": "The Quiet Things",
+      "title": "The Quiet Things",
+      "image": "https://store-images.s-microsoft.com/image/apps.44102.13910372811170556.737e2fe4-759e-4766-a7bf-5fa829fe1513.d341482f-0283-42e5-9941-e5dcb057d17f",
+      "url": "https://www.xbox.com/en-US/games/the-quiet-things",
+      "releaseDate": "2026-06-04",
+      "rating": 5.0,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Silver Script Games",
+      "publisher": "Silver Script Games",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9N18FMWMPGZP",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "The Quiet Things is an autobiographical game about creators Alyx Jones’s personal experiences growing up in childhood abuse. \n\nExplore beautifully recreated environments to uncover the story through objects and diary entries.\n\nUltimately, it’s a game about empathy and hope.",
+      "developerName": "Silver Script Games",
+      "publisherName": "Silver Script Games",
+      "isNew": false
+    },
+    {
       "name": "Sea Fantasy",
       "title": "Sea Fantasy",
       "image": "https://store-images.s-microsoft.com/image/apps.48368.13981068293972356.e90fe6f3-0eea-4da1-903f-933f75f99764.8d958fae-8022-4e52-8987-1d50840e3637",
@@ -48925,7 +48923,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.18481.13625403108665293.0eb82050-4f84-4a52-a532-f302925f1741.9ff025c7-7332-4cd1-bacb-646b1d4a0c3e",
       "url": "https://www.xbox.com/en-US/games/kemco-rpg-selection-vol.-4",
       "releaseDate": "2025-04-18",
-      "rating": 0.0,
+      "rating": 4.1,
       "categories": [
         "Role playing"
       ],
@@ -68737,6 +68735,32 @@
       "description": "Experience hundreds of levels filled with engaging gameplay. The TriPeaks variation of the classic Solitaire game brings light and fun challenges mixed with taking care of your own beautiful flower gardens! ",
       "developerName": "Inlogic Software",
       "publisherName": "Inlogic Software",
+      "isNew": false
+    },
+    {
+      "name": "Moonlighter 2: The Endless Vault",
+      "title": "Moonlighter 2: The Endless Vault",
+      "image": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
+      "url": "https://www.xbox.com/en-US/games/moonlighter-2-the-endless-vault",
+      "releaseDate": "2026-09-02",
+      "rating": 4.2,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": " Digital Sun",
+      "publisher": "11 bit studios",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9NDJX252Q5BW",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
+      "developerName": " Digital Sun",
+      "publisherName": "11 bit studios",
       "isNew": false
     },
     {

@@ -1,10 +1,10 @@
 {
-  "totalGames": 2647,
-  "totalItemsFromAPI": 2706,
+  "totalGames": 2648,
+  "totalItemsFromAPI": 2707,
   "totalPagesProcessed": 55,
   "failedPages": [],
-  "lastUpdated": "2026-09-02T20:20:50.809452",
-  "fetchDate": "2026-09-02 20:20:50",
+  "lastUpdated": "2026-09-02T12:52:50.177312",
+  "fetchDate": "2026-09-02 12:52:50",
   "games": [
     {
       "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition (Windows)",
@@ -1009,31 +1009,6 @@
       "publisherName": "Cascadia Games LLC"
     },
     {
-      "name": "Once Alive",
-      "title": "Once Alive",
-      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
-      "url": "https://www.xbox.com/en-US/games/once-alive",
-      "releaseDate": "2026-08-28",
-      "rating": 3.4,
-      "categories": [
-        "Action & adventure",
-        "Other"
-      ],
-      "developer": "Cem Boray Yıldırım",
-      "publisher": "NAISU",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9MZNL4W23TWR",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
-      "developerName": "Cem Boray Yıldırım",
-      "publisherName": "NAISU"
-    },
-    {
       "name": "ARC Raiders",
       "title": "ARC Raiders",
       "image": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
@@ -1058,6 +1033,31 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
       "developerName": "Embark Studios",
       "publisherName": "Embark Studios"
+    },
+    {
+      "name": "Once Alive",
+      "title": "Once Alive",
+      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
+      "url": "https://www.xbox.com/en-US/games/once-alive",
+      "releaseDate": "2026-08-28",
+      "rating": 3.4,
+      "categories": [
+        "Action & adventure",
+        "Other"
+      ],
+      "developer": "Cem Boray Yıldırım",
+      "publisher": "NAISU",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9MZNL4W23TWR",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
+      "developerName": "Cem Boray Yıldırım",
+      "publisherName": "NAISU"
     },
     {
       "name": "Aggelos 2",
@@ -1218,6 +1218,31 @@
       "publisherName": "GSC Game World"
     },
     {
+      "name": "Grounded 2 (Game Preview)",
+      "title": "Grounded 2 (Game Preview)",
+      "image": "https://store-images.s-microsoft.com/image/apps.38489.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.8145fbfb-2a62-47c8-8aac-a0582d8eaed7",
+      "url": "https://www.xbox.com/en-US/games/grounded-2-(game-preview)",
+      "releaseDate": "2025-07-29",
+      "rating": 4.3,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Obsidian Entertainment / Eidos Montréal",
+      "publisher": "Xbox Game Studios",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9P77PG7DK0W2",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Two years ago, you shrank to the size of an ant—now it’s happening again, but it’s not the same\nYou survived shrinking once—can you handle an even bigger challenge?\nShrink down again in this co-op, survival adventure game. ",
+      "developerName": "Obsidian Entertainment / Eidos Montréal",
+      "publisherName": "Xbox Game Studios"
+    },
+    {
       "name": "Murders on the Yangtze River",
       "title": "Murders on the Yangtze River",
       "image": "https://store-images.s-microsoft.com/image/apps.18861.14472600456642648.aeb27e74-b7d1-4d98-949d-4eb7ae386f62.95915c98-5cb1-420b-8cc2-6bcac2f132ef",
@@ -1242,31 +1267,6 @@
       "description": "",
       "developerName": "OMEGAMES STUDIO",
       "publisherName": "NiuGamer"
-    },
-    {
-      "name": "Grounded 2 (Game Preview)",
-      "title": "Grounded 2 (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.38489.14609679373210979.beb28026-7f6b-4b1f-b526-43d0d04b269b.8145fbfb-2a62-47c8-8aac-a0582d8eaed7",
-      "url": "https://www.xbox.com/en-US/games/grounded-2-(game-preview)",
-      "releaseDate": "2025-07-29",
-      "rating": 4.3,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Obsidian Entertainment / Eidos Montréal",
-      "publisher": "Xbox Game Studios",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9P77PG7DK0W2",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Two years ago, you shrank to the size of an ant—now it’s happening again, but it’s not the same\nYou survived shrinking once—can you handle an even bigger challenge?\nShrink down again in this co-op, survival adventure game. ",
-      "developerName": "Obsidian Entertainment / Eidos Montréal",
-      "publisherName": "Xbox Game Studios"
     },
     {
       "name": "Content Warning",
@@ -20048,7 +20048,7 @@
     {
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "image": "https://store-images.s-microsoft.com/image/apps.43072.13825677853630511.3314ac94-a587-4cc1-99f7-6144ce6808b3.82e2d860-724d-45c6-acb3-4b23f5545205",
+      "image": "https://store-images.s-microsoft.com/image/apps.18497.13825677853630511.34c22f08-dbbb-42c7-9f0e-bf309f685583.f7f7bef3-e823-46fc-bb43-5534d9ee8fd6",
       "url": "https://www.xbox.com/en-US/games/dragon-quest-monsters-the-withered-world",
       "releaseDate": "2026-12-03",
       "rating": 3.0,
@@ -45204,7 +45204,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.18481.13625403108665293.0eb82050-4f84-4a52-a532-f302925f1741.9ff025c7-7332-4cd1-bacb-646b1d4a0c3e",
       "url": "https://www.xbox.com/en-US/games/kemco-rpg-selection-vol.-4",
       "releaseDate": "2025-04-18",
-      "rating": 0.0,
+      "rating": 4.1,
       "categories": [
         "Role playing"
       ],
@@ -51401,7 +51401,7 @@
     {
       "name": "DRAGON QUEST MONSTERS: The Withered World",
       "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "image": "https://store-images.s-microsoft.com/image/apps.43072.14060026460961985.feb23253-f7c2-43cb-aeba-d3641b5f86a7.dc0b3b53-ae35-4c00-8e9f-e51d982172fc",
+      "image": "https://store-images.s-microsoft.com/image/apps.18497.14060026460961985.798796d7-f514-47f3-8fab-ce5813814f07.f245f1ef-de16-41c6-b359-8833ae34400f",
       "url": "https://www.xbox.com/en-US/games/dragon-quest-monsters-the-withered-world",
       "releaseDate": "",
       "rating": 3.0,
@@ -69252,6 +69252,33 @@
       "description": "Dominate the lanes in PBA Pro Bowling 2027! Customize your bowler’s unique style and arsenal with in-depth ball mechanics and Perks. Forge your legacy in PBA Tour Mode and Online Leagues, and defend your title in Online Tournaments and Ranked Play. This is where champions are made.",
       "developerName": "FarSight Studios",
       "publisherName": "FarSight Studios"
+    },
+    {
+      "name": "Blades & Battles",
+      "title": "Blades & Battles",
+      "image": "https://store-images.s-microsoft.com/image/apps.16951.14630288836813338.3c5e6b01-8b0a-4d7e-9785-d778d0156774.d09bd265-1e14-45c9-9a78-0938d36cb956",
+      "url": "https://www.xbox.com/en-US/games/blades-&-battles",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Fighting",
+        "Other"
+      ],
+      "developer": "QUByte Interactive",
+      "publisher": "QUByte Interactive",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9P667J1H4RZC",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Pick your hero, master devastating sword combos, and defeat epic armies solo or in local co-op.",
+      "developerName": "QUByte Interactive",
+      "publisherName": "QUByte Interactive"
     },
     {
       "name": "Lost in Loss",
