@@ -1,37 +1,8 @@
 {
   "totalGames": 2648,
-  "newGamesCount": 1,
-  "taggingDate": "2026-09-02T12:52:50.418413+00:00",
+  "newGamesCount": 0,
+  "taggingDate": "2026-09-02T13:08:52.418326+00:00",
   "games": [
-    {
-      "name": "Blades & Battles",
-      "title": "Blades & Battles",
-      "image": "https://store-images.s-microsoft.com/image/apps.16951.14630288836813338.3c5e6b01-8b0a-4d7e-9785-d778d0156774.d09bd265-1e14-45c9-9a78-0938d36cb956",
-      "url": "https://www.xbox.com/en-US/games/blades-&-battles",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Action & adventure",
-        "Fighting",
-        "Other"
-      ],
-      "developer": "QUByte Interactive",
-      "publisher": "QUByte Interactive",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9P667J1H4RZC",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Pick your hero, master devastating sword combos, and defeat epic armies solo or in local co-op.",
-      "developerName": "QUByte Interactive",
-      "publisherName": "QUByte Interactive",
-      "isNew": true,
-      "firstSeenDate": "2026-09-02T12:52:50.415324+00:00"
-    },
     {
       "name": "Forza Horizon 6",
       "title": "Forza Horizon 6",
@@ -5694,6 +5665,34 @@
       "isNew": false
     },
     {
+      "name": "Blades & Battles",
+      "title": "Blades & Battles",
+      "image": "https://store-images.s-microsoft.com/image/apps.16951.14630288836813338.3c5e6b01-8b0a-4d7e-9785-d778d0156774.d09bd265-1e14-45c9-9a78-0938d36cb956",
+      "url": "https://www.xbox.com/en-US/games/blades-&-battles",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Fighting",
+        "Other"
+      ],
+      "developer": "QUByte Interactive",
+      "publisher": "QUByte Interactive",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9P667J1H4RZC",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Pick your hero, master devastating sword combos, and defeat epic armies solo or in local co-op.",
+      "developerName": "QUByte Interactive",
+      "publisherName": "QUByte Interactive",
+      "isNew": false
+    },
+    {
       "name": "Lost in Loss",
       "title": "Lost in Loss",
       "image": "https://store-images.s-microsoft.com/image/apps.57939.14524176624535453.4a6b3ffd-1f41-4416-9d17-2d44dec98d07.a1d1ed56-0bfa-4898-9428-62b1aa6795be",
@@ -6871,33 +6870,6 @@
       "isNew": false
     },
     {
-      "name": "Lou's Lagoon",
-      "title": "Lou's Lagoon",
-      "image": "https://store-images.s-microsoft.com/image/apps.59448.13614683237106150.bcc1f80c-c499-4825-a2db-4166d657e5ad.a211bcbc-86a7-4ac7-a8a5-a97e83fbd1b6",
-      "url": "https://www.xbox.com/en-US/games/lous-lagoon",
-      "releaseDate": "2026-08-27",
-      "rating": 2.9,
-      "categories": [
-        "Action & adventure",
-        "Family & kids",
-        "Racing & flying"
-      ],
-      "developer": "Tiny Roar",
-      "publisher": "Megabit Publishing",
-      "price": 24.99,
-      "currency": "USD",
-      "productId": "9NDPVFFZF6SK",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Take flight in your seaplane on a heartfelt adventure across the tropical Limbo archipelago. After a devastating storm, gather materials with your Swirler, and help the locals rebuild. Can you uncover the truth behind Uncle Lou’s disappearance?",
-      "developerName": "Tiny Roar",
-      "publisherName": "Megabit Publishing",
-      "isNew": false
-    },
-    {
       "name": "Mortal Kombat 11",
       "title": "Mortal Kombat 11",
       "image": "https://store-images.s-microsoft.com/image/apps.63277.70804610839547354.8da93c46-fd13-4b16-8ebe-e8e02c53d93e.9d395244-d5c3-4d17-a83d-2ff95537c0f6",
@@ -6922,6 +6894,33 @@
       "description": "Mortal Kombat is back and better than ever in the next evolution of the iconic franchise.",
       "developerName": "NetherRealm Studios",
       "publisherName": "Warner Bros. Games",
+      "isNew": false
+    },
+    {
+      "name": "Lou's Lagoon",
+      "title": "Lou's Lagoon",
+      "image": "https://store-images.s-microsoft.com/image/apps.59448.13614683237106150.bcc1f80c-c499-4825-a2db-4166d657e5ad.a211bcbc-86a7-4ac7-a8a5-a97e83fbd1b6",
+      "url": "https://www.xbox.com/en-US/games/lous-lagoon",
+      "releaseDate": "2026-08-27",
+      "rating": 2.9,
+      "categories": [
+        "Action & adventure",
+        "Family & kids",
+        "Racing & flying"
+      ],
+      "developer": "Tiny Roar",
+      "publisher": "Megabit Publishing",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9NDPVFFZF6SK",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Take flight in your seaplane on a heartfelt adventure across the tropical Limbo archipelago. After a devastating storm, gather materials with your Swirler, and help the locals rebuild. Can you uncover the truth behind Uncle Lou’s disappearance?",
+      "developerName": "Tiny Roar",
+      "publisherName": "Megabit Publishing",
       "isNew": false
     },
     {
@@ -7111,6 +7110,32 @@
       "isNew": false
     },
     {
+      "name": "Mad King Redemption",
+      "title": "Mad King Redemption",
+      "image": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
+      "url": "https://www.xbox.com/en-US/games/mad-king-redemption",
+      "releaseDate": "2026-08-23",
+      "rating": 3.9,
+      "categories": [
+        "Action & adventure",
+        "Fighting"
+      ],
+      "developer": "Secret Mission Games",
+      "publisher": "Secret Mission Games",
+      "price": 14.99,
+      "currency": "USD",
+      "productId": "9N944N1WP67T",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
+      "developerName": "Secret Mission Games",
+      "publisherName": "Secret Mission Games",
+      "isNew": false
+    },
+    {
       "name": "Golftacular!",
       "title": "Golftacular!",
       "image": "https://store-images.s-microsoft.com/image/apps.52482.13824042855170146.4ccf72b8-4835-4d44-a9e6-5825585a6c30.084f57b5-d818-4570-86a5-3198aed8c06b",
@@ -7135,32 +7160,6 @@
       "description": "Mini-golf turned upside down! Abuse wild items on a variety of challenging golf tours. Shoot, fly, explode, and whatever else you can to get in the hole! It’s golf... barely.",
       "developerName": "Both Good",
       "publisherName": "Both Good",
-      "isNew": false
-    },
-    {
-      "name": "Mad King Redemption",
-      "title": "Mad King Redemption",
-      "image": "https://store-images.s-microsoft.com/image/apps.52962.13544556109351948.9c4c33b4-f6ce-4d2c-ac5f-3aa565d08d7d.367a2b17-e3d1-41e3-85d3-de507b095418",
-      "url": "https://www.xbox.com/en-US/games/mad-king-redemption",
-      "releaseDate": "2026-08-23",
-      "rating": 3.9,
-      "categories": [
-        "Action & adventure",
-        "Fighting"
-      ],
-      "developer": "Secret Mission Games",
-      "publisher": "Secret Mission Games",
-      "price": 14.99,
-      "currency": "USD",
-      "productId": "9N944N1WP67T",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Mad King Redemption è un mix unico di un gioco beat'em'up tradizionale con una forte progressione roguelite, mescolata a uno stile grafico pixelato in un mondo 2.5D. Liberate il re pazzo dalla sua follia e sconfiggete i nemici corrotti, in un modo sempre nuovo ad ogni run!",
-      "developerName": "Secret Mission Games",
-      "publisherName": "Secret Mission Games",
       "isNew": false
     },
     {
@@ -31707,7 +31706,7 @@
     {
       "name": "DRAGON QUEST MONSTERS: The Withered World DIGITAL DELUXE EDITION",
       "title": "DRAGON QUEST MONSTERS: The Withered World DIGITAL DELUXE EDITION",
-      "image": "https://store-images.s-microsoft.com/image/apps.63981.14368200216623143.4631550c-e658-42e5-a8f8-5d969aeaa8cf.be0653fe-6023-460c-a697-bc127a10f976",
+      "image": "https://store-images.s-microsoft.com/image/apps.35835.14368200216623143.d460edf7-ca4f-4cc4-a39d-238876e238b1.f583328e-4879-47b6-bc54-83ec84f737f3",
       "url": "https://www.xbox.com/en-US/games/dragon-quest-monsters-the-withered-world-digital-deluxe-edition",
       "releaseDate": "2026-12-01",
       "rating": 3.0,
