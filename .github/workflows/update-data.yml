@@ -46,6 +46,7 @@ jobs:
           git push --force-with-lease origin HEAD:codex/data-update
           echo "changed=true" >> "$GITHUB_OUTPUT"
       - name: Create or update data pull request
+        id: data-pr
         if: steps.data-update.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -58,14 +59,25 @@ jobs:
             --jq '.[0].number')"
 
           if [ -z "$pr_number" ]; then
-            gh pr create \
+            pr_url="$(gh pr create \
               --head codex/data-update \
               --base main \
               --title "chore(data): update XPA game catalog" \
-              --body "Automated daily XPA catalog update. Review and merge after the Validate check passes."
+              --body "Automated daily XPA catalog update. This PR is merged automatically only after the Validate check passes.")"
+            pr_number="${pr_url##*/}"
           else
             echo "Updated existing data PR #$pr_number"
           fi
+          echo "number=$pr_number" >> "$GITHUB_OUTPUT"
+      - name: Enable auto-merge for data pull request
+        if: steps.data-update.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr merge "${{ steps.data-pr.outputs.number }}" \
+            --repo "$GITHUB_REPOSITORY" \
+            --auto \
+            --merge
       - name: Validate data branch and publish required status
         if: steps.data-update.outputs.changed == 'true'
         env:
