@@ -1,10 +1,10 @@
 {
-  "totalGames": 2664,
-  "totalItemsFromAPI": 2723,
+  "totalGames": 2667,
+  "totalItemsFromAPI": 2726,
   "totalPagesProcessed": 55,
   "failedPages": [],
-  "lastUpdated": "2026-09-08T08:05:32.911494",
-  "fetchDate": "2026-09-08 08:05:32",
+  "lastUpdated": "2026-09-09T08:08:48.182779",
+  "fetchDate": "2026-09-09 08:08:48",
   "games": [
     {
       "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition (Windows)",
@@ -237,7 +237,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.43806.14316447222402733.7ce700b1-c1f1-4c72-a33b-ea4a18861dcb.d38065d4-8f72-480e-aaca-fb4dd302d95e",
       "url": "https://www.xbox.com/en-US/games/call-of-duty-black-ops-7-cross-gen-bundle",
       "releaseDate": "2025-11-21",
-      "rating": 1.4,
+      "rating": 1.5,
       "categories": [
         "Shooter"
       ],
@@ -586,31 +586,81 @@
       "publisherName": "Pearl Abyss"
     },
     {
-      "name": "Honeycomb: The World Beyond",
-      "title": "Honeycomb: The World Beyond",
-      "image": "https://store-images.s-microsoft.com/image/apps.17009.14591108861940264.c695af77-b049-402c-8e70-2cc19fc82774.20c8f187-ecaf-4631-8eb2-e3744424c0aa",
-      "url": "https://www.xbox.com/en-US/games/honeycomb-the-world-beyond",
-      "releaseDate": "",
-      "rating": 0.0,
+      "name": "Cats Around Us: Black Cat",
+      "title": "Cats Around Us: Black Cat",
+      "image": "https://store-images.s-microsoft.com/image/apps.61521.14401198146868703.773a20f9-7c52-4cab-b699-3f38b5d3ee37.558bc98a-8d0f-4842-aec1-edafc47e056a",
+      "url": "https://www.xbox.com/en-US/games/cats-around-us-black-cat",
+      "releaseDate": "2026-09-09",
+      "rating": 4.0,
       "categories": [
-        "Action & adventure",
-        "Strategy",
-        "Simulation"
+        "Puzzle & trivia",
+        "Family & kids"
       ],
-      "developer": "Frozen Way S.A.",
-      "publisher": "Snail Games USA",
-      "price": 0,
+      "developer": "Noobzilla",
+      "publisher": "Silesia Games Sp. z o.o.",
+      "price": 2.99,
       "currency": "USD",
-      "productId": "9P4L8V60K9T5",
+      "productId": "9NV4N9ZBPP6S",
       "availableOn": [
         "Handheld",
         "PC",
-        "XCloud",
+        "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Honeycomb: The World Beyond is a sci-fi survival adventure set on the vibrant alien planet of Sota7. Adapt by building your base and crafting essential tools. Explore diverse biomes and use your bioengineering experience to uncover mysteries and secure humanity's future.\n",
-      "developerName": "Frozen Way S.A.",
-      "publisherName": "Snail Games USA"
+      "description": "Spot hidden cats in a comic book about a sneaky black kitty!",
+      "developerName": "Noobzilla",
+      "publisherName": "Silesia Games Sp. z o.o."
+    },
+    {
+      "name": "TORO 2",
+      "title": "TORO 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.14565.14508220065967935.a2da96f2-e546-40cc-ab82-69331d854bf7.5664c79e-4631-4f2f-9d97-3f5cb5cdc8fe",
+      "url": "https://www.xbox.com/en-US/games/toro-2",
+      "releaseDate": "2026-09-09",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Other",
+        "Simulation",
+        "Sports"
+      ],
+      "developer": "Recotechnology SL",
+      "publisher": "Recotechnology SL",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9P1NGS4GXGQD",
+      "availableOn": [
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Toro 2 is a 3D bullfighting simulator where you'll experience the thrill of bullfighting in the world's most famous bullrings in Career Mode. Challenge your friends in fast-paced Versus Mode, where you can choose between the raw power of a fighting bull or the skill and style of a bullfighter.",
+      "developerName": "Recotechnology SL",
+      "publisherName": "Recotechnology SL"
+    },
+    {
+      "name": "SPRAWL zero",
+      "title": "SPRAWL zero",
+      "image": "https://store-images.s-microsoft.com/image/apps.57151.14258507337999621.09030770-7baf-4787-926e-eeb51c618bd0.b7fb3451-edc6-4ac9-9278-495e39417940",
+      "url": "https://www.xbox.com/en-US/games/sprawl-zero",
+      "releaseDate": "2026-09-08",
+      "rating": 4.8,
+      "categories": [
+        "Shooter"
+      ],
+      "developer": "MAETH",
+      "publisher": "Kwalee",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9PKP8B81K6H0",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Sprawl Zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.",
+      "developerName": "MAETH",
+      "publisherName": "Kwalee"
     },
     {
       "name": "Onimusha: Way of the Sword",
@@ -637,12 +687,39 @@
       "publisherName": "CAPCOM CO., LTD."
     },
     {
+      "name": "Honeycomb: The World Beyond",
+      "title": "Honeycomb: The World Beyond",
+      "image": "https://store-images.s-microsoft.com/image/apps.17009.14591108861940264.c695af77-b049-402c-8e70-2cc19fc82774.20c8f187-ecaf-4631-8eb2-e3744424c0aa",
+      "url": "https://www.xbox.com/en-US/games/honeycomb-the-world-beyond",
+      "releaseDate": "2026-09-08",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Strategy",
+        "Simulation"
+      ],
+      "developer": "Frozen Way S.A.",
+      "publisher": "Snail Games USA",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9P4L8V60K9T5",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Honeycomb: The World Beyond is a sci-fi survival adventure set on the vibrant alien planet of Sota7. Adapt by building your base and crafting essential tools. Explore diverse biomes and use your bioengineering experience to uncover mysteries and secure humanity's future.\n",
+      "developerName": "Frozen Way S.A.",
+      "publisherName": "Snail Games USA"
+    },
+    {
       "name": "HOT WHEELS™ Infinite Rush - Ultimate Edition",
       "title": "HOT WHEELS™ Infinite Rush - Ultimate Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.12786.14117346591713703.030df09e-dc33-4594-84cd-731edcdb91f3.ccb0d028-508e-47de-8c6d-204beb123d83",
       "url": "https://www.xbox.com/en-US/games/hot-wheels-infinite-rush-ultimate-edition",
       "releaseDate": "2026-09-07",
-      "rating": 3.4,
+      "rating": 3.7,
       "categories": [
         "Racing & flying"
       ],
@@ -658,57 +735,6 @@
       "description": "Get ready to start ahead! Pre-order the Ultimate Edition and get the full game, Vehicle Pass, Ferrari Expansion Pack and Car Collection Pack, along with 7 additional vehicles and 3-day early access.",
       "developerName": "Milestone S.r.l.",
       "publisherName": "Milestone S.r.l."
-    },
-    {
-      "name": "Avatar Legends: The Fighting Game",
-      "title": "Avatar Legends: The Fighting Game",
-      "image": "https://store-images.s-microsoft.com/image/apps.29861.14244483274419542.a554609e-e51e-4efb-a70f-9902182e2854.af8f380a-5450-43f8-b963-43792dba92c5",
-      "url": "https://www.xbox.com/en-US/games/avatar-legends-the-fighting-game",
-      "releaseDate": "2026-09-03",
-      "rating": 4.0,
-      "categories": [
-        "Fighting"
-      ],
-      "developer": "",
-      "publisher": "PM-Studios, Inc.",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9PH2332VRWSF",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "",
-      "publisherName": "PM-Studios, Inc."
-    },
-    {
-      "name": "Dream Cage",
-      "title": "Dream Cage",
-      "image": "https://store-images.s-microsoft.com/image/apps.5238.13686734777543858.9ae57b6c-73b8-49bb-8d3b-e8decde8c543.3327c934-2c07-4ee9-82fe-b8f261aa79d4",
-      "url": "https://www.xbox.com/en-US/games/dream-cage",
-      "releaseDate": "2026-09-04",
-      "rating": 3.4,
-      "categories": [
-        "Other",
-        "Action & adventure",
-        "Simulation"
-      ],
-      "developer": "JanduSoft",
-      "publisher": "JanduSoft",
-      "price": 10.49,
-      "currency": "USD",
-      "productId": "9NMJKSVDWLJ5",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Robert battles early Alzheimer's and nightly sleep paralysis. Each night reveals fragments of his past. Uncover the truth and help him solve the mysteries haunting his mind.",
-      "developerName": "JanduSoft",
-      "publisherName": "JanduSoft"
     },
     {
       "name": "Shift At Midnight",
@@ -762,104 +788,29 @@
       "publisherName": "Warner Bros. Games"
     },
     {
-      "name": "Railbreak DX",
-      "title": "Railbreak DX",
-      "image": "https://store-images.s-microsoft.com/image/apps.64516.14152755250607808.2bc99d7b-2217-4b6a-aca2-666fbdb9d894.297b4f83-e301-47e0-bf60-4410d5c55260",
-      "url": "https://www.xbox.com/en-US/games/railbreak-dx",
-      "releaseDate": "2026-09-04",
-      "rating": 3.5,
+      "name": "Avatar Legends: The Fighting Game",
+      "title": "Avatar Legends: The Fighting Game",
+      "image": "https://store-images.s-microsoft.com/image/apps.29861.14244483274419542.a554609e-e51e-4efb-a70f-9902182e2854.af8f380a-5450-43f8-b963-43792dba92c5",
+      "url": "https://www.xbox.com/en-US/games/avatar-legends-the-fighting-game",
+      "releaseDate": "2026-09-03",
+      "rating": 4.1,
       "categories": [
-        "Shooter",
-        "Action & adventure",
-        "Classics"
+        "Fighting"
       ],
-      "developer": "Dead Drop Studios LLC",
-      "publisher": "Dead Drop Studios LLC",
-      "price": 24.99,
+      "developer": "",
+      "publisher": "PM-Studios, Inc.",
+      "price": 29.99,
       "currency": "USD",
-      "productId": "9PDKD37Z8PXW",
+      "productId": "9PH2332VRWSF",
       "availableOn": [
         "Handheld",
         "PC",
         "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "On-rails arcade lightgun action returns in an expanded package with XBOX Play Anywhere support!",
-      "developerName": "Dead Drop Studios LLC",
-      "publisherName": "Dead Drop Studios LLC"
-    },
-    {
-      "name": "Onimusha: WotS - Premium Deluxe Edition",
-      "title": "Onimusha: WotS - Premium Deluxe Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.4765.14236548884575357.24078b6a-316c-481c-85a3-e2e367f4fd34.9e65884d-85d2-4de7-ba75-e9953ad844fb",
-      "url": "https://www.xbox.com/en-US/games/onimusha-wots-premium-deluxe-edition",
-      "releaseDate": "2026-09-04",
-      "rating": 4.7,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "CAPCOM CO., LTD.",
-      "publisher": "CAPCOM CO., LTD.",
-      "price": 89.99,
-      "currency": "USD",
-      "productId": "9PH7CL8KW2N2",
-      "availableOn": [
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
-      "developerName": "CAPCOM CO., LTD.",
-      "publisherName": "CAPCOM CO., LTD."
-    },
-    {
-      "name": "Fear The Timeloop",
-      "title": "Fear The Timeloop",
-      "image": "https://store-images.s-microsoft.com/image/apps.5211.14508410969908901.d22d7d0e-5bb2-4d47-88bf-02cc671a7d3a.f8fdd63e-ac62-4a65-b262-0548c3b0051e",
-      "url": "https://www.xbox.com/en-US/games/fear-the-timeloop",
-      "releaseDate": "2026-09-04",
-      "rating": 4.3,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "TacoEaters / Console Labs S.A.",
-      "publisher": "PlayWay S.A.",
-      "price": 14.99,
-      "currency": "USD",
-      "productId": "9P1MPWT913V2",
-      "availableOn": [
-        "Handheld",
-        "PC",
         "XboxSeriesX"
       ],
       "description": "",
-      "developerName": "TacoEaters / Console Labs S.A.",
-      "publisherName": "PlayWay S.A."
-    },
-    {
-      "name": "The Blood of Dawnwalker",
-      "title": "The Blood of Dawnwalker",
-      "image": "https://store-images.s-microsoft.com/image/apps.10879.13850661213403676.bb0ee117-405c-4096-8f09-bc2a21929a0e.edbf20c2-43e5-439a-ad1f-b8614e6a158a",
-      "url": "https://www.xbox.com/en-US/games/the-blood-of-dawnwalker",
-      "releaseDate": "2026-09-03",
-      "rating": 4.3,
-      "categories": [
-        "Role playing",
-        "Action & adventure"
-      ],
-      "developer": "Rebel Wolves",
-      "publisher": "Bandai Namco Entertainment Europe S.A.S.",
-      "price": 69.99,
-      "currency": "USD",
-      "productId": "9MVWT39J9R2C",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
-      "developerName": "Rebel Wolves",
-      "publisherName": "Bandai Namco Entertainment Europe S.A.S."
+      "developerName": "",
+      "publisherName": "PM-Studios, Inc."
     },
     {
       "name": "Warhammer 40,000: Space Marine 2",
@@ -915,46 +866,73 @@
       "publisherName": "NetEase Games"
     },
     {
-      "name": "Moonbringer",
-      "title": "Moonbringer",
-      "image": "https://store-images.s-microsoft.com/image/apps.5752.14623407328406720.14cb879e-2c69-4a14-bc83-12a5e9703c16.2664f118-d5d1-4f7c-8aaa-6f149c8a16da",
-      "url": "https://www.xbox.com/en-US/games/moonbringer",
+      "name": "Dream Cage",
+      "title": "Dream Cage",
+      "image": "https://store-images.s-microsoft.com/image/apps.5238.13686734777543858.9ae57b6c-73b8-49bb-8d3b-e8decde8c543.3327c934-2c07-4ee9-82fe-b8f261aa79d4",
+      "url": "https://www.xbox.com/en-US/games/dream-cage",
       "releaseDate": "2026-09-04",
-      "rating": 4.2,
+      "rating": 3.4,
       "categories": [
-        "Shooter",
-        "Action & adventure"
+        "Other",
+        "Action & adventure",
+        "Simulation"
       ],
-      "developer": "2dragontails",
-      "publisher": "2dragontails",
-      "price": 4.99,
+      "developer": "JanduSoft",
+      "publisher": "JanduSoft",
+      "price": 10.49,
       "currency": "USD",
-      "productId": "9P6JQ5VTPHDW",
+      "productId": "9NMJKSVDWLJ5",
       "availableOn": [
         "Handheld",
         "PC",
-        "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Moonbringer is a fast-paced action shmup with a skill tree. Kill the waves, stack the loot and upgrade your ship. Unlock a variety of new abilities and become more powerful every run. Shoot, die, upgrade, and dive into space one more time.",
-      "developerName": "2dragontails",
-      "publisherName": "2dragontails"
+      "description": "Robert battles early Alzheimer's and nightly sleep paralysis. Each night reveals fragments of his past. Uncover the truth and help him solve the mysteries haunting his mind.",
+      "developerName": "JanduSoft",
+      "publisherName": "JanduSoft"
     },
     {
-      "name": "Onimusha: WotS - Deluxe Edition",
-      "title": "Onimusha: WotS - Deluxe Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.39950.14583154620140528.edf24ec3-87e3-4bab-8b69-226925752229.4369c172-9fbb-4c03-9751-5f817819f383",
-      "url": "https://www.xbox.com/en-US/games/onimusha-wots-deluxe-edition",
+      "name": "Railbreak DX",
+      "title": "Railbreak DX",
+      "image": "https://store-images.s-microsoft.com/image/apps.64516.14152755250607808.2bc99d7b-2217-4b6a-aca2-666fbdb9d894.297b4f83-e301-47e0-bf60-4410d5c55260",
+      "url": "https://www.xbox.com/en-US/games/railbreak-dx",
       "releaseDate": "2026-09-04",
-      "rating": 4.2,
+      "rating": 3.4,
+      "categories": [
+        "Shooter",
+        "Action & adventure",
+        "Classics"
+      ],
+      "developer": "Dead Drop Studios LLC",
+      "publisher": "Dead Drop Studios LLC",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9PDKD37Z8PXW",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "On-rails arcade lightgun action returns in an expanded package with XBOX Play Anywhere support!",
+      "developerName": "Dead Drop Studios LLC",
+      "publisherName": "Dead Drop Studios LLC"
+    },
+    {
+      "name": "Onimusha: WotS - Premium Deluxe Edition",
+      "title": "Onimusha: WotS - Premium Deluxe Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.4765.14236548884575357.24078b6a-316c-481c-85a3-e2e367f4fd34.9e65884d-85d2-4de7-ba75-e9953ad844fb",
+      "url": "https://www.xbox.com/en-US/games/onimusha-wots-premium-deluxe-edition",
+      "releaseDate": "2026-09-04",
+      "rating": 4.7,
       "categories": [
         "Action & adventure"
       ],
       "developer": "CAPCOM CO., LTD.",
       "publisher": "CAPCOM CO., LTD.",
-      "price": 79.99,
+      "price": 89.99,
       "currency": "USD",
-      "productId": "9P50G4HDZJSH",
+      "productId": "9PH7CL8KW2N2",
       "availableOn": [
         "PC",
         "XCloud",
@@ -965,30 +943,29 @@
       "publisherName": "CAPCOM CO., LTD."
     },
     {
-      "name": "SpeedRunners 2: King of Speed",
-      "title": "SpeedRunners 2: King of Speed",
-      "image": "https://store-images.s-microsoft.com/image/apps.58974.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.8c25e957-1f8c-439d-8dd9-71cffbb588bc",
-      "url": "https://www.xbox.com/en-US/games/speedrunners-2-king-of-speed",
+      "name": "The Blood of Dawnwalker",
+      "title": "The Blood of Dawnwalker",
+      "image": "https://store-images.s-microsoft.com/image/apps.10879.13850661213403676.bb0ee117-405c-4096-8f09-bc2a21929a0e.edbf20c2-43e5-439a-ad1f-b8614e6a158a",
+      "url": "https://www.xbox.com/en-US/games/the-blood-of-dawnwalker",
       "releaseDate": "2026-09-03",
-      "rating": 2.6,
+      "rating": 4.3,
       "categories": [
-        "Platformer",
-        "Racing & flying"
+        "Role playing",
+        "Action & adventure"
       ],
-      "developer": "tinyBuild Games",
-      "publisher": "tinyBuild",
-      "price": 14.99,
+      "developer": "Rebel Wolves",
+      "publisher": "Bandai Namco Entertainment Europe S.A.S.",
+      "price": 69.99,
       "currency": "USD",
-      "productId": "9PPKR9N31BW6",
+      "productId": "9MVWT39J9R2C",
       "availableOn": [
         "Handheld",
         "PC",
-        "XCloud",
         "XboxSeriesX"
       ],
-      "description": "The ultimate competitive platformer is back!",
-      "developerName": "tinyBuild Games",
-      "publisherName": "tinyBuild"
+      "description": "The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
+      "developerName": "Rebel Wolves",
+      "publisherName": "Bandai Namco Entertainment Europe S.A.S."
     },
     {
       "name": "RV There Yet?",
@@ -1016,29 +993,28 @@
       "publisherName": "Nuggets Entertainment"
     },
     {
-      "name": "Asdivine Knot",
-      "title": "Asdivine Knot",
-      "image": "https://store-images.s-microsoft.com/image/apps.26608.13926799182897228.539bc7c7-4971-44e5-8a13-f936a707d848.a81e9b7f-b815-4118-bd44-a74292c619c1",
-      "url": "https://www.xbox.com/en-US/games/asdivine-knot",
+      "name": "Fear The Timeloop",
+      "title": "Fear The Timeloop",
+      "image": "https://store-images.s-microsoft.com/image/apps.5211.14508410969908901.d22d7d0e-5bb2-4d47-88bf-02cc671a7d3a.f8fdd63e-ac62-4a65-b262-0548c3b0051e",
+      "url": "https://www.xbox.com/en-US/games/fear-the-timeloop",
       "releaseDate": "2026-09-04",
-      "rating": 3.0,
+      "rating": 4.3,
       "categories": [
-        "Role playing"
+        "Action & adventure"
       ],
-      "developer": "Exe Create Inc.",
-      "publisher": "KEMCO",
-      "price": 19.99,
+      "developer": "TacoEaters / Console Labs S.A.",
+      "publisher": "PlayWay S.A.",
+      "price": 14.99,
       "currency": "USD",
-      "productId": "9N0F003LV5G3",
+      "productId": "9P1MPWT913V2",
       "availableOn": [
         "Handheld",
         "PC",
-        "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Tie the knot of fate in a skybound fantasy RPG!",
-      "developerName": "Exe Create Inc.",
-      "publisherName": "KEMCO"
+      "description": "",
+      "developerName": "TacoEaters / Console Labs S.A.",
+      "publisherName": "PlayWay S.A."
     },
     {
       "name": "Forza Horizon 5 Standard Edition",
@@ -1066,12 +1042,113 @@
       "publisherName": "Xbox Game Studios"
     },
     {
+      "name": "Moonbringer",
+      "title": "Moonbringer",
+      "image": "https://store-images.s-microsoft.com/image/apps.5752.14623407328406720.14cb879e-2c69-4a14-bc83-12a5e9703c16.2664f118-d5d1-4f7c-8aaa-6f149c8a16da",
+      "url": "https://www.xbox.com/en-US/games/moonbringer",
+      "releaseDate": "2026-09-04",
+      "rating": 4.2,
+      "categories": [
+        "Shooter",
+        "Action & adventure"
+      ],
+      "developer": "2dragontails",
+      "publisher": "2dragontails",
+      "price": 4.99,
+      "currency": "USD",
+      "productId": "9P6JQ5VTPHDW",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Moonbringer is a fast-paced action shmup with a skill tree. Kill the waves, stack the loot and upgrade your ship. Unlock a variety of new abilities and become more powerful every run. Shoot, die, upgrade, and dive into space one more time.",
+      "developerName": "2dragontails",
+      "publisherName": "2dragontails"
+    },
+    {
+      "name": "SpeedRunners 2: King of Speed",
+      "title": "SpeedRunners 2: King of Speed",
+      "image": "https://store-images.s-microsoft.com/image/apps.58974.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.8c25e957-1f8c-439d-8dd9-71cffbb588bc",
+      "url": "https://www.xbox.com/en-US/games/speedrunners-2-king-of-speed",
+      "releaseDate": "2026-09-03",
+      "rating": 2.5,
+      "categories": [
+        "Platformer",
+        "Racing & flying"
+      ],
+      "developer": "tinyBuild Games",
+      "publisher": "tinyBuild",
+      "price": 14.99,
+      "currency": "USD",
+      "productId": "9PPKR9N31BW6",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "The ultimate competitive platformer is back!",
+      "developerName": "tinyBuild Games",
+      "publisherName": "tinyBuild"
+    },
+    {
+      "name": "Onimusha: WotS - Deluxe Edition",
+      "title": "Onimusha: WotS - Deluxe Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.39950.14583154620140528.edf24ec3-87e3-4bab-8b69-226925752229.4369c172-9fbb-4c03-9751-5f817819f383",
+      "url": "https://www.xbox.com/en-US/games/onimusha-wots-deluxe-edition",
+      "releaseDate": "2026-09-04",
+      "rating": 4.2,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "CAPCOM CO., LTD.",
+      "publisher": "CAPCOM CO., LTD.",
+      "price": 79.99,
+      "currency": "USD",
+      "productId": "9P50G4HDZJSH",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
+      "developerName": "CAPCOM CO., LTD.",
+      "publisherName": "CAPCOM CO., LTD."
+    },
+    {
+      "name": "Asdivine Knot",
+      "title": "Asdivine Knot",
+      "image": "https://store-images.s-microsoft.com/image/apps.26608.13926799182897228.539bc7c7-4971-44e5-8a13-f936a707d848.a81e9b7f-b815-4118-bd44-a74292c619c1",
+      "url": "https://www.xbox.com/en-US/games/asdivine-knot",
+      "releaseDate": "2026-09-04",
+      "rating": 3.0,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "Exe Create Inc.",
+      "publisher": "KEMCO",
+      "price": 19.99,
+      "currency": "USD",
+      "productId": "9N0F003LV5G3",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Tie the knot of fate in a skybound fantasy RPG!",
+      "developerName": "Exe Create Inc.",
+      "publisherName": "KEMCO"
+    },
+    {
       "name": "Fortress Merge",
       "title": "Fortress Merge",
       "image": "https://store-images.s-microsoft.com/image/apps.24193.13596298656090879.3bce9cde-4715-4c34-883c-eb0927f204ad.dc18df14-1840-4044-8473-7b0708def0f3",
       "url": "https://www.xbox.com/en-US/games/fortress-merge",
       "releaseDate": "2026-09-04",
-      "rating": 2.6,
+      "rating": 2.5,
       "categories": [
         "Strategy",
         "Action & adventure",
@@ -1091,6 +1168,32 @@
       "description": "Merge your defenses, defeat relentless monsters and protect your fortress!",
       "developerName": "TapNation & Tartatin",
       "publisherName": "QubicGames S.A."
+    },
+    {
+      "name": "ARC Raiders",
+      "title": "ARC Raiders",
+      "image": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
+      "url": "https://www.xbox.com/en-US/games/arc-raiders",
+      "releaseDate": "2025-10-30",
+      "rating": 3.3,
+      "categories": [
+        "Action & adventure",
+        "Shooter"
+      ],
+      "developer": "Embark Studios",
+      "publisher": "Embark Studios",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9NDF1F263RZ4",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
+      "developerName": "Embark Studios",
+      "publisherName": "Embark Studios"
     },
     {
       "name": "Tales of Formentera",
@@ -1149,7 +1252,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.54883.14060480742754624.6890864e-12c0-4860-924c-522347aaff62.ec9b1e4c-cdbc-4954-928c-899c70aaa077",
       "url": "https://www.xbox.com/en-US/games/brainrot-kart",
       "releaseDate": "2026-09-03",
-      "rating": 4.6,
+      "rating": 4.7,
       "categories": [
         "Action & adventure",
         "Racing & flying"
@@ -1194,53 +1297,31 @@
       "publisherName": "Microids"
     },
     {
-      "name": "The Blood of Dawnwalker - Eclipse Edition",
-      "title": "The Blood of Dawnwalker - Eclipse Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.44863.14064244978732281.0da6d9f8-6b43-4d9b-8d69-e578a02527e2.a895ed64-f81b-40aa-b800-c273f478bfca",
-      "url": "https://www.xbox.com/en-US/games/the-blood-of-dawnwalker-eclipse-edition",
-      "releaseDate": "2026-09-03",
-      "rating": 4.3,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "image": "https://store-images.s-microsoft.com/image/apps.3884.14102836618611203.f0cb3265-be6e-427a-b40b-327076d7be33.37d2bd92-59c1-4ced-b8f5-bed4aed8435d",
+      "url": "https://www.xbox.com/en-US/games/s.t.a.l.k.e.r.-2-heart-of-chornobyl",
+      "releaseDate": "2024-11-20",
+      "rating": 3.4,
       "categories": [
+        "Shooter",
+        "Action & adventure",
         "Role playing"
       ],
-      "developer": "Rebel Wolves",
-      "publisher": "Bandai Namco Entertainment Europe S.A.S.",
-      "price": 79.99,
+      "developer": "GSC Game World",
+      "publisher": "GSC Game World",
+      "price": 59.99,
       "currency": "USD",
-      "productId": "9N7QHQK06RKN",
-      "availableOn": [
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The Eclipse Edition includes The Blood of Dawnwalker full game plus the Digital World Compendium, Digital Soundtrack, and Digital Comic Book.\n\nThe Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
-      "developerName": "Rebel Wolves",
-      "publisherName": "Bandai Namco Entertainment Europe S.A.S."
-    },
-    {
-      "name": "ARC Raiders",
-      "title": "ARC Raiders",
-      "image": "https://store-images.s-microsoft.com/image/apps.28775.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.ecf290f8-07eb-4c48-8c03-98c08bad0d18",
-      "url": "https://www.xbox.com/en-US/games/arc-raiders",
-      "releaseDate": "2025-10-30",
-      "rating": 3.3,
-      "categories": [
-        "Action & adventure",
-        "Shooter"
-      ],
-      "developer": "Embark Studios",
-      "publisher": "Embark Studios",
-      "price": 39.99,
-      "currency": "USD",
-      "productId": "9NDF1F263RZ4",
+      "productId": "9P7ZBF3S7PSS",
       "availableOn": [
         "Handheld",
         "PC",
         "XCloud",
         "XboxSeriesX"
       ],
-      "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
-      "developerName": "Embark Studios",
-      "publisherName": "Embark Studios"
+      "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl is the unforgiving FPS survival adventure in a dark science-fiction open world. ",
+      "developerName": "GSC Game World",
+      "publisherName": "GSC Game World"
     },
     {
       "name": "Shelldiver",
@@ -1274,109 +1355,27 @@
       "publisherName": "Gagonfe"
     },
     {
-      "name": "Feed Your Cat: New Paths",
-      "title": "Feed Your Cat: New Paths",
-      "image": "https://store-images.s-microsoft.com/image/apps.38163.14633836782103413.81ffad0f-3f1b-4040-9c4b-e9f3c88613af.2cc77b42-50ad-4c1d-87eb-888a08349f50",
-      "url": "https://www.xbox.com/en-US/games/feed-your-cat-new-paths",
-      "releaseDate": "2026-09-02",
-      "rating": 4.0,
+      "name": "The Blood of Dawnwalker - Eclipse Edition",
+      "title": "The Blood of Dawnwalker - Eclipse Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.44863.14064244978732281.0da6d9f8-6b43-4d9b-8d69-e578a02527e2.a895ed64-f81b-40aa-b800-c273f478bfca",
+      "url": "https://www.xbox.com/en-US/games/the-blood-of-dawnwalker-eclipse-edition",
+      "releaseDate": "2026-09-03",
+      "rating": 4.3,
       "categories": [
-        "Puzzle & trivia",
-        "Family & kids",
-        "Strategy"
-      ],
-      "developer": "Tribus Games Indie",
-      "publisher": "Tribus Games Indie",
-      "price": 4.99,
-      "currency": "USD",
-      "productId": "9P5S2NJ46ZV2",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Tribus Games Indie",
-      "publisherName": "Tribus Games Indie"
-    },
-    {
-      "name": "Arcade Archives 2 Wiz",
-      "title": "Arcade Archives 2 Wiz",
-      "image": "https://store-images.s-microsoft.com/image/apps.10471.14479068433939488.bb0d33cb-d1db-49c6-8545-e9448e636065.23bb066a-a82b-4e67-98fc-617382d8a107",
-      "url": "https://www.xbox.com/en-US/games/arcade-archives-2-wiz",
-      "releaseDate": "2026-09-02",
-      "rating": 0.0,
-      "categories": [
-        "Action & adventure",
-        "Classics"
-      ],
-      "developer": "HAMSTER Corporation",
-      "publisher": "HAMSTER Corporation",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9NZBWF2X87G7",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "\"Wiz\" is an action game released by SEIBU KAIHATSU in 1985.\nPlay as Wiz, a wizard who controls 8 types of Magic to fight from the Depths, to the Land Realm, and finally into the Sky Realm.\nDefeat the monsters standing in your way, and make it to the Sky Realm to face off with a dragon.",
-      "developerName": "HAMSTER Corporation",
-      "publisherName": "HAMSTER Corporation"
-    },
-    {
-      "name": "Moonlighter 2: The Endless Vault",
-      "title": "Moonlighter 2: The Endless Vault",
-      "image": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
-      "url": "https://www.xbox.com/en-US/games/moonlighter-2-the-endless-vault",
-      "releaseDate": "2026-09-02",
-      "rating": 4.0,
-      "categories": [
-        "Action & adventure",
         "Role playing"
       ],
-      "developer": " Digital Sun",
-      "publisher": "11 bit studios",
-      "price": 29.99,
+      "developer": "Rebel Wolves",
+      "publisher": "Bandai Namco Entertainment Europe S.A.S.",
+      "price": 79.99,
       "currency": "USD",
-      "productId": "9NDJX252Q5BW",
+      "productId": "9N7QHQK06RKN",
       "availableOn": [
-        "Handheld",
         "PC",
-        "XCloud",
         "XboxSeriesX"
       ],
-      "description": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
-      "developerName": " Digital Sun",
-      "publisherName": "11 bit studios"
-    },
-    {
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "image": "https://store-images.s-microsoft.com/image/apps.3884.14102836618611203.f0cb3265-be6e-427a-b40b-327076d7be33.37d2bd92-59c1-4ced-b8f5-bed4aed8435d",
-      "url": "https://www.xbox.com/en-US/games/s.t.a.l.k.e.r.-2-heart-of-chornobyl",
-      "releaseDate": "2024-11-20",
-      "rating": 3.4,
-      "categories": [
-        "Shooter",
-        "Action & adventure",
-        "Role playing"
-      ],
-      "developer": "GSC Game World",
-      "publisher": "GSC Game World",
-      "price": 59.99,
-      "currency": "USD",
-      "productId": "9P7ZBF3S7PSS",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "S.T.A.L.K.E.R. 2: Heart of Chornobyl is the unforgiving FPS survival adventure in a dark science-fiction open world. ",
-      "developerName": "GSC Game World",
-      "publisherName": "GSC Game World"
+      "description": "The Eclipse Edition includes The Blood of Dawnwalker full game plus the Digital World Compendium, Digital Soundtrack, and Digital Comic Book.\n\nThe Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
+      "developerName": "Rebel Wolves",
+      "publisherName": "Bandai Namco Entertainment Europe S.A.S."
     },
     {
       "name": "Content Warning",
@@ -1403,57 +1402,6 @@
       "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone) ",
       "developerName": "Wilnyl, Philip, thePetHen, Skog, Zorro",
       "publisherName": "Landfall"
-    },
-    {
-      "name": "Super Woden Rally Edge",
-      "title": "Super Woden Rally Edge",
-      "image": "https://store-images.s-microsoft.com/image/apps.18966.14631407009914980.3be850d8-b904-4fc0-aac4-67635fc6efe7.149e6a52-5fbe-469c-8d28-c7c0ddf83cd3",
-      "url": "https://www.xbox.com/en-US/games/super-woden-rally-edge",
-      "releaseDate": "2026-09-02",
-      "rating": 4.9,
-      "categories": [
-        "Racing & flying"
-      ],
-      "developer": "Eastasiasoft Limited, Vijuda",
-      "publisher": "Eastasiasoft Limited",
-      "price": 14.99,
-      "currency": "USD",
-      "productId": "9P64L0SSV1HF",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Eastasiasoft Limited, Vijuda",
-      "publisherName": "Eastasiasoft Limited"
-    },
-    {
-      "name": "Once Alive",
-      "title": "Once Alive",
-      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
-      "url": "https://www.xbox.com/en-US/games/once-alive",
-      "releaseDate": "2026-08-28",
-      "rating": 3.6,
-      "categories": [
-        "Action & adventure",
-        "Other"
-      ],
-      "developer": "Cem Boray Yıldırım",
-      "publisher": "NAISU",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9MZNL4W23TWR",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
-      "developerName": "Cem Boray Yıldırım",
-      "publisherName": "NAISU"
     },
     {
       "name": "Grounded 2 (Game Preview)",
@@ -1536,6 +1484,109 @@
       "publisherName": "Skystone Games"
     },
     {
+      "name": "Feed Your Cat: New Paths",
+      "title": "Feed Your Cat: New Paths",
+      "image": "https://store-images.s-microsoft.com/image/apps.38163.14633836782103413.81ffad0f-3f1b-4040-9c4b-e9f3c88613af.2cc77b42-50ad-4c1d-87eb-888a08349f50",
+      "url": "https://www.xbox.com/en-US/games/feed-your-cat-new-paths",
+      "releaseDate": "2026-09-02",
+      "rating": 4.0,
+      "categories": [
+        "Puzzle & trivia",
+        "Family & kids",
+        "Strategy"
+      ],
+      "developer": "Tribus Games Indie",
+      "publisher": "Tribus Games Indie",
+      "price": 4.99,
+      "currency": "USD",
+      "productId": "9P5S2NJ46ZV2",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Tribus Games Indie",
+      "publisherName": "Tribus Games Indie"
+    },
+    {
+      "name": "Arcade Archives 2 Wiz",
+      "title": "Arcade Archives 2 Wiz",
+      "image": "https://store-images.s-microsoft.com/image/apps.10471.14479068433939488.bb0d33cb-d1db-49c6-8545-e9448e636065.23bb066a-a82b-4e67-98fc-617382d8a107",
+      "url": "https://www.xbox.com/en-US/games/arcade-archives-2-wiz",
+      "releaseDate": "2026-09-02",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Classics"
+      ],
+      "developer": "HAMSTER Corporation",
+      "publisher": "HAMSTER Corporation",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9NZBWF2X87G7",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "\"Wiz\" is an action game released by SEIBU KAIHATSU in 1985.\nPlay as Wiz, a wizard who controls 8 types of Magic to fight from the Depths, to the Land Realm, and finally into the Sky Realm.\nDefeat the monsters standing in your way, and make it to the Sky Realm to face off with a dragon.",
+      "developerName": "HAMSTER Corporation",
+      "publisherName": "HAMSTER Corporation"
+    },
+    {
+      "name": "Once Alive",
+      "title": "Once Alive",
+      "image": "https://store-images.s-microsoft.com/image/apps.42087.13871433963189546.a1636e0a-4a62-4a8a-b491-09d2452a1e26.9d49ab83-dc81-4664-945f-75f7ed54fec2",
+      "url": "https://www.xbox.com/en-US/games/once-alive",
+      "releaseDate": "2026-08-28",
+      "rating": 3.6,
+      "categories": [
+        "Action & adventure",
+        "Other"
+      ],
+      "developer": "Cem Boray Yıldırım",
+      "publisher": "NAISU",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9MZNL4W23TWR",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "A story-driven, first-person adventure game offering a cinematic experience. Embark on a journey to HaustVille, an abandoned settlement in a post-apocalyptic world. Explore your surroundings and uncover the mystery behind the disappearance of the last survivors.",
+      "developerName": "Cem Boray Yıldırım",
+      "publisherName": "NAISU"
+    },
+    {
+      "name": "Moonlighter 2: The Endless Vault",
+      "title": "Moonlighter 2: The Endless Vault",
+      "image": "https://store-images.s-microsoft.com/image/apps.4321.13613495733795404.958a29ae-aca4-4c3f-a15c-62c6c57d4d68.5f2dbb73-88d8-4b7b-8ea2-f27163e450bf",
+      "url": "https://www.xbox.com/en-US/games/moonlighter-2-the-endless-vault",
+      "releaseDate": "2026-09-02",
+      "rating": 4.0,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": " Digital Sun",
+      "publisher": "11 bit studios",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9NDJX252Q5BW",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
+      "developerName": " Digital Sun",
+      "publisherName": "11 bit studios"
+    },
+    {
       "name": "Blood Dungeon",
       "title": "Blood Dungeon",
       "image": "https://store-images.s-microsoft.com/image/apps.48520.13820636594696612.89ecbd3c-b2c0-41f3-8114-c05de3a18b22.471dc43f-c837-46c9-8434-8fc728146dd0",
@@ -1591,29 +1642,30 @@
       "publisherName": "Gaijin Distribution Kft"
     },
     {
-      "name": "Shikaku Room",
-      "title": "Shikaku Room",
-      "image": "https://store-images.s-microsoft.com/image/apps.37387.13950745670213299.16e058c8-51ed-4198-8e89-6bfb1145a93a.7a2b799c-a60a-4631-9a3e-0cab2962930a",
-      "url": "https://www.xbox.com/en-US/games/shikaku-room",
-      "releaseDate": "2026-09-01",
-      "rating": 3.0,
+      "name": "Super Woden Rally Edge",
+      "title": "Super Woden Rally Edge",
+      "image": "https://store-images.s-microsoft.com/image/apps.18966.14631407009914980.3be850d8-b904-4fc0-aac4-67635fc6efe7.149e6a52-5fbe-469c-8d28-c7c0ddf83cd3",
+      "url": "https://www.xbox.com/en-US/games/super-woden-rally-edge",
+      "releaseDate": "2026-09-02",
+      "rating": 4.9,
       "categories": [
-        "Puzzle & trivia",
-        "Classics"
+        "Racing & flying"
       ],
-      "developer": "Findon Software",
-      "publisher": "Findon Software",
-      "price": 4.79,
+      "developer": "Eastasiasoft Limited, Vijuda",
+      "publisher": "Eastasiasoft Limited",
+      "price": 14.99,
       "currency": "USD",
-      "productId": "9N2KBZ35NS7L",
+      "productId": "9P64L0SSV1HF",
       "availableOn": [
         "Handheld",
         "PC",
+        "XCloud",
+        "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Shikaku Room is a calm logic puzzle game about dividing grids into perfect rectangles. Enjoy simple rules, satisfying deduction, optional hints, achievements, and a peaceful puzzle experience designed for clear thinking.",
-      "developerName": "Findon Software",
-      "publisherName": "Findon Software"
+      "description": "",
+      "developerName": "Eastasiasoft Limited, Vijuda",
+      "publisherName": "Eastasiasoft Limited"
     },
     {
       "name": "Gears of War: E-Day Premium Edition Pre-Order",
@@ -1637,31 +1689,6 @@
       "description": "Experience the horror and brutality of Emergence Day. Join Marcus Fenix and Dominic Santiago as the Locust Horde erupts from below, igniting a desperate fight for survival.",
       "developerName": "The Coalition",
       "publisherName": "Xbox Game Studios"
-    },
-    {
-      "name": "Lizards Must Die 2",
-      "title": "Lizards Must Die 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.18387.13775468000233049.df9d7720-2499-4f70-a95d-7a411e8a02f7.5ceaf67f-864b-4666-b088-44dd59e55d5d",
-      "url": "https://www.xbox.com/en-US/games/lizards-must-die-2",
-      "releaseDate": "2026-08-27",
-      "rating": 3.7,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "The Bratans",
-      "publisher": "Sobaka Studio",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9NQ69THT77SV",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "The Bratans",
-      "publisherName": "Sobaka Studio"
     },
     {
       "name": "Halo Infinite",
@@ -1689,33 +1716,6 @@
       "publisherName": "Xbox Game Studios"
     },
     {
-      "name": "Puzzledorf",
-      "title": "Puzzledorf",
-      "image": "https://store-images.s-microsoft.com/image/apps.48561.14063589243125886.30d019c2-d0a2-4c9f-883f-f6510b313b29.be3da24e-6bea-4db7-a63f-1969f3810c84",
-      "url": "https://www.xbox.com/en-US/games/puzzledorf",
-      "releaseDate": "2026-08-31",
-      "rating": 5.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids",
-        "Classics"
-      ],
-      "developer": "Stuart's Pixel Games (c) 2019",
-      "publisher": "Stuart's Pixel Games (c) 2019",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9N7RDJ33K5GT",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Can you escape the land of puzzles? Solve puzzle mazes to find your way out.",
-      "developerName": "Stuart's Pixel Games (c) 2019",
-      "publisherName": "Stuart's Pixel Games (c) 2019"
-    },
-    {
       "name": "007 First Light - Standard Edition",
       "title": "007 First Light - Standard Edition",
       "image": "https://store-images.s-microsoft.com/image/apps.41143.13724632036791617.a67154ef-cc22-4eee-949f-2c609594dddb.baf8b00f-ac41-43f6-abdc-5d1a0f49eaed",
@@ -1740,30 +1740,54 @@
       "publisherName": "IO Interactive A/S"
     },
     {
-      "name": "Splash of Color",
-      "title": "Splash of Color",
-      "image": "https://store-images.s-microsoft.com/image/apps.11227.14012879265496695.638e548b-2d41-4182-b059-7b574c2e7aa6.47ebe485-c906-40e9-8323-3f7ff93896f3",
-      "url": "https://www.xbox.com/en-US/games/splash-of-color",
-      "releaseDate": "2026-08-28",
-      "rating": 3.9,
+      "name": "Lizards Must Die 2",
+      "title": "Lizards Must Die 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.18387.13775468000233049.df9d7720-2499-4f70-a95d-7a411e8a02f7.5ceaf67f-864b-4666-b088-44dd59e55d5d",
+      "url": "https://www.xbox.com/en-US/games/lizards-must-die-2",
+      "releaseDate": "2026-08-27",
+      "rating": 3.7,
       "categories": [
-        "Puzzle & trivia",
-        "Classics"
+        "Action & adventure"
       ],
-      "developer": "",
-      "publisher": "YABAI.GAMES sp. z o.o.",
-      "price": 0,
+      "developer": "The Bratans",
+      "publisher": "Sobaka Studio",
+      "price": 9.99,
       "currency": "USD",
-      "productId": "9N6K54VNTZSN",
+      "productId": "9NQ69THT77SV",
       "availableOn": [
         "Handheld",
         "PC",
         "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Fill the world with color one puzzle at time!",
-      "developerName": "",
-      "publisherName": "YABAI.GAMES sp. z o.o."
+      "description": "",
+      "developerName": "The Bratans",
+      "publisherName": "Sobaka Studio"
+    },
+    {
+      "name": "Shikaku Room",
+      "title": "Shikaku Room",
+      "image": "https://store-images.s-microsoft.com/image/apps.37387.13950745670213299.16e058c8-51ed-4198-8e89-6bfb1145a93a.7a2b799c-a60a-4631-9a3e-0cab2962930a",
+      "url": "https://www.xbox.com/en-US/games/shikaku-room",
+      "releaseDate": "2026-09-01",
+      "rating": 3.2,
+      "categories": [
+        "Puzzle & trivia",
+        "Classics"
+      ],
+      "developer": "Findon Software",
+      "publisher": "Findon Software",
+      "price": 4.79,
+      "currency": "USD",
+      "productId": "9N2KBZ35NS7L",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Shikaku Room is a calm logic puzzle game about dividing grids into perfect rectangles. Enjoy simple rules, satisfying deduction, optional hints, achievements, and a peaceful puzzle experience designed for clear thinking.",
+      "developerName": "Findon Software",
+      "publisherName": "Findon Software"
     },
     {
       "name": "Gang Beasts",
@@ -1819,6 +1843,59 @@
       "publisherName": "Warner Bros. Games"
     },
     {
+      "name": "Puzzledorf",
+      "title": "Puzzledorf",
+      "image": "https://store-images.s-microsoft.com/image/apps.48561.14063589243125886.30d019c2-d0a2-4c9f-883f-f6510b313b29.be3da24e-6bea-4db7-a63f-1969f3810c84",
+      "url": "https://www.xbox.com/en-US/games/puzzledorf",
+      "releaseDate": "2026-08-31",
+      "rating": 5.0,
+      "categories": [
+        "Puzzle & trivia",
+        "Family & kids",
+        "Classics"
+      ],
+      "developer": "Stuart's Pixel Games (c) 2019",
+      "publisher": "Stuart's Pixel Games (c) 2019",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9N7RDJ33K5GT",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Can you escape the land of puzzles? Solve puzzle mazes to find your way out.",
+      "developerName": "Stuart's Pixel Games (c) 2019",
+      "publisherName": "Stuart's Pixel Games (c) 2019"
+    },
+    {
+      "name": "Splash of Color",
+      "title": "Splash of Color",
+      "image": "https://store-images.s-microsoft.com/image/apps.11227.14012879265496695.638e548b-2d41-4182-b059-7b574c2e7aa6.47ebe485-c906-40e9-8323-3f7ff93896f3",
+      "url": "https://www.xbox.com/en-US/games/splash-of-color",
+      "releaseDate": "2026-08-28",
+      "rating": 3.9,
+      "categories": [
+        "Puzzle & trivia",
+        "Classics"
+      ],
+      "developer": "",
+      "publisher": "YABAI.GAMES sp. z o.o.",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9N6K54VNTZSN",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Fill the world with color one puzzle at time!",
+      "developerName": "",
+      "publisherName": "YABAI.GAMES sp. z o.o."
+    },
+    {
       "name": "Aniimo",
       "title": "Aniimo",
       "image": "https://store-images.s-microsoft.com/image/apps.50543.14271146495264987.8cf5afe7-2955-40e7-99ea-3f02b4de430e.bed8b12c-0815-473d-bec9-78605d8e0e7e",
@@ -1841,58 +1918,6 @@
       "description": "",
       "developerName": "Pawprint Studio",
       "publisherName": "Pawprint Studio"
-    },
-    {
-      "name": "Lou's Lagoon",
-      "title": "Lou's Lagoon",
-      "image": "https://store-images.s-microsoft.com/image/apps.59448.13614683237106150.bcc1f80c-c499-4825-a2db-4166d657e5ad.a211bcbc-86a7-4ac7-a8a5-a97e83fbd1b6",
-      "url": "https://www.xbox.com/en-US/games/lous-lagoon",
-      "releaseDate": "2026-08-27",
-      "rating": 2.9,
-      "categories": [
-        "Action & adventure",
-        "Family & kids",
-        "Racing & flying"
-      ],
-      "developer": "Tiny Roar",
-      "publisher": "Megabit Publishing",
-      "price": 24.99,
-      "currency": "USD",
-      "productId": "9NDPVFFZF6SK",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Take flight in your seaplane on a heartfelt adventure across the tropical Limbo archipelago. After a devastating storm, gather materials with your Swirler, and help the locals rebuild. Can you uncover the truth behind Uncle Lou’s disappearance?",
-      "developerName": "Tiny Roar",
-      "publisherName": "Megabit Publishing"
-    },
-    {
-      "name": "1964 Operation Velvet Twins",
-      "title": "1964 Operation Velvet Twins",
-      "image": "https://store-images.s-microsoft.com/image/apps.57433.14046679880941776.ab29b6ca-5ab6-46f2-8584-8837a4b62bfd.9a6c581a-59d5-4f6a-9873-b06cdbc6524e",
-      "url": "https://www.xbox.com/en-US/games/1964-operation-velvet-twins",
-      "releaseDate": "2026-08-28",
-      "rating": 4.0,
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "developer": "SEEP",
-      "publisher": "Ratalaika Games S.L.",
-      "price": 5.99,
-      "currency": "USD",
-      "productId": "9N8ML8L9SQRZ",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "One agent. Two fugitives. A mission soaked in bullets.",
-      "developerName": "SEEP",
-      "publisherName": "Ratalaika Games S.L."
     },
     {
       "name": "PGA TOUR 2K25",
@@ -1920,6 +1945,32 @@
       "description": "Step onto golf’s biggest stages and prove you can rise among the greats. Compete in the ultimate test: The PGA Championship, The U.S. Open, and The Open Championship make their PGA TOUR 2K debut.\n\nRise through the ranks in an expanded MyCAREER, where every round builds your legacy. Create your path to greatness with new MyPLAYER customization, upgraded Skill Trees, and advanced Course Designer tools. Then take your shot against the best in ranked, casual, and cross-platform multiplayer.\n\nYou didn’t show up for second place.",
       "developerName": "HB Studios",
       "publisherName": "2K"
+    },
+    {
+      "name": "Lou's Lagoon",
+      "title": "Lou's Lagoon",
+      "image": "https://store-images.s-microsoft.com/image/apps.59448.13614683237106150.bcc1f80c-c499-4825-a2db-4166d657e5ad.a211bcbc-86a7-4ac7-a8a5-a97e83fbd1b6",
+      "url": "https://www.xbox.com/en-US/games/lous-lagoon",
+      "releaseDate": "2026-08-27",
+      "rating": 2.9,
+      "categories": [
+        "Action & adventure",
+        "Family & kids",
+        "Racing & flying"
+      ],
+      "developer": "Tiny Roar",
+      "publisher": "Megabit Publishing",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9NDPVFFZF6SK",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Take flight in your seaplane on a heartfelt adventure across the tropical Limbo archipelago. After a devastating storm, gather materials with your Swirler, and help the locals rebuild. Can you uncover the truth behind Uncle Lou’s disappearance?",
+      "developerName": "Tiny Roar",
+      "publisherName": "Megabit Publishing"
     },
     {
       "name": "Asphalt Legends",
@@ -1950,32 +2001,6 @@
       "publisherName": "Gameloft"
     },
     {
-      "name": "Mighty Aphid: Remastered Edition",
-      "title": "Mighty Aphid: Remastered Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.45377.13847698055739814.8018eead-6b1f-4fb1-9c19-2c12d3d30105.4a0c3a8f-68e4-438c-9a91-755b0fa4cec2",
-      "url": "https://www.xbox.com/en-US/games/mighty-aphid-remastered-edition",
-      "releaseDate": "2026-08-28",
-      "rating": 3.0,
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "developer": "Cascadia Games LLC",
-      "publisher": "Cascadia Games LLC",
-      "price": 4.99,
-      "currency": "USD",
-      "productId": "9MW9G9B73VZW",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Run, shoot, swim, and fly. Fight big bosses. Earn upgrades.",
-      "developerName": "Cascadia Games LLC",
-      "publisherName": "Cascadia Games LLC"
-    },
-    {
       "name": "Fishing Planet",
       "title": "Fishing Planet",
       "image": "https://store-images.s-microsoft.com/image/apps.21937.70971773779833883.044502ea-9e5f-45b0-9e2a-50c9834a674b.1ca9aa85-21ec-47ca-8e03-00222cf432d9",
@@ -2001,6 +2026,58 @@
       "description": "Fishing Planet® is a unique and highly realistic online first-person multiplayer fishing simulator developed by avid fishing enthusiasts for anglers to bring you the full thrill of actual angling! Choose your lures, make your trophy catches and sharpen your real angling skills anywhere, anytime! \n \nThe game is FREE to play and just a download away!\n\nThe combination of unique graphics and realistic game physics will bring the realistic world of fishing directly to your computer screen!",
       "developerName": "Fishing Planet LLC",
       "publisherName": "Fishing Planet LLC"
+    },
+    {
+      "name": "1964 Operation Velvet Twins",
+      "title": "1964 Operation Velvet Twins",
+      "image": "https://store-images.s-microsoft.com/image/apps.57433.14046679880941776.ab29b6ca-5ab6-46f2-8584-8837a4b62bfd.9a6c581a-59d5-4f6a-9873-b06cdbc6524e",
+      "url": "https://www.xbox.com/en-US/games/1964-operation-velvet-twins",
+      "releaseDate": "2026-08-28",
+      "rating": 4.0,
+      "categories": [
+        "Action & adventure",
+        "Platformer"
+      ],
+      "developer": "SEEP",
+      "publisher": "Ratalaika Games S.L.",
+      "price": 5.99,
+      "currency": "USD",
+      "productId": "9N8ML8L9SQRZ",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "One agent. Two fugitives. A mission soaked in bullets.",
+      "developerName": "SEEP",
+      "publisherName": "Ratalaika Games S.L."
+    },
+    {
+      "name": "Fallout 4",
+      "title": "Fallout 4",
+      "image": "https://store-images.s-microsoft.com/image/apps.39982.66091604408099736.7f81588d-a4e2-49c1-b49d-b774ce2d8edb.bad9ecbd-69b6-42d5-8449-071c2137bc81",
+      "url": "https://www.xbox.com/en-US/games/fallout-4",
+      "releaseDate": "2015-11-10",
+      "rating": 4.6,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "price": 19.99,
+      "currency": "USD",
+      "productId": "C3KLDKZBHNCZ",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.\n\nYou are the sole survivor of Vault 111, emerging into a world reduced to ash by nuclear war. Every moment is a battle for survival, every decision shapes the future. Rebuild, reshape, and reclaim the Wasteland—your way.\n\nWelcome home.",
+      "developerName": "Bethesda Game Studios",
+      "publisherName": "Bethesda Softworks"
     },
     {
       "name": "Aggelos 2",
@@ -2030,56 +2107,30 @@
       "publisherName": "PQube Limited, PIXELHEART Corporation"
     },
     {
-      "name": "INK ENIGMA: Coloring Hidden Objects",
-      "title": "INK ENIGMA: Coloring Hidden Objects",
-      "image": "https://store-images.s-microsoft.com/image/apps.4582.14615247545619441.8d613e2a-b633-4ac3-9fcb-c42b49b855f6.cc7e6570-f7c8-4dc3-b8e7-f15bf7ce6b0e",
-      "url": "https://www.xbox.com/en-US/games/ink-enigma-coloring-hidden-objects",
+      "name": "Mighty Aphid: Remastered Edition",
+      "title": "Mighty Aphid: Remastered Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.45377.13847698055739814.8018eead-6b1f-4fb1-9c19-2c12d3d30105.4a0c3a8f-68e4-438c-9a91-755b0fa4cec2",
+      "url": "https://www.xbox.com/en-US/games/mighty-aphid-remastered-edition",
       "releaseDate": "2026-08-28",
-      "rating": 4.5,
+      "rating": 3.0,
       "categories": [
-        "Family & kids",
-        "Puzzle & trivia"
+        "Action & adventure",
+        "Platformer"
       ],
-      "developer": "AVGAM",
-      "publisher": "AVGAM",
+      "developer": "Cascadia Games LLC",
+      "publisher": "Cascadia Games LLC",
       "price": 4.99,
       "currency": "USD",
-      "productId": "9P6QHSKQSH78",
+      "productId": "9MW9G9B73VZW",
       "availableOn": [
         "Handheld",
         "PC",
         "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "A cozy hidden object game where finding items brings the canvas to life! Search through 40 intricate, colorless illustrations. Every hidden object you discover splashes vibrant colors onto the screen, transforming the black-and-white art into a satisfying masterpiece. Relax, search, and color!",
-      "developerName": "AVGAM",
-      "publisherName": "AVGAM"
-    },
-    {
-      "name": "Fallout 4",
-      "title": "Fallout 4",
-      "image": "https://store-images.s-microsoft.com/image/apps.39982.66091604408099736.7f81588d-a4e2-49c1-b49d-b774ce2d8edb.bad9ecbd-69b6-42d5-8449-071c2137bc81",
-      "url": "https://www.xbox.com/en-US/games/fallout-4",
-      "releaseDate": "2015-11-10",
-      "rating": 4.6,
-      "categories": [
-        "Role playing"
-      ],
-      "developer": "Bethesda Game Studios",
-      "publisher": "Bethesda Softworks",
-      "price": 19.99,
-      "currency": "USD",
-      "productId": "C3KLDKZBHNCZ",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.\n\nYou are the sole survivor of Vault 111, emerging into a world reduced to ash by nuclear war. Every moment is a battle for survival, every decision shapes the future. Rebuild, reshape, and reclaim the Wasteland—your way.\n\nWelcome home.",
-      "developerName": "Bethesda Game Studios",
-      "publisherName": "Bethesda Softworks"
+      "description": "Run, shoot, swim, and fly. Fight big bosses. Earn upgrades.",
+      "developerName": "Cascadia Games LLC",
+      "publisherName": "Cascadia Games LLC"
     },
     {
       "name": "Hidden Cats in Barcelona",
@@ -2106,6 +2157,58 @@
       "description": "Tour beautiful places and dance the Sardana with the hidden cats of Barcelona!",
       "developerName": "Nukearts Studio",
       "publisherName": "Silesia Games Sp. z o.o."
+    },
+    {
+      "name": "Sea of Thieves: 2026 Edition",
+      "title": "Sea of Thieves: 2026 Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c",
+      "url": "https://www.xbox.com/en-US/games/sea-of-thieves-2026-edition",
+      "releaseDate": "2018-03-20",
+      "rating": 3.6,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Rare Ltd",
+      "publisher": "Microsoft Studios",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9P2N57MC619K",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, fighting intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
+      "developerName": "Rare Ltd",
+      "publisherName": "Microsoft Studios"
+    },
+    {
+      "name": "INK ENIGMA: Coloring Hidden Objects",
+      "title": "INK ENIGMA: Coloring Hidden Objects",
+      "image": "https://store-images.s-microsoft.com/image/apps.4582.14615247545619441.8d613e2a-b633-4ac3-9fcb-c42b49b855f6.cc7e6570-f7c8-4dc3-b8e7-f15bf7ce6b0e",
+      "url": "https://www.xbox.com/en-US/games/ink-enigma-coloring-hidden-objects",
+      "releaseDate": "2026-08-28",
+      "rating": 4.5,
+      "categories": [
+        "Family & kids",
+        "Puzzle & trivia"
+      ],
+      "developer": "AVGAM",
+      "publisher": "AVGAM",
+      "price": 4.99,
+      "currency": "USD",
+      "productId": "9P6QHSKQSH78",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "A cozy hidden object game where finding items brings the canvas to life! Search through 40 intricate, colorless illustrations. Every hidden object you discover splashes vibrant colors onto the screen, transforming the black-and-white art into a satisfying masterpiece. Relax, search, and color!",
+      "developerName": "AVGAM",
+      "publisherName": "AVGAM"
     },
     {
       "name": "Murders on the Yangtze River",
@@ -2160,30 +2263,31 @@
       "publisherName": "E-Home Entertainment Development Company Ltd"
     },
     {
-      "name": "Sea of Thieves: 2026 Edition",
-      "title": "Sea of Thieves: 2026 Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c",
-      "url": "https://www.xbox.com/en-US/games/sea-of-thieves-2026-edition",
-      "releaseDate": "2018-03-20",
-      "rating": 3.6,
+      "name": "A Tower Full of Cats",
+      "title": "A Tower Full of Cats",
+      "image": "https://store-images.s-microsoft.com/image/apps.5559.14275535555614854.11f8049e-ebce-47d6-80d4-538007a15b85.35d3ba3e-60eb-4b59-b650-1515e2b0b0f5",
+      "url": "https://www.xbox.com/en-US/games/a-tower-full-of-cats",
+      "releaseDate": "2026-08-26",
+      "rating": 4.0,
       "categories": [
-        "Action & adventure"
+        "Puzzle & trivia",
+        "Family & kids",
+        "Other"
       ],
-      "developer": "Rare Ltd",
-      "publisher": "Microsoft Studios",
-      "price": 39.99,
+      "developer": "Devcats",
+      "publisher": "Alchemy Games",
+      "price": 5.99,
       "currency": "USD",
-      "productId": "9P2N57MC619K",
+      "productId": "9PK1Z7T54HHM",
       "availableOn": [
         "Handheld",
         "PC",
-        "XCloud",
         "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, fighting intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
-      "developerName": "Rare Ltd",
-      "publisherName": "Microsoft Studios"
+      "description": "Find hundreds of cats hidden across time in this vertical adventure",
+      "developerName": "Devcats",
+      "publisherName": "Alchemy Games"
     },
     {
       "name": "Comfy Corners: Unpack and Decorate",
@@ -2212,33 +2316,6 @@
       "publisherName": "Witenovastudio OÜ"
     },
     {
-      "name": "A Tower Full of Cats",
-      "title": "A Tower Full of Cats",
-      "image": "https://store-images.s-microsoft.com/image/apps.5559.14275535555614854.11f8049e-ebce-47d6-80d4-538007a15b85.35d3ba3e-60eb-4b59-b650-1515e2b0b0f5",
-      "url": "https://www.xbox.com/en-US/games/a-tower-full-of-cats",
-      "releaseDate": "2026-08-26",
-      "rating": 4.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids",
-        "Other"
-      ],
-      "developer": "Devcats",
-      "publisher": "Alchemy Games",
-      "price": 5.99,
-      "currency": "USD",
-      "productId": "9PK1Z7T54HHM",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Find hundreds of cats hidden across time in this vertical adventure",
-      "developerName": "Devcats",
-      "publisherName": "Alchemy Games"
-    },
-    {
       "name": "Golftacular!",
       "title": "Golftacular!",
       "image": "https://store-images.s-microsoft.com/image/apps.52482.13824042855170146.4ccf72b8-4835-4d44-a9e6-5825585a6c30.084f57b5-d818-4570-86a5-3198aed8c06b",
@@ -2263,29 +2340,6 @@
       "description": "Mini-golf turned upside down! Abuse wild items on a variety of challenging golf tours. Shoot, fly, explode, and whatever else you can to get in the hole! It’s golf... barely.",
       "developerName": "Both Good",
       "publisherName": "Both Good"
-    },
-    {
-      "name": "Funguys Swarm",
-      "title": "Funguys Swarm",
-      "image": "https://store-images.s-microsoft.com/image/apps.46963.13751764581392799.6c094d66-e087-4698-9e8b-581ecb6fd6a8.fb0dd9b6-41be-414d-b323-a93491e40c95",
-      "url": "https://www.xbox.com/en-US/games/funguys-swarm",
-      "releaseDate": "2026-08-25",
-      "rating": 4.1,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Stairway Games",
-      "publisher": "Stairway Games",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9NN1XS4FC8XS",
-      "availableOn": [
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe... just maybe, save the day if you’re skilled (or lucky) enough.",
-      "developerName": "Stairway Games",
-      "publisherName": "Stairway Games"
     },
     {
       "name": "Subnautica",
@@ -2315,29 +2369,27 @@
       "publisherName": "Unknown Worlds Entertainment"
     },
     {
-      "name": "Mini Tank Mayhem",
-      "title": "Mini Tank Mayhem",
-      "image": "https://store-images.s-microsoft.com/image/apps.41889.14347739289301865.bb919e6b-0c63-4f9f-bede-95afcfeabc2f.e4fa7eeb-a59d-4e76-b605-00b3a9dc0900",
-      "url": "https://www.xbox.com/en-US/games/mini-tank-mayhem",
+      "name": "Funguys Swarm",
+      "title": "Funguys Swarm",
+      "image": "https://store-images.s-microsoft.com/image/apps.46963.13751764581392799.6c094d66-e087-4698-9e8b-581ecb6fd6a8.fb0dd9b6-41be-414d-b323-a93491e40c95",
+      "url": "https://www.xbox.com/en-US/games/funguys-swarm",
       "releaseDate": "2026-08-25",
-      "rating": 5.0,
+      "rating": 4.1,
       "categories": [
-        "Strategy",
-        "Card & board"
+        "Action & adventure"
       ],
-      "developer": "Algorocks",
-      "publisher": "Algorocks",
-      "price": 12.99,
+      "developer": "Stairway Games",
+      "publisher": "Stairway Games",
+      "price": 9.99,
       "currency": "USD",
-      "productId": "9PNB2S3QB8BL",
+      "productId": "9NN1XS4FC8XS",
       "availableOn": [
-        "Handheld",
         "PC",
         "XboxSeriesX"
       ],
-      "description": "Mini Tank Mayhem is a roguelike deck-building tower defense game where you command a powerful mini-tank to repel waves of alien invaders. Craft your very own deck, deploy strategic defenses, and unleash devastating combos to protect Earth from pesky aliens!",
-      "developerName": "Algorocks",
-      "publisherName": "Algorocks"
+      "description": "Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe... just maybe, save the day if you’re skilled (or lucky) enough.",
+      "developerName": "Stairway Games",
+      "publisherName": "Stairway Games"
     },
     {
       "name": "RESIDENT EVIL 2",
@@ -2956,7 +3008,7 @@
     {
       "name": "Zenless Zone Zero",
       "title": "Zenless Zone Zero",
-      "image": "https://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
+      "image": "https://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
       "url": "https://www.xbox.com/en-US/games/zenless-zone-zero",
       "releaseDate": "2025-06-05",
       "rating": 4.4,
@@ -4298,7 +4350,6 @@
       "availableOn": [
         "Handheld",
         "PC",
-        "XboxOne",
         "XboxSeriesX"
       ],
       "description": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
@@ -4771,6 +4822,7 @@
       "currency": "USD",
       "productId": "9P8XK6X57GBF",
       "availableOn": [
+        "PC",
         "XboxSeriesX"
       ],
       "description": "",
@@ -5172,7 +5224,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.15768.13542093730857198.ae17ee5a-e9bc-4473-ae98-584fcde63aee.f2ad3b0b-4193-4c63-a4f2-d2c6a9fa7cf7",
       "url": "https://www.xbox.com/en-US/games/hell-let-loose-vietnam-deluxe-edition",
       "releaseDate": "2026-08-13",
-      "rating": 3.1,
+      "rating": 3.0,
       "categories": [
         "Shooter"
       ],
@@ -5271,7 +5323,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.25150.14411885924193841.93133950-b98f-4cba-ae34-773a5148a1de.cb694d74-0f51-4c03-b46b-b513eb4c9db1",
       "url": "https://www.xbox.com/en-US/games/gallipoli",
       "releaseDate": "2026-08-20",
-      "rating": 4.1,
+      "rating": 4.2,
       "categories": [
         "Shooter",
         "Strategy",
@@ -6737,7 +6789,7 @@
     {
       "name": "SMITE 2 (Game Preview)",
       "title": "SMITE 2 (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.54894.14402893629943553.362bf74c-1912-4b56-af34-2a4f02642352.823bd93f-bf11-4e1a-aa9f-a8bf96fef598",
+      "image": "https://store-images.s-microsoft.com/image/apps.59570.14402893629943553.4ce4ac4a-6ead-40b7-84e1-cf013cdf1bd0.61c38eae-e055-4043-b23d-39500ac76282",
       "url": "https://www.xbox.com/en-US/games/smite-2-(game-preview)",
       "releaseDate": "9998-12-30",
       "rating": 2.2,
@@ -6817,7 +6869,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.43403.14268784579049883.7baa6b03-b644-46a0-b2d9-71ca584b3862.b37e68d8-f216-4469-a3f2-914e43748ce2",
       "url": "https://www.xbox.com/en-US/games/planet-coaster-2",
       "releaseDate": "2024-11-06",
-      "rating": 3.4,
+      "rating": 3.3,
       "categories": [
         "Simulation",
         "Strategy"
@@ -7926,7 +7978,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.29767.13620263320704218.3e4e3672-2523-40bc-888a-b7dcef4d41e4.c5adb58f-c70c-4179-9fe3-ff232a9a67fb",
       "url": "https://www.xbox.com/en-US/games/control-resonant",
       "releaseDate": "2026-09-24",
-      "rating": 5.0,
+      "rating": 4.9,
       "categories": [
         "Action & adventure"
       ],
@@ -8713,7 +8765,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.47931.14421413020486333.fb039328-5a4e-49b5-86e2-9f1b96e4662e.a2c103bc-7ec5-4e6a-8bb6-d673aca6b7ad",
       "url": "https://www.xbox.com/en-US/games/serious-sam-shatterverse",
       "releaseDate": "9998-12-30",
-      "rating": 4.1,
+      "rating": 4.0,
       "categories": [
         "Action & adventure"
       ],
@@ -12848,7 +12900,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.30510.14172841759095673.813a49ea-ac20-4aed-8857-f3ba4b7e19a8.8e8b572b-39a7-488b-b70e-dd15021b4593",
       "url": "https://www.xbox.com/en-US/games/routine",
       "releaseDate": "2025-12-04",
-      "rating": 4.1,
+      "rating": 4.2,
       "categories": [
         "Action & adventure"
       ],
@@ -13285,7 +13337,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.44663.14200926229907441.ad41dfca-7a64-4dc9-b07b-4d47f74dcec4.725afedd-91ba-4388-aea9-b339c2e0957a",
       "url": "https://www.xbox.com/en-US/games/control-resonant-digital-deluxe-edition",
       "releaseDate": "2026-09-24",
-      "rating": 5.0,
+      "rating": 4.9,
       "categories": [
         "Action & adventure"
       ],
@@ -13572,7 +13624,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.52140.13946837044490421.c4b3b0d7-ac0d-4fe9-b411-38a69549e5c4.ea0e40e9-ceab-4966-8f2c-f70403459b6f",
       "url": "https://www.xbox.com/en-US/games/iridio",
       "releaseDate": "2026-08-11",
-      "rating": 1.0,
+      "rating": 2.3,
       "categories": [
         "Action & adventure",
         "Shooter"
@@ -15665,6 +15717,28 @@
       "publisherName": "astragon Entertainment"
     },
     {
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "image": "https://store-images.s-microsoft.com/image/apps.22152.14360936962313275.d5800ab2-f5c2-4ca4-b20f-b66ceccc1330.89de29c2-55d6-4095-be26-b5d1eab6abf2",
+      "url": "https://www.xbox.com/en-US/games/virtua-fighter-5-r.e.v.o.-world-stage",
+      "releaseDate": "2025-10-30",
+      "rating": 4.3,
+      "categories": [
+        "Fighting"
+      ],
+      "developer": "SEGA",
+      "publisher": "SEGA",
+      "price": 19.99,
+      "currency": "USD",
+      "productId": "9NSM674QVLBS",
+      "availableOn": [
+        "XboxSeriesX"
+      ],
+      "description": "The pioneer 3D fighting series continues to evolve as Virtua Fighter 5 R.E.V.O. World Stage arrives on Xbox Series X|S.",
+      "developerName": "SEGA",
+      "publisherName": "SEGA"
+    },
+    {
       "name": "Liquor Store Simulator",
       "title": "Liquor Store Simulator",
       "image": "https://store-images.s-microsoft.com/image/apps.23961.14378164280373775.ae429311-fc58-482b-9a4e-6a9bfd8764e4.7352239b-d662-42ac-be17-e03715754583",
@@ -15869,7 +15943,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.59810.14370796143877437.8b9253df-73f5-4b7a-9ef9-8edbbac7a429.14d81fd7-504c-43a9-bc38-fc0c0808faf9",
       "url": "https://www.xbox.com/en-US/games/robocop-rogue-city-alex-murphy-edition",
       "releaseDate": "2023-11-02",
-      "rating": 4.3,
+      "rating": 4.2,
       "categories": [
         "Shooter"
       ],
@@ -19071,7 +19145,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.42439.13772143548994075.3e90cce6-5f59-49ea-894e-1f75bce52ade.7f270290-5d85-43cc-937e-3740a0bbc6f6",
       "url": "https://www.xbox.com/en-US/games/ground-zero-hero",
       "releaseDate": "2026-08-20",
-      "rating": 4.8,
+      "rating": 4.7,
       "categories": [
         "Action & adventure",
         "Other",
@@ -19565,7 +19639,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.1712.69676224553003885.7746d59f-9224-4b66-8097-e540a8ad4b00.a2e18719-7a03-42b0-9324-907f92092527",
       "url": "https://www.xbox.com/en-US/games/blinx-the-time-sweeper",
       "releaseDate": "2018-04-17",
-      "rating": 4.2,
+      "rating": 4.3,
       "categories": [
         "Platformer"
       ],
@@ -19925,6 +19999,28 @@
       "publisherName": "Outright Games Ltd."
     },
     {
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage 30th Anniversary Edition",
+      "title": "Virtua Fighter 5 R.E.V.O. World Stage 30th Anniversary Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.7558.14467200603854993.e22e2475-0b3c-4dd9-8ed9-eca71f7cb4e4.ef92d88c-2ea2-4220-b7ae-30eaef1443a5",
+      "url": "https://www.xbox.com/en-US/games/virtua-fighter-5-r.e.v.o.-world-stage-30th-anniversary-edition",
+      "releaseDate": "2025-10-30",
+      "rating": 4.4,
+      "categories": [
+        "Fighting"
+      ],
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "price": 49.99,
+      "currency": "USD",
+      "productId": "9NZXM47MHK30",
+      "availableOn": [
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Ryu Ga Gotoku Studio",
+      "publisherName": "SEGA"
+    },
+    {
       "name": "ONTOS",
       "title": "ONTOS",
       "image": "https://store-images.s-microsoft.com/image/apps.28541.13535232700254623.dbaff83a-fdd9-49d8-af12-961f91bb36e7.dc5b08e0-d4f5-4ebc-98b7-39eba9e122d1",
@@ -20078,7 +20174,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.29767.13620263320704218.3e4e3672-2523-40bc-888a-b7dcef4d41e4.c5adb58f-c70c-4179-9fe3-ff232a9a67fb",
       "url": "https://www.xbox.com/en-US/games/control-resonant",
       "releaseDate": "",
-      "rating": 5.0,
+      "rating": 4.9,
       "categories": [
         "Action & adventure",
         "Role playing"
@@ -20608,7 +20704,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.4092.13799908909376303.068c61ce-e16d-4996-b3c7-3f344b31bc81.314f47c7-8880-44be-b87c-87680bbb1ed4",
       "url": "https://www.xbox.com/en-US/games/the-legacy-of-griselda",
       "releaseDate": "2026-03-26",
-      "rating": 1.7,
+      "rating": 1.6,
       "categories": [
         "Action & adventure",
         "Role playing"
@@ -20997,6 +21093,7 @@
       "availableOn": [
         "Handheld",
         "PC",
+        "XCloud",
         "XboxSeriesX"
       ],
       "description": "Drive officially licensed buses from renowned manufacturers and manage your bus company to success. Felicia Bay’s public transportation system is counting on you!",
@@ -26191,7 +26288,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.21295.14288231733152214.290184b6-ce00-4053-8cde-08487fc95b68.5f8039b4-e1ad-4b2d-a2c5-0e8d63d267a1",
       "url": "https://www.xbox.com/en-US/games/menace-from-the-deep-complete-edition",
       "releaseDate": "2026-05-14",
-      "rating": 4.4,
+      "rating": 4.2,
       "categories": [
         "Card & board",
         "Action & adventure",
@@ -27915,6 +28012,31 @@
       "publisherName": "NiuGamer"
     },
     {
+      "name": "Mini Tank Mayhem",
+      "title": "Mini Tank Mayhem",
+      "image": "https://store-images.s-microsoft.com/image/apps.41889.14347739289301865.bb919e6b-0c63-4f9f-bede-95afcfeabc2f.e4fa7eeb-a59d-4e76-b605-00b3a9dc0900",
+      "url": "https://www.xbox.com/en-US/games/mini-tank-mayhem",
+      "releaseDate": "2026-08-25",
+      "rating": 5.0,
+      "categories": [
+        "Strategy",
+        "Card & board"
+      ],
+      "developer": "Algorocks",
+      "publisher": "Algorocks",
+      "price": 12.99,
+      "currency": "USD",
+      "productId": "9PNB2S3QB8BL",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Mini Tank Mayhem is a roguelike deck-building tower defense game where you command a powerful mini-tank to repel waves of alien invaders. Craft your very own deck, deploy strategic defenses, and unleash devastating combos to protect Earth from pesky aliens!",
+      "developerName": "Algorocks",
+      "publisherName": "Algorocks"
+    },
+    {
       "name": "Dora™: Rainforest Rescue",
       "title": "Dora™: Rainforest Rescue",
       "image": "https://store-images.s-microsoft.com/image/apps.49692.14508670864876739.59959daa-37f7-4266-b485-a95128d28458.08bab70f-c977-4a75-bd7f-3f44efc3db2a",
@@ -28569,7 +28691,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.56247.14561587835971080.ef462679-a002-41b3-9588-9a30f8f0294c.39e9fb01-5335-48d0-8ee1-2df17f4fb1f2",
       "url": "https://www.xbox.com/en-US/games/dragon-ruins",
       "releaseDate": "2025-09-05",
-      "rating": 4.1,
+      "rating": 4.2,
       "categories": [
         "Role playing"
       ],
@@ -31127,7 +31249,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.47841.14463879645703570.aa8c3b9e-acba-4af8-bc7e-a2b3df58d240.f934973d-bf49-4974-87c8-ab54b3cbb9f9",
       "url": "https://www.xbox.com/en-US/games/dungeon-antiqua",
       "releaseDate": "2026-07-29",
-      "rating": 4.7,
+      "rating": 4.1,
       "categories": [
         "Role playing",
         "Classics"
@@ -32618,7 +32740,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.53421.14503215682710884.24e9c538-0d51-40f7-81ec-01d6e9d7179d.c67df15e-a1d0-4c02-959c-7b4096e95bee",
       "url": "https://www.xbox.com/en-US/games/arc-seed",
       "releaseDate": "2026-04-28",
-      "rating": 4.0,
+      "rating": 3.4,
       "categories": [
         "Strategy"
       ],
@@ -42100,30 +42222,6 @@
       "description": "On the eve of his first performance, Francis Vendetti battles with the legacy of a dead folk legend and the cosmic wanderings of his own imagination. Francis, a teenage guitar prodigy, sets out on a psychedelic, multidimensional journey to inspire his stage persona. ",
       "developerName": "Beethoven & Dinosaur",
       "publisherName": "Annapurna Interactive"
-    },
-    {
-      "name": "SPRAWL zero",
-      "title": "SPRAWL zero",
-      "image": "https://store-images.s-microsoft.com/image/apps.57151.14258507337999621.09030770-7baf-4787-926e-eeb51c618bd0.b7fb3451-edc6-4ac9-9278-495e39417940",
-      "url": "https://www.xbox.com/en-US/games/sprawl-zero",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Shooter"
-      ],
-      "developer": "MAETH",
-      "publisher": "Kwalee",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9PKP8B81K6H0",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Sprawl Zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.",
-      "developerName": "MAETH",
-      "publisherName": "Kwalee"
     },
     {
       "name": "Overrogue",
@@ -52171,32 +52269,6 @@
       "description": "THRASH RALLY is an original racing game released by SNK in 1991. Two game modes \"World Rally Championship Mode\" and \"Rally Mode\" are available. Travel through cities and the countryside as you make your way through the courses.\r\n*Game sections requiring use of the connection jack are not included.",
       "developerName": "HAMSTER Corporation",
       "publisherName": "HAMSTER Corporation"
-    },
-    {
-      "name": "Cats Around Us: Black Cat",
-      "title": "Cats Around Us: Black Cat",
-      "image": "https://store-images.s-microsoft.com/image/apps.61521.14401198146868703.773a20f9-7c52-4cab-b699-3f38b5d3ee37.558bc98a-8d0f-4842-aec1-edafc47e056a",
-      "url": "https://www.xbox.com/en-US/games/cats-around-us-black-cat",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids"
-      ],
-      "developer": "Noobzilla",
-      "publisher": "Silesia Games Sp. z o.o.",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9NV4N9ZBPP6S",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Spot hidden cats in a comic book about a sneaky black kitty!",
-      "developerName": "Noobzilla",
-      "publisherName": "Silesia Games Sp. z o.o."
     },
     {
       "name": "30 Birds",
@@ -63032,7 +63104,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.2105.13748343850527835.b98314de-e7a3-447c-9ca6-07afb1124dd3.c361a526-28ee-4fcc-96e9-6bebca87c31a",
       "url": "https://www.xbox.com/en-US/games/pool-slide-story",
       "releaseDate": "2024-05-02",
-      "rating": 5.0,
+      "rating": 4.9,
       "categories": [
         "Simulation",
         "Classics",
@@ -63657,6 +63729,32 @@
       "description": "Greetings. Your Mind Scanner request has been approved. Your duty is to diagnose and treat the citizens of The Structure. The patient list is long so don't waste your time. We’ll let you see your daughter soon...",
       "developerName": "The Outer Zone",
       "publisherName": "Brave At Night"
+    },
+    {
+      "name": "Hundred Bullets",
+      "title": "Hundred Bullets",
+      "image": "https://store-images.s-microsoft.com/image/apps.8065.14603120171736853.7f6e6397-a574-4847-b7d1-147408dd4a0f.8baaeaae-7111-4f72-9b4d-462125d53b92",
+      "url": "https://www.xbox.com/en-US/games/hundred-bullets",
+      "releaseDate": "2022-03-08",
+      "rating": 4.5,
+      "categories": [
+        "Action & adventure",
+        "Shooter"
+      ],
+      "developer": "Silverware Games, Inc.",
+      "publisher": "Silverware Games, Inc.",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9P7BW4GN1LR0",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Silverware Games, Inc.",
+      "publisherName": "Silverware Games, Inc."
     },
     {
       "name": "Maze: Path of Light",
@@ -68609,33 +68707,6 @@
       "publisherName": "Poor Cat"
     },
     {
-      "name": "TORO 2",
-      "title": "TORO 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.14565.14508220065967935.a2da96f2-e546-40cc-ab82-69331d854bf7.5664c79e-4631-4f2f-9d97-3f5cb5cdc8fe",
-      "url": "https://www.xbox.com/en-US/games/toro-2",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Action & adventure",
-        "Other",
-        "Simulation",
-        "Sports"
-      ],
-      "developer": "Recotechnology SL",
-      "publisher": "Recotechnology SL",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9P1NGS4GXGQD",
-      "availableOn": [
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Toro 2 is a 3D bullfighting simulator where you'll experience the thrill of bullfighting in the world's most famous bullrings in Career Mode. Challenge your friends in fast-paced Versus Mode, where you can choose between the raw power of a fighting bull or the skill and style of a bullfighter.",
-      "developerName": "Recotechnology SL",
-      "publisherName": "Recotechnology SL"
-    },
-    {
       "name": "Bloomyth",
       "title": "Bloomyth",
       "image": "https://store-images.s-microsoft.com/image/apps.57940.14020607237849566.07f63300-c9cf-4b7c-98ed-ca26943614ce.fd521464-b5e5-472b-ab88-0da07ee238f5",
@@ -69358,7 +69429,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.46958.14173374850869463.7ad7606f-f516-4dc9-8670-2782686cf55c.23e4c93c-9c62-40f6-bc4d-374be9cb9ba2",
       "url": "https://www.xbox.com/en-US/games/platzle",
       "releaseDate": "2025-10-10",
-      "rating": 0.0,
+      "rating": 5.0,
       "categories": [
         "Platformer",
         "Puzzle & trivia"
@@ -69547,6 +69618,29 @@
       "publisherName": "SQUARE ENIX"
     },
     {
+      "name": "FINAL FANTASY VII Remake Series Trilogy Edition",
+      "title": "FINAL FANTASY VII Remake Series Trilogy Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.47767.14360787069465286.f0caf65d-6eb3-4643-b5bc-1c9ea0620572.ef657680-932b-4714-8110-4987f63d8b16",
+      "url": "https://www.xbox.com/en-US/games/final-fantasy-vii-remake-series-trilogy-edition",
+      "releaseDate": "2027-04-08",
+      "rating": 4.4,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "SQUARE ENIX",
+      "publisher": "SQUARE ENIX",
+      "price": 84.99,
+      "currency": "USD",
+      "productId": "9NSM55P99853",
+      "availableOn": [
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "The Trilogy Edition of the FINAL FANTASY VII Remake Series. This product includes FINAL FANTASY VII REMAKE INTERGRADE, FINAL FANTASY VII REBIRTH, and FINAL FANTASY VII REVELATION.",
+      "developerName": "SQUARE ENIX",
+      "publisherName": "SQUARE ENIX"
+    },
+    {
       "name": "Corner Shop: NightShift",
       "title": "Corner Shop: NightShift",
       "image": "https://store-images.s-microsoft.com/image/apps.54250.14391392336560552.9dfd2431-be3f-4afc-b8ba-5a170411a48f.4ce3a315-c683-4d7e-aff5-59fea6d964e4",
@@ -69570,29 +69664,6 @@
       "description": "",
       "developerName": "Console Labs S.A / Live Motion Games",
       "publisherName": "PlayWay S.A."
-    },
-    {
-      "name": "FINAL FANTASY VII Remake Series Trilogy Edition",
-      "title": "FINAL FANTASY VII Remake Series Trilogy Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.47767.14360787069465286.f0caf65d-6eb3-4643-b5bc-1c9ea0620572.ef657680-932b-4714-8110-4987f63d8b16",
-      "url": "https://www.xbox.com/en-US/games/final-fantasy-vii-remake-series-trilogy-edition",
-      "releaseDate": "2027-04-08",
-      "rating": 4.4,
-      "categories": [
-        "Role playing"
-      ],
-      "developer": "SQUARE ENIX",
-      "publisher": "SQUARE ENIX",
-      "price": 84.99,
-      "currency": "USD",
-      "productId": "9NSM55P99853",
-      "availableOn": [
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The Trilogy Edition of the FINAL FANTASY VII Remake Series. This product includes FINAL FANTASY VII REMAKE INTERGRADE, FINAL FANTASY VII REBIRTH, and FINAL FANTASY VII REVELATION.",
-      "developerName": "SQUARE ENIX",
-      "publisherName": "SQUARE ENIX"
     },
     {
       "name": "FINAL FANTASY VII REVELATION",
@@ -69645,32 +69716,6 @@
       "publisherName": "QUByte Interactive"
     },
     {
-      "name": "Lost in Loss",
-      "title": "Lost in Loss",
-      "image": "https://store-images.s-microsoft.com/image/apps.57939.14524176624535453.4a6b3ffd-1f41-4416-9d17-2d44dec98d07.a1d1ed56-0bfa-4898-9428-62b1aa6795be",
-      "url": "https://www.xbox.com/en-US/games/lost-in-loss",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids"
-      ],
-      "developer": "Soroka Games",
-      "publisher": "Soroka Games",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9P0MHMZ12ZZ0",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Welcome to the strangest case of your career, detective: characters have forgotten who they are! In this cozy hidden object adventure, find items tied to memories and restore lost identities — uncover the truth behind the loss.",
-      "developerName": "Soroka Games",
-      "publisherName": "Soroka Games"
-    },
-    {
       "name": "HYAKKI YAKO Survivors",
       "title": "HYAKKI YAKO Survivors",
       "image": "https://store-images.s-microsoft.com/image/apps.43041.13919655496703163.71519eb9-e002-4731-86b2-8f01debb9796.568ae3ec-69af-4aba-8596-6e056fdf6ea2",
@@ -69716,6 +69761,32 @@
       "description": "FINAL FANTASY VII REVELATION's Premium Edition. This product includes the main game, the Story Expansion Pass, and Early Access, which allows you to play the game 24 hours before its release.",
       "developerName": "SQUARE ENIX",
       "publisherName": "SQUARE ENIX"
+    },
+    {
+      "name": "Lost in Loss",
+      "title": "Lost in Loss",
+      "image": "https://store-images.s-microsoft.com/image/apps.57939.14524176624535453.4a6b3ffd-1f41-4416-9d17-2d44dec98d07.a1d1ed56-0bfa-4898-9428-62b1aa6795be",
+      "url": "https://www.xbox.com/en-US/games/lost-in-loss",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Puzzle & trivia",
+        "Family & kids"
+      ],
+      "developer": "Soroka Games",
+      "publisher": "Soroka Games",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9P0MHMZ12ZZ0",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Welcome to the strangest case of your career, detective: characters have forgotten who they are! In this cozy hidden object adventure, find items tied to memories and restore lost identities — uncover the truth behind the loss.",
+      "developerName": "Soroka Games",
+      "publisherName": "Soroka Games"
     }
   ]
 }
