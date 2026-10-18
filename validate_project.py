@@ -2,6 +2,7 @@
 """Validate deployable files and XPA data invariants."""
 
 import json
+from datetime import datetime
 from pathlib import Path
 
 
@@ -29,6 +30,22 @@ def validate_games_file(path):
             raise ValueError(f"{path.name}: games[{index}] 缺少名称")
         if game.get("productId"):
             product_ids.append(str(game["productId"]).lower())
+        if "firstSeenDate" in game:
+            first_seen_date = game["firstSeenDate"]
+            if not isinstance(first_seen_date, str) or not first_seen_date.strip():
+                raise ValueError(
+                    f"{path.name}: games[{index}].firstSeenDate 必须是 ISO 时间字符串"
+                )
+            try:
+                datetime.fromisoformat(first_seen_date.replace("Z", "+00:00"))
+            except ValueError as error:
+                raise ValueError(
+                    f"{path.name}: games[{index}].firstSeenDate 不是有效的 ISO 时间"
+                ) from error
+        if game.get("isNew") and not game.get("firstSeenDate"):
+            raise ValueError(
+                f"{path.name}: games[{index}] 是新增游戏但缺少 firstSeenDate"
+            )
 
     if len(product_ids) != len(set(product_ids)):
         raise ValueError(f"{path.name}: productId 存在重复")

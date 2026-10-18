@@ -413,6 +413,19 @@ body {
     content: '📅';
 }
 
+.game-added-date {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #90ee90;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.game-added-date::before {
+    content: '➕';
+}
+
 .game-link {
     display: inline-block;
     margin-top: 15px;

@@ -29,13 +29,18 @@ def game_key(game):
     return f"title:{title}" if title else None
 
 
-def tag_new_games(current_games, previous_games):
+def tag_new_games(current_games, previous_games, published_games=None, now=None):
     previous_by_key = {
         key: game for game in previous_games if (key := game_key(game)) is not None
     }
+    published_by_key = {
+        key: game
+        for game in (published_games or [])
+        if (key := game_key(game)) is not None
+    }
     tagged_games = []
     new_games = []
-    now = datetime.now(timezone.utc).isoformat()
+    first_seen_now = now or datetime.now(timezone.utc).isoformat()
 
     for source_game in current_games:
         game = dict(source_game)
@@ -45,12 +50,17 @@ def tag_new_games(current_games, previous_games):
         game["isNew"] = is_new
 
         if is_new:
-            game["firstSeenDate"] = now
+            game["firstSeenDate"] = first_seen_now
             new_games.append(game)
-        elif previous_game and previous_game.get("firstSeenDate"):
-            game["firstSeenDate"] = previous_game["firstSeenDate"]
         else:
-            game.pop("firstSeenDate", None)
+            historical_game = published_by_key.get(key) if key else None
+            first_seen_date = (
+                historical_game.get("firstSeenDate") if historical_game else None
+            ) or (previous_game.get("firstSeenDate") if previous_game else None)
+            if first_seen_date:
+                game["firstSeenDate"] = first_seen_date
+            else:
+                game.pop("firstSeenDate", None)
 
         tagged_games.append(game)
 
@@ -70,7 +80,10 @@ def tag_new_games(current_games, previous_games):
 def main():
     current_games = load_snapshot(CURRENT_FILE)
     previous_games = load_snapshot(PREVIOUS_FILE)
-    tagged_games, new_games = tag_new_games(current_games, previous_games)
+    published_games = load_snapshot(OUTPUT_FILE) if OUTPUT_FILE.exists() else []
+    tagged_games, new_games = tag_new_games(
+        current_games, previous_games, published_games
+    )
 
     payload = {
         "totalGames": len(tagged_games),
