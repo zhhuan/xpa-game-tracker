@@ -26,6 +26,8 @@ jobs:
         run: node --check app.js
       - name: Compile Python scripts
         run: python -m compileall -q *.py
+      - name: Run data comparison tests
+        run: python -m unittest -v test_compare_and_tag.py
       - name: Validate project data
         run: python validate_project.py
       - name: Check required page references

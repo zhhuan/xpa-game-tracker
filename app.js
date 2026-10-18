@@ -280,6 +280,9 @@ function createGameCard(game) {
     
     // 发布日期
     const releaseDate = game.releaseDate ? formatDate(game.releaseDate) : '未知';
+
+    // 首次被更新任务发现的时间（历史批次会一直保留）
+    const firstSeenDate = game.firstSeenDate ? formatDateTime(game.firstSeenDate) : '';
     
     // 评分
     const rating = Number(game.rating) || 0;
@@ -315,6 +318,7 @@ function createGameCard(game) {
             ${developer}
             ${publisher}
             <div class="game-info">
+                ${firstSeenDate ? `<span class="game-added-date">加入 XPA: ${escapeHtml(firstSeenDate)}</span>` : ''}
                 <span class="game-date">发布: ${releaseDate}</span>
                 ${price ? `<span class="game-price">${price}</span>` : ''}
                 ${gameUrl !== '#' ? `<a href="${gameUrl}" target="_blank" rel="noopener noreferrer" class="game-link">查看详情</a>` : ''}
@@ -374,6 +378,24 @@ function formatDate(dateString) {
             year: 'numeric',
             month: '2-digit',
             day: '2-digit'
+        });
+    } catch (error) {
+        return dateString;
+    }
+}
+
+// ===== 格式化 XPA 收录时间 =====
+function formatDateTime(dateString) {
+    try {
+        const date = new Date(dateString);
+        if (Number.isNaN(date.getTime())) return dateString;
+        return date.toLocaleString('zh-CN', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
         });
     } catch (error) {
         return dateString;

@@ -25,7 +25,7 @@ python update_xpa_data.py
 
 1. 将当前数据保存为 `data/games.previous.json`；
 2. 从 Xbox API 获取完整目录并更新 `data/games.json`；
-3. 对比前后版本并生成 `data/games_with_new_markers.json`；
+3. 对比前后版本并生成 `data/games_with_new_markers.json`；新游戏会记录首次被任务发现的时间，后续更新会永久保留该时间；
 4. 检查数据结构、重复产品 ID 和必要的发布文件。
 
 GitHub Actions 每天 UTC 03:17 自动执行同一流程，也可以在 Actions 页面手动触发。只有数据发生变化时才会提交。
