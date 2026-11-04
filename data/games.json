@@ -1,10 +1,10 @@
 {
-  "totalGames": 2842,
-  "totalItemsFromAPI": 2897,
-  "totalPagesProcessed": 58,
+  "totalGames": 2848,
+  "totalItemsFromAPI": 2909,
+  "totalPagesProcessed": 59,
   "failedPages": [],
-  "lastUpdated": "2026-11-03T10:51:58.189386",
-  "fetchDate": "2026-11-03 10:51:58",
+  "lastUpdated": "2026-11-04T10:54:37.886128",
+  "fetchDate": "2026-11-04 10:54:37",
   "games": [
     {
       "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition (Windows)",
@@ -34,7 +34,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.46360.14441489705635704.a6724527-bd96-4402-a2a4-58c546f842bd.2ba39754-c1a8-40e7-8cce-3f30ca9405ad",
       "url": "https://www.xbox.com/en-US/games/call-of-duty-modern-warfare-4-vault-edition",
       "releaseDate": "2026-10-23",
-      "rating": 3.3,
+      "rating": 3.2,
       "categories": [
         "Shooter"
       ],
@@ -363,6 +363,161 @@
       "publisherName": "Studio Wildcard"
     },
     {
+      "name": "Hidden Cats in Beijing",
+      "title": "Hidden Cats in Beijing",
+      "image": "https://store-images.s-microsoft.com/image/apps.40491.13888657806990507.f0c734c7-b0dd-4d2c-92f9-8cb951493f60.89de2d84-f8ea-4b9e-8d9e-3bac21664c0d",
+      "url": "https://www.xbox.com/en-US/games/hidden-cats-in-beijing",
+      "releaseDate": "2026-11-04",
+      "rating": 4.6,
+      "categories": [
+        "Puzzle & trivia",
+        "Family & kids"
+      ],
+      "developer": "Nukearts Studio",
+      "publisher": "Silesia Games Sp. z o.o.",
+      "price": 3.99,
+      "currency": "USD",
+      "productId": "9MXS90V0RHTV",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Join the Chinese Spring Festival and spot hundreds of playful cats!",
+      "developerName": "Nukearts Studio",
+      "publisherName": "Silesia Games Sp. z o.o."
+    },
+    {
+      "name": "Outbreak: Dead City",
+      "title": "Outbreak: Dead City",
+      "image": "https://store-images.s-microsoft.com/image/apps.15392.14551361956905021.c58c6ada-c413-4bae-ae30-761d39d6465c.c32aed83-4e43-42f5-8a56-581fd259286a",
+      "url": "https://www.xbox.com/en-US/games/outbreak-dead-city",
+      "releaseDate": "2026-11-04",
+      "rating": 0.0,
+      "categories": [
+        "Shooter",
+        "Action & adventure"
+      ],
+      "developer": "Eastasiasoft Limited, ScrapGear Studio",
+      "publisher": "Eastasiasoft Limited",
+      "price": 6.99,
+      "currency": "USD",
+      "productId": "9P31X50D793N",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Eastasiasoft Limited, ScrapGear Studio",
+      "publisherName": "Eastasiasoft Limited"
+    },
+    {
+      "name": "ARC Raiders",
+      "title": "ARC Raiders",
+      "image": "https://store-images.s-microsoft.com/image/apps.43094.13550041517005289.94982f01-a340-49e3-9d4f-37cb23ee22c9.36620aef-592b-4503-8580-f45123cf8a0e",
+      "url": "https://www.xbox.com/en-US/games/arc-raiders",
+      "releaseDate": "2025-10-30",
+      "rating": 3.2,
+      "categories": [
+        "Action & adventure",
+        "Shooter"
+      ],
+      "developer": "Embark Studios",
+      "publisher": "Embark Studios",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9NDF1F263RZ4",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
+      "developerName": "Embark Studios",
+      "publisherName": "Embark Studios"
+    },
+    {
+      "name": "PIT OF GOBLIN",
+      "title": "PIT OF GOBLIN",
+      "image": "https://store-images.s-microsoft.com/image/apps.27620.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.36fa2021-fe84-4d8b-82c1-b8870791b64c",
+      "url": "https://www.xbox.com/en-US/games/pit-of-goblin",
+      "releaseDate": "2026-11-03",
+      "rating": 2.3,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Friendly Foe",
+      "publisher": "Friendly Foe, Bright Gambit",
+      "price": 7.99,
+      "currency": "USD",
+      "productId": "9MW4MFG0192L",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Friendly Foe",
+      "publisherName": "Friendly Foe, Bright Gambit"
+    },
+    {
+      "name": "DYSMANTLE",
+      "title": "DYSMANTLE",
+      "image": "https://store-images.s-microsoft.com/image/apps.49207.13759878152318204.59763262-2120-474d-8f50-c3cd3299f0e6.8f353727-6a84-4074-9924-c6e5df915bf4",
+      "url": "https://www.xbox.com/en-US/games/dysmantle",
+      "releaseDate": "2026-11-03",
+      "rating": 4.6,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": "10tons Ltd.",
+      "publisher": "10tons Ltd.",
+      "price": 19.99,
+      "currency": "USD",
+      "productId": "9NR6DRNCZS5Z",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Ascend from your shelter. Ruin everything. Escape the wretched island. Explore. Fight. Level up. Survive. Gather. Craft. Harvest. Hunt. Build. Farm. Solve puzzles. Fish. Cook. Live. Enjoy the bittersweet post-apocalypse.",
+      "developerName": "10tons Ltd.",
+      "publisherName": "10tons Ltd."
+    },
+    {
+      "name": "ZERO PARADES: Director's Cut",
+      "title": "ZERO PARADES: Director's Cut",
+      "image": "https://store-images.s-microsoft.com/image/apps.35083.13949582959445374.ea0c1a8c-44e1-403b-9079-6ef2eaca23c4.5f358e0a-9377-4731-a8dc-797a327d324f",
+      "url": "https://www.xbox.com/en-US/games/zero-parades-directors-cut",
+      "releaseDate": "2026-11-03",
+      "rating": 4.0,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "",
+      "publisher": "ZA/UM",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9N2TDPGLP9JZ",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "",
+      "publisherName": "ZA/UM"
+    },
+    {
       "name": "Possessions",
       "title": "Possessions",
       "image": "https://store-images.s-microsoft.com/image/apps.13276.14105468178841673.b347c124-39b6-4909-a405-7f4b87a44078.e3cb76ff-d201-4a4c-a495-f993109d8114",
@@ -390,32 +545,6 @@
       "description": "See the world differently.",
       "developerName": "Lucid Labs",
       "publisherName": "Lucid Labs"
-    },
-    {
-      "name": "ARC Raiders",
-      "title": "ARC Raiders",
-      "image": "https://store-images.s-microsoft.com/image/apps.43094.13550041517005289.94982f01-a340-49e3-9d4f-37cb23ee22c9.36620aef-592b-4503-8580-f45123cf8a0e",
-      "url": "https://www.xbox.com/en-US/games/arc-raiders",
-      "releaseDate": "2025-10-30",
-      "rating": 3.2,
-      "categories": [
-        "Action & adventure",
-        "Shooter"
-      ],
-      "developer": "Embark Studios",
-      "publisher": "Embark Studios",
-      "price": 39.99,
-      "currency": "USD",
-      "productId": "9NDF1F263RZ4",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "ARC Raiders is a multiplayer extraction adventure, offering high-tension gameplay in an immersive world layered with mystery.",
-      "developerName": "Embark Studios",
-      "publisherName": "Embark Studios"
     },
     {
       "name": "Fortnite Battle Royale",
@@ -576,107 +705,6 @@
       "publisherName": "SOFTPLAY S.R.L"
     },
     {
-      "name": "Mouthwashing",
-      "title": "Mouthwashing",
-      "image": "https://store-images.s-microsoft.com/image/apps.24363.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.818be90f-ee77-4b06-966f-566937724aac",
-      "url": "https://www.xbox.com/en-US/games/mouthwashing",
-      "releaseDate": "2026-10-29",
-      "rating": 4.5,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Wrong Organ",
-      "publisher": " CRITICAL REFLEX",
-      "price": 12.99,
-      "currency": "USD",
-      "productId": "9MVNCSJ14754",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
-      "developerName": "Wrong Organ",
-      "publisherName": " CRITICAL REFLEX"
-    },
-    {
-      "name": "Corner Shop: NightShift",
-      "title": "Corner Shop: NightShift",
-      "image": "https://store-images.s-microsoft.com/image/apps.54250.14391392336560552.9dfd2431-be3f-4afc-b8ba-5a170411a48f.4ce3a315-c683-4d7e-aff5-59fea6d964e4",
-      "url": "https://www.xbox.com/en-US/games/corner-shop-nightshift",
-      "releaseDate": "2026-10-30",
-      "rating": 4.7,
-      "categories": [
-        "Simulation",
-        "Action & adventure"
-      ],
-      "developer": "Console Labs S.A / Live Motion Games",
-      "publisher": "PlayWay S.A.",
-      "price": 19.99,
-      "currency": "USD",
-      "productId": "9NVN2T9D87FF",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Console Labs S.A / Live Motion Games",
-      "publisherName": "PlayWay S.A."
-    },
-    {
-      "name": "The Cat in the Hat: Rainy Day Mayhem",
-      "title": "The Cat in the Hat: Rainy Day Mayhem",
-      "image": "https://store-images.s-microsoft.com/image/apps.19060.14052807147127954.9bcd975c-7e5c-4105-a59e-7c2b6a2f204c.cef2dee1-5f72-4a76-b918-3a50b9956e26",
-      "url": "https://www.xbox.com/en-US/games/the-cat-in-the-hat-rainy-day-mayhem",
-      "releaseDate": "2026-10-30",
-      "rating": 0.0,
-      "categories": [
-        "Family & kids",
-        "Other"
-      ],
-      "developer": "Casual Brothers Ltd.",
-      "publisher": "Outright Games Ltd.",
-      "price": 39.99,
-      "currency": "USD",
-      "productId": "9N83LLZT3M2P",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The Cat in the Hat once said, “It’s fun to have fun.” Play with him and your favorite characters in 18 exciting minigames or chase him around the house. Whether you play solo or with friends, your house is about to be full of giggles, groans, and glorious mayhem.",
-      "developerName": "Casual Brothers Ltd.",
-      "publisherName": "Outright Games Ltd."
-    },
-    {
-      "name": "Terrible Lizards",
-      "title": "Terrible Lizards",
-      "image": "https://store-images.s-microsoft.com/image/apps.8368.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.d965509b-8659-4d15-8f26-b612fc6106cd",
-      "url": "https://www.xbox.com/en-US/games/terrible-lizards",
-      "releaseDate": "2026-10-29",
-      "rating": 3.0,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "WDR Studios",
-      "publisher": "Digital Pajamas",
-      "price": 24.99,
-      "currency": "USD",
-      "productId": "9PKFL1XJT73S",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
-      "developerName": "WDR Studios",
-      "publisherName": "Digital Pajamas"
-    },
-    {
       "name": "Dune: Awakening",
       "title": "Dune: Awakening",
       "image": "https://store-images.s-microsoft.com/image/apps.15231.14221973547534254.c9400a22-a0eb-4428-bc72-11e2270ad849.2d59a2c9-5ea7-4e0d-97d3-8ffc82818b7c",
@@ -704,30 +732,179 @@
       "publisherName": "Funcom"
     },
     {
-      "name": "Love Love Mystery Club",
-      "title": "Love Love Mystery Club",
-      "image": "https://store-images.s-microsoft.com/image/apps.429.13722340294820779.3f738e23-702f-4efc-90a8-f98ad6e21921.f38d81ea-ed19-4227-acf4-35825a883ff8",
-      "url": "https://www.xbox.com/en-US/games/love-love-mystery-club",
-      "releaseDate": "2026-10-30",
-      "rating": 2.3,
+      "name": "Mouthwashing",
+      "title": "Mouthwashing",
+      "image": "https://store-images.s-microsoft.com/image/apps.24363.13855544626090177.00f10a03-a204-4b92-893c-87ea3db07631.818be90f-ee77-4b06-966f-566937724aac",
+      "url": "https://www.xbox.com/en-US/games/mouthwashing",
+      "releaseDate": "2026-10-29",
+      "rating": 4.5,
       "categories": [
-        "Role playing",
-        "Other",
-        "Music"
+        "Action & adventure"
       ],
-      "developer": " NANA Stories",
-      "publisher": "Dolores Entertainment",
+      "developer": "Wrong Organ",
+      "publisher": " CRITICAL REFLEX",
+      "price": 12.99,
+      "currency": "USD",
+      "productId": "9MVNCSJ14754",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "The five crew members of the Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+      "developerName": "Wrong Organ",
+      "publisherName": " CRITICAL REFLEX"
+    },
+    {
+      "name": "Warhammer 40,000: Space Marine 2",
+      "title": "Warhammer 40,000: Space Marine 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
+      "url": "https://www.xbox.com/en-US/games/warhammer-40,000-space-marine-2",
+      "releaseDate": "2024-09-09",
+      "rating": 4.4,
+      "categories": [
+        "Action & adventure",
+        "Shooter"
+      ],
+      "developer": "Saber Interactive",
+      "publisher": "Focus Entertainment",
+      "price": 69.99,
+      "currency": "USD",
+      "productId": "9N9PCZWHVP2L",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Embody the superhuman skill and brutality of a Space Marine and defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+      "developerName": "Saber Interactive",
+      "publisherName": "Focus Entertainment"
+    },
+    {
+      "name": "Corner Shop: NightShift",
+      "title": "Corner Shop: NightShift",
+      "image": "https://store-images.s-microsoft.com/image/apps.54250.14391392336560552.9dfd2431-be3f-4afc-b8ba-5a170411a48f.4ce3a315-c683-4d7e-aff5-59fea6d964e4",
+      "url": "https://www.xbox.com/en-US/games/corner-shop-nightshift",
+      "releaseDate": "2026-10-30",
+      "rating": 4.5,
+      "categories": [
+        "Simulation",
+        "Action & adventure"
+      ],
+      "developer": "Console Labs S.A / Live Motion Games",
+      "publisher": "PlayWay S.A.",
       "price": 19.99,
       "currency": "USD",
-      "productId": "9NPB1H2J407V",
+      "productId": "9NVN2T9D87FF",
       "availableOn": [
         "Handheld",
         "PC",
         "XboxSeriesX"
       ],
       "description": "",
-      "developerName": " NANA Stories",
-      "publisherName": "Dolores Entertainment"
+      "developerName": "Console Labs S.A / Live Motion Games",
+      "publisherName": "PlayWay S.A."
+    },
+    {
+      "name": "Terrible Lizards",
+      "title": "Terrible Lizards",
+      "image": "https://store-images.s-microsoft.com/image/apps.8368.14263508046410977.85ca9e89-ec54-4c85-9c49-0ce9abe3f1fd.d965509b-8659-4d15-8f26-b612fc6106cd",
+      "url": "https://www.xbox.com/en-US/games/terrible-lizards",
+      "releaseDate": "2026-10-29",
+      "rating": 3.0,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "WDR Studios",
+      "publisher": "Digital Pajamas",
+      "price": 24.99,
+      "currency": "USD",
+      "productId": "9PKFL1XJT73S",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
+      "developerName": "WDR Studios",
+      "publisherName": "Digital Pajamas"
+    },
+    {
+      "name": "The Cat in the Hat: Rainy Day Mayhem",
+      "title": "The Cat in the Hat: Rainy Day Mayhem",
+      "image": "https://store-images.s-microsoft.com/image/apps.19060.14052807147127954.9bcd975c-7e5c-4105-a59e-7c2b6a2f204c.cef2dee1-5f72-4a76-b918-3a50b9956e26",
+      "url": "https://www.xbox.com/en-US/games/the-cat-in-the-hat-rainy-day-mayhem",
+      "releaseDate": "2026-10-30",
+      "rating": 0.0,
+      "categories": [
+        "Family & kids",
+        "Other"
+      ],
+      "developer": "Casual Brothers Ltd.",
+      "publisher": "Outright Games Ltd.",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9N83LLZT3M2P",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "The Cat in the Hat once said, “It’s fun to have fun.” Play with him and your favorite characters in 18 exciting minigames or chase him around the house. Whether you play solo or with friends, your house is about to be full of giggles, groans, and glorious mayhem.",
+      "developerName": "Casual Brothers Ltd.",
+      "publisherName": "Outright Games Ltd."
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition Upgrade",
+      "title": "Call of Duty®: Modern Warfare® 4 - Vault Edition Upgrade",
+      "image": "https://store-images.s-microsoft.com/image/apps.45459.14032542406050839.b1decfc3-85f7-4966-b3e1-836183a6dad0.01872f0f-cca1-46ba-85ae-a18be8076b63",
+      "url": "https://www.xbox.com/en-US/games/call-of-duty-modern-warfare-4-vault-edition-upgrade",
+      "releaseDate": "2026-05-28",
+      "rating": 3.0,
+      "categories": [
+        "Shooter"
+      ],
+      "developer": "",
+      "publisher": "Activision Publishing Inc.",
+      "price": 30.0,
+      "currency": "USD",
+      "productId": "9N5RJ569GVZ2",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Upgrade to the Vault Edition and receive the following bonus content*:\n\n- Hostile Alliance Operator Pack\n- Special Forces Operator Pack\n- Signature Weapon Collection\n- BlackCell (1 Season)**\n- DMZ Deployment Bonus\n- Hunter Killer Operator Skin\n- Gilded Pearl Camo Pack\n- Inner Circuit Weapon Blueprint",
+      "developerName": "",
+      "publisherName": "Activision Publishing Inc."
+    },
+    {
+      "name": "FINAL FANTASY RESONANCE",
+      "title": "FINAL FANTASY RESONANCE",
+      "image": "https://store-images.s-microsoft.com/image/apps.25031.14600303949530579.491adf55-bcd2-4dea-9e40-f1aef1b2af1b.721282ca-4c17-4b1b-8765-9a84e5948a7c",
+      "url": "https://www.xbox.com/en-US/games/final-fantasy-resonance",
+      "releaseDate": "2026-10-22",
+      "rating": 4.8,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "",
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "price": 49.99,
+      "currency": "USD",
+      "productId": "9P44MG3WG8R2",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+      "developerName": "",
+      "publisherName": "SQUARE ENIX CO., LTD."
     },
     {
       "name": "My Life: Zoo Vet",
@@ -754,6 +931,32 @@
       "description": "Take care of sick zoo animals!",
       "developerName": "Raylight Games S.r.l.s. ",
       "publisherName": "Markt+Technik Verlag GmbH"
+    },
+    {
+      "name": "Love Love Mystery Club",
+      "title": "Love Love Mystery Club",
+      "image": "https://store-images.s-microsoft.com/image/apps.429.13722340294820779.3f738e23-702f-4efc-90a8-f98ad6e21921.f38d81ea-ed19-4227-acf4-35825a883ff8",
+      "url": "https://www.xbox.com/en-US/games/love-love-mystery-club",
+      "releaseDate": "2026-10-30",
+      "rating": 2.3,
+      "categories": [
+        "Role playing",
+        "Other",
+        "Music"
+      ],
+      "developer": " NANA Stories",
+      "publisher": "Dolores Entertainment",
+      "price": 19.99,
+      "currency": "USD",
+      "productId": "9NPB1H2J407V",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": " NANA Stories",
+      "publisherName": "Dolores Entertainment"
     },
     {
       "name": "Choice of Life: Samosbor",
@@ -783,30 +986,55 @@
       "publisherName": "Sobaka Studio LLP"
     },
     {
-      "name": "Warhammer 40,000: Space Marine 2",
-      "title": "Warhammer 40,000: Space Marine 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
-      "url": "https://www.xbox.com/en-US/games/warhammer-40,000-space-marine-2",
-      "releaseDate": "2024-09-09",
-      "rating": 4.4,
+      "name": "Ready or Not",
+      "title": "Ready or Not",
+      "image": "https://store-images.s-microsoft.com/image/apps.60711.13578379328545234.9a5c7815-319e-44dd-b243-b580c45874f3.39969d15-8aef-44f0-be50-3c35a99e23ec",
+      "url": "https://www.xbox.com/en-US/games/ready-or-not",
+      "releaseDate": "2025-07-15",
+      "rating": 4.0,
       "categories": [
-        "Action & adventure",
         "Shooter"
       ],
-      "developer": "Saber Interactive",
-      "publisher": "Focus Entertainment",
-      "price": 69.99,
+      "developer": "VOID Interactive",
+      "publisher": "VOID Interactive",
+      "price": 49.99,
       "currency": "USD",
-      "productId": "9N9PCZWHVP2L",
+      "productId": "9NBR63PT4FZC",
       "availableOn": [
         "Handheld",
         "PC",
         "XCloud",
         "XboxSeriesX"
       ],
-      "description": "Embody the superhuman skill and brutality of a Space Marine and defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
-      "developerName": "Saber Interactive",
-      "publisherName": "Focus Entertainment"
+      "description": "Become an elite SWAT commander and bring order to a city overwhelmed by chaos and corruption.",
+      "developerName": "VOID Interactive",
+      "publisherName": "VOID Interactive"
+    },
+    {
+      "name": "Warrior Cats: Clans of the Forest",
+      "title": "Warrior Cats: Clans of the Forest",
+      "image": "https://store-images.s-microsoft.com/image/apps.48052.13580214141616374.4d19b156-b171-420b-8077-6b14a1365c71.8310f3f4-0ab4-41ac-b811-7dbc2fc29485",
+      "url": "https://www.xbox.com/en-US/games/warrior-cats-clans-of-the-forest",
+      "releaseDate": "2026-10-23",
+      "rating": 4.1,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": "Bamtang Games",
+      "publisher": "Trailmark Games",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9NBW1S6S897W",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Create your own Warrior Cat and journey through the Lake Territories in an immersive action-adventure inspired by the beloved Warrior Cats book series. Hunt, explore, battle rival Clans, uncover prophecies, and shape your legacy with every choice you make.",
+      "developerName": "Bamtang Games",
+      "publisherName": "Trailmark Games"
     },
     {
       "name": "Asylum",
@@ -833,6 +1061,32 @@
       "description": "An epic supernatural horror adventure and the spiritual successor to cult classic Scratches set in a massive, decaying mental institute. Inspired by H. P. Lovecraft, Hammer Films and twisted Euro Horror from the 80s.",
       "developerName": "Senscape",
       "publisherName": "SOEDESCO"
+    },
+    {
+      "name": "The Walking Trade",
+      "title": "The Walking Trade",
+      "image": "https://store-images.s-microsoft.com/image/apps.18937.14432481906225438.499bca74-e5cd-4820-b1d8-4166c60c6e10.7ccb1c95-776d-442e-9b8f-049fbfd46add",
+      "url": "https://www.xbox.com/en-US/games/the-walking-trade",
+      "releaseDate": "2026-10-23",
+      "rating": 4.1,
+      "categories": [
+        "Simulation",
+        "Action & adventure",
+        "Shooter"
+      ],
+      "developer": "Console Labs S.A / Microwave Games",
+      "publisher": "PlayWay S.A.",
+      "price": 11.99,
+      "currency": "USD",
+      "productId": "9NXC038SK8VP",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Console Labs S.A / Microwave Games",
+      "publisherName": "PlayWay S.A."
     },
     {
       "name": "Sigi A Fart for Melusina",
@@ -865,7 +1119,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.53060.14606737467543529.986855e7-f6be-4715-98aa-383ead8a4089.7d0cdf91-41b3-4966-b98d-c9110d0f8305",
       "url": "https://www.xbox.com/en-US/games/pinballoid-crush",
       "releaseDate": "2026-10-30",
-      "rating": 4.6,
+      "rating": 4.4,
       "categories": [
         "Action & adventure",
         "Classics",
@@ -913,54 +1167,6 @@
       "publisherName": "Brainium Games"
     },
     {
-      "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition Upgrade",
-      "title": "Call of Duty®: Modern Warfare® 4 - Vault Edition Upgrade",
-      "image": "https://store-images.s-microsoft.com/image/apps.45459.14032542406050839.b1decfc3-85f7-4966-b3e1-836183a6dad0.01872f0f-cca1-46ba-85ae-a18be8076b63",
-      "url": "https://www.xbox.com/en-US/games/call-of-duty-modern-warfare-4-vault-edition-upgrade",
-      "releaseDate": "2026-05-28",
-      "rating": 3.1,
-      "categories": [
-        "Shooter"
-      ],
-      "developer": "",
-      "publisher": "Activision Publishing Inc.",
-      "price": 30.0,
-      "currency": "USD",
-      "productId": "9N5RJ569GVZ2",
-      "availableOn": [
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Upgrade to the Vault Edition and receive the following bonus content*:\n\n- Hostile Alliance Operator Pack\n- Special Forces Operator Pack\n- Signature Weapon Collection\n- BlackCell (1 Season)**\n- DMZ Deployment Bonus\n- Hunter Killer Operator Skin\n- Gilded Pearl Camo Pack\n- Inner Circuit Weapon Blueprint",
-      "developerName": "",
-      "publisherName": "Activision Publishing Inc."
-    },
-    {
-      "name": "FINAL FANTASY RESONANCE",
-      "title": "FINAL FANTASY RESONANCE",
-      "image": "https://store-images.s-microsoft.com/image/apps.25031.14600303949530579.491adf55-bcd2-4dea-9e40-f1aef1b2af1b.721282ca-4c17-4b1b-8765-9a84e5948a7c",
-      "url": "https://www.xbox.com/en-US/games/final-fantasy-resonance",
-      "releaseDate": "2026-10-22",
-      "rating": 4.9,
-      "categories": [
-        "Role playing"
-      ],
-      "developer": "",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "price": 49.99,
-      "currency": "USD",
-      "productId": "9P44MG3WG8R2",
-      "availableOn": [
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
-      "developerName": "",
-      "publisherName": "SQUARE ENIX CO., LTD."
-    },
-    {
       "name": "Choice of Life: Floors",
       "title": "Choice of Life: Floors",
       "image": "https://store-images.s-microsoft.com/image/apps.61161.14050023149922445.3672eea2-6a75-44cf-b487-75af35874492.77266242-7f9b-4fbd-ae7c-6678df0dee01",
@@ -988,6 +1194,30 @@
       "publisherName": "Sobaka Studio LLP"
     },
     {
+      "name": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
+      "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
+      "image": "https://store-images.s-microsoft.com/image/apps.55564.13574020019323820.bd5edb71-8d6f-47ab-bfd9-6a6c912bf5f6.f2219363-6a98-4ad8-b898-d91c114d4118",
+      "url": "https://www.xbox.com/en-US/games/final-fantasy-resonance-digital-deluxe-edition",
+      "releaseDate": "2026-10-22",
+      "rating": 4.7,
+      "categories": [
+        "Role playing"
+      ],
+      "developer": "",
+      "publisher": "SQUARE ENIX CO., LTD.",
+      "price": 59.99,
+      "currency": "USD",
+      "productId": "9NBZXKNX8XKZ",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+      "developerName": "",
+      "publisherName": "SQUARE ENIX CO., LTD."
+    },
+    {
       "name": "Deadly Days: Roadtrip",
       "title": "Deadly Days: Roadtrip",
       "image": "https://store-images.s-microsoft.com/image/apps.7377.13529374290261272.b00ffee0-bc7c-4bdc-a81d-c86d7068f34d.d73aa201-18e3-4592-a675-a5a4c7138fd5",
@@ -1011,55 +1241,6 @@
       "description": "Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Embark on a deadly roadtrip, fuel your bus, decide when to extract – and get that sweet inventory management kick when that new slot in your backpack fits just right.",
       "developerName": "Pixelsplit",
       "publisherName": "Sidekick Publishing GmbH"
-    },
-    {
-      "name": "Warrior Cats: Clans of the Forest",
-      "title": "Warrior Cats: Clans of the Forest",
-      "image": "https://store-images.s-microsoft.com/image/apps.48052.13580214141616374.4d19b156-b171-420b-8077-6b14a1365c71.8310f3f4-0ab4-41ac-b811-7dbc2fc29485",
-      "url": "https://www.xbox.com/en-US/games/warrior-cats-clans-of-the-forest",
-      "releaseDate": "2026-10-23",
-      "rating": 4.1,
-      "categories": [
-        "Action & adventure",
-        "Role playing"
-      ],
-      "developer": "Bamtang Games",
-      "publisher": "Trailmark Games",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9NBW1S6S897W",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Create your own Warrior Cat and journey through the Lake Territories in an immersive action-adventure inspired by the beloved Warrior Cats book series. Hunt, explore, battle rival Clans, uncover prophecies, and shape your legacy with every choice you make.",
-      "developerName": "Bamtang Games",
-      "publisherName": "Trailmark Games"
-    },
-    {
-      "name": "METRO Redux",
-      "title": "METRO Redux",
-      "image": "https://store-images.s-microsoft.com/image/apps.27906.14417938310878451.3879c6ea-dd06-4567-8a9d-49550964062c.8d698835-125e-4f1e-97ea-03a7af10960e",
-      "url": "https://www.xbox.com/en-US/games/metro-redux",
-      "releaseDate": "2026-10-29",
-      "rating": 4.1,
-      "categories": [
-        "Shooter"
-      ],
-      "developer": "4A Games",
-      "publisher": "Deep Silver",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9NT97ZJRV60X",
-      "availableOn": [
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Including the epic single-player campaigns of both METRO 2033 and METRO Last Light, METRO Redux takes you on a journey from the forgotten catacombs beneath the subway to the desolate wastelands above, where your actions will determine the fate of mankind.",
-      "developerName": "4A Games",
-      "publisherName": "Deep Silver"
     },
     {
       "name": "Gennady",
@@ -1088,55 +1269,54 @@
       "publisherName": "Sobaka Studio LLP"
     },
     {
-      "name": "The Walking Trade",
-      "title": "The Walking Trade",
-      "image": "https://store-images.s-microsoft.com/image/apps.18937.14432481906225438.499bca74-e5cd-4820-b1d8-4166c60c6e10.7ccb1c95-776d-442e-9b8f-049fbfd46add",
-      "url": "https://www.xbox.com/en-US/games/the-walking-trade",
-      "releaseDate": "2026-10-23",
+      "name": "METRO Redux",
+      "title": "METRO Redux",
+      "image": "https://store-images.s-microsoft.com/image/apps.27906.14417938310878451.3879c6ea-dd06-4567-8a9d-49550964062c.8d698835-125e-4f1e-97ea-03a7af10960e",
+      "url": "https://www.xbox.com/en-US/games/metro-redux",
+      "releaseDate": "2026-10-29",
       "rating": 4.1,
       "categories": [
-        "Simulation",
-        "Action & adventure",
         "Shooter"
       ],
-      "developer": "Console Labs S.A / Microwave Games",
-      "publisher": "PlayWay S.A.",
-      "price": 11.99,
+      "developer": "4A Games",
+      "publisher": "Deep Silver",
+      "price": 29.99,
       "currency": "USD",
-      "productId": "9NXC038SK8VP",
+      "productId": "9NT97ZJRV60X",
       "availableOn": [
-        "Handheld",
         "PC",
         "XboxSeriesX"
       ],
-      "description": "",
-      "developerName": "Console Labs S.A / Microwave Games",
-      "publisherName": "PlayWay S.A."
+      "description": "Including the epic single-player campaigns of both METRO 2033 and METRO Last Light, METRO Redux takes you on a journey from the forgotten catacombs beneath the subway to the desolate wastelands above, where your actions will determine the fate of mankind.",
+      "developerName": "4A Games",
+      "publisherName": "Deep Silver"
     },
     {
-      "name": "Ready or Not",
-      "title": "Ready or Not",
-      "image": "https://store-images.s-microsoft.com/image/apps.60711.13578379328545234.9a5c7815-319e-44dd-b243-b580c45874f3.39969d15-8aef-44f0-be50-3c35a99e23ec",
-      "url": "https://www.xbox.com/en-US/games/ready-or-not",
-      "releaseDate": "2025-07-15",
-      "rating": 4.0,
+      "name": "Where Winds Meet",
+      "title": "Where Winds Meet",
+      "image": "https://store-images.s-microsoft.com/image/apps.42564.14070230506579552.c6e9f089-9089-4b9a-bfba-8fbc01f63cb1.bd02e817-7536-48f6-89ed-45b293af11e1",
+      "url": "https://www.xbox.com/en-US/games/where-winds-meet",
+      "releaseDate": "2026-06-07",
+      "rating": 3.2,
       "categories": [
-        "Shooter"
+        "Role playing",
+        "Action & adventure",
+        "Fighting"
       ],
-      "developer": "VOID Interactive",
-      "publisher": "VOID Interactive",
-      "price": 49.99,
+      "developer": "Everstone Studio",
+      "publisher": "NetEase Games",
+      "price": 0,
       "currency": "USD",
-      "productId": "9NBR63PT4FZC",
+      "productId": "9N76QGDS5GJR",
       "availableOn": [
         "Handheld",
         "PC",
         "XCloud",
         "XboxSeriesX"
       ],
-      "description": "Become an elite SWAT commander and bring order to a city overwhelmed by chaos and corruption.",
-      "developerName": "VOID Interactive",
-      "publisherName": "VOID Interactive"
+      "description": "Where Winds Meet is an epic Wuxia open-world action-adventure RPG set in ancient China at the tenth century. Players will assume the role of a young sword master as they embark on a journey to uncover the mysteries of their own identity. Let the wind carry your legend on an epic journey to the East!Game requires online multiplayer and user-generated content to play on both console and PC.",
+      "developerName": "Everstone Studio",
+      "publisherName": "NetEase Games"
     },
     {
       "name": "The Zibbo Show",
@@ -1189,28 +1369,30 @@
       "publisherName": "Crypton Future Media"
     },
     {
-      "name": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
-      "title": "FINAL FANTASY RESONANCE Digital Deluxe Edition",
-      "image": "https://store-images.s-microsoft.com/image/apps.55564.13574020019323820.bd5edb71-8d6f-47ab-bfd9-6a6c912bf5f6.f2219363-6a98-4ad8-b898-d91c114d4118",
-      "url": "https://www.xbox.com/en-US/games/final-fantasy-resonance-digital-deluxe-edition",
-      "releaseDate": "2026-10-22",
-      "rating": 4.7,
+      "name": "The Séance of Blake Manor",
+      "title": "The Séance of Blake Manor",
+      "image": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
+      "url": "https://www.xbox.com/en-US/games/the-séance-of-blake-manor",
+      "releaseDate": "2026-10-27",
+      "rating": 4.2,
       "categories": [
-        "Role playing"
+        "Action & adventure",
+        "Puzzle & trivia"
       ],
-      "developer": "",
-      "publisher": "SQUARE ENIX CO., LTD.",
-      "price": 59.99,
+      "developer": "Spooky Doorway",
+      "publisher": "Raw Fury",
+      "price": 19.99,
       "currency": "USD",
-      "productId": "9NBZXKNX8XKZ",
+      "productId": "9PNRLJNDPP4G",
       "availableOn": [
+        "Handheld",
         "PC",
         "XCloud",
         "XboxSeriesX"
       ],
-      "description": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
-      "developerName": "",
-      "publisherName": "SQUARE ENIX CO., LTD."
+      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "developerName": "Spooky Doorway",
+      "publisherName": "Raw Fury"
     },
     {
       "name": "Phantom Floor",
@@ -1238,38 +1420,12 @@
       "publisherName": "subSilico"
     },
     {
-      "name": "The Séance of Blake Manor",
-      "title": "The Séance of Blake Manor",
-      "image": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
-      "url": "https://www.xbox.com/en-US/games/the-séance-of-blake-manor",
-      "releaseDate": "2026-10-27",
-      "rating": 4.1,
-      "categories": [
-        "Action & adventure",
-        "Puzzle & trivia"
-      ],
-      "developer": "Spooky Doorway",
-      "publisher": "Raw Fury",
-      "price": 19.99,
-      "currency": "USD",
-      "productId": "9PNRLJNDPP4G",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
-      "developerName": "Spooky Doorway",
-      "publisherName": "Raw Fury"
-    },
-    {
       "name": "SNØ: Ultimate Freeriding",
       "title": "SNØ: Ultimate Freeriding",
       "image": "https://store-images.s-microsoft.com/image/apps.27027.14529818033799234.79b416c2-2b82-4d9a-a073-143f77bde5cf.73db99af-7871-4e12-a1a3-bc4b17c53606",
       "url": "https://www.xbox.com/en-US/games/snø-ultimate-freeriding",
       "releaseDate": "2026-10-28",
-      "rating": 4.8,
+      "rating": 4.7,
       "categories": [
         "Sports"
       ],
@@ -1337,31 +1493,56 @@
       "publisherName": "HAMSTER Corporation"
     },
     {
-      "name": "Where Winds Meet",
-      "title": "Where Winds Meet",
-      "image": "https://store-images.s-microsoft.com/image/apps.42564.14070230506579552.c6e9f089-9089-4b9a-bfba-8fbc01f63cb1.bd02e817-7536-48f6-89ed-45b293af11e1",
-      "url": "https://www.xbox.com/en-US/games/where-winds-meet",
-      "releaseDate": "2026-06-07",
-      "rating": 3.2,
+      "name": "Darkenstein 3D Director's cut",
+      "title": "Darkenstein 3D Director's cut",
+      "image": "https://store-images.s-microsoft.com/image/apps.32776.13912380547951940.48fdb4b2-857d-41ab-ab66-81f1b01e7ef6.b667a763-bb66-40cd-a49c-dbcc0b08a02c",
+      "url": "https://www.xbox.com/en-US/games/darkenstein-3d-directors-cut",
+      "releaseDate": "2026-10-23",
+      "rating": 3.7,
       "categories": [
-        "Role playing",
+        "Shooter",
         "Action & adventure",
-        "Fighting"
+        "Simulation"
       ],
-      "developer": "Everstone Studio",
-      "publisher": "NetEase Games",
+      "developer": "Rowye",
+      "publisher": "Dolores Entertainment S.L.",
+      "price": 17.99,
+      "currency": "USD",
+      "productId": "9N0XQ9ZTDST5",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Rowye",
+      "publisherName": "Dolores Entertainment S.L."
+    },
+    {
+      "name": "Aniimo",
+      "title": "Aniimo",
+      "image": "https://store-images.s-microsoft.com/image/apps.48862.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.d383e873-d7b2-48d4-bfe2-427387d56740",
+      "url": "https://www.xbox.com/en-US/games/aniimo",
+      "releaseDate": "9998-12-30",
+      "rating": 3.7,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": "Pawprint Studio",
+      "publisher": "Pawprint Studio",
       "price": 0,
       "currency": "USD",
-      "productId": "9N76QGDS5GJR",
+      "productId": "9PK8PHLCQDF6",
       "availableOn": [
         "Handheld",
         "PC",
         "XCloud",
         "XboxSeriesX"
       ],
-      "description": "Where Winds Meet is an epic Wuxia open-world action-adventure RPG set in ancient China at the tenth century. Players will assume the role of a young sword master as they embark on a journey to uncover the mysteries of their own identity. Let the wind carry your legend on an epic journey to the East!Game requires online multiplayer and user-generated content to play on both console and PC.",
-      "developerName": "Everstone Studio",
-      "publisherName": "NetEase Games"
+      "description": "",
+      "developerName": "Pawprint Studio",
+      "publisherName": "Pawprint Studio"
     },
     {
       "name": "Fallen City Brawl",
@@ -1369,7 +1550,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.5978.14615885469612612.36fd4e38-327f-47ac-9098-24bc79584fc0.ede8884f-be53-4d31-92be-d7bbb17e5c2d",
       "url": "https://www.xbox.com/en-US/games/fallen-city-brawl",
       "releaseDate": "2026-10-28",
-      "rating": 3.5,
+      "rating": 3.7,
       "categories": [
         "Fighting",
         "Action & adventure"
@@ -1416,30 +1597,55 @@
       "publisherName": "Alawar"
     },
     {
-      "name": "Darkenstein 3D Director's cut",
-      "title": "Darkenstein 3D Director's cut",
-      "image": "https://store-images.s-microsoft.com/image/apps.32776.13912380547951940.48fdb4b2-857d-41ab-ab66-81f1b01e7ef6.b667a763-bb66-40cd-a49c-dbcc0b08a02c",
-      "url": "https://www.xbox.com/en-US/games/darkenstein-3d-directors-cut",
-      "releaseDate": "2026-10-23",
-      "rating": 3.7,
+      "name": "RESIDENT EVIL 2",
+      "title": "RESIDENT EVIL 2",
+      "image": "https://store-images.s-microsoft.com/image/apps.38246.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.9197ae9d-181d-44ff-a98d-7f64086f509e",
+      "url": "https://www.xbox.com/en-US/games/resident-evil-2",
+      "releaseDate": "2019-01-25",
+      "rating": 4.6,
       "categories": [
-        "Shooter",
-        "Action & adventure",
-        "Simulation"
+        "Action & adventure"
       ],
-      "developer": "Rowye",
-      "publisher": "Dolores Entertainment S.L.",
-      "price": 17.99,
+      "developer": "CAPCOM CO., LTD.",
+      "publisher": "CAPCOM CO., LTD.",
+      "price": 39.99,
       "currency": "USD",
-      "productId": "9N0XQ9ZTDST5",
+      "productId": "BWMH951M3G3P",
       "availableOn": [
         "Handheld",
         "PC",
+        "XCloud",
+        "XboxOne",
         "XboxSeriesX"
       ],
-      "description": "",
-      "developerName": "Rowye",
-      "publisherName": "Dolores Entertainment S.L."
+      "description": "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors.\r\n\r\nAn unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you.\r\n\r\nWitness the return of Resident Evil 2.",
+      "developerName": "CAPCOM CO., LTD.",
+      "publisherName": "CAPCOM CO., LTD."
+    },
+    {
+      "name": "Remothered: Red Nun's Legacy",
+      "title": "Remothered: Red Nun's Legacy",
+      "image": "https://store-images.s-microsoft.com/image/apps.23465.14570866189354054.0b43947b-e67e-46f6-b7f1-e30bc3ab5199.7601dc98-abcb-4f7c-85aa-9882848ba46e",
+      "url": "https://www.xbox.com/en-US/games/remothered-red-nuns-legacy",
+      "releaseDate": "2026-10-27",
+      "rating": 4.9,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Stormind Games ",
+      "publisher": "Stormind Games, Soft Source  ",
+      "price": 29.99,
+      "currency": "USD",
+      "productId": "9P5DQT7BKR2K",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Your daughter has been kidnapped. Enter a nightmare to save her, survive what hunts you, and uncover the Red Nun’s truth through retrocognition, mirror abilities and moth manipulation. A modern return to classic survival horror with an Italian neo-giallo twist.",
+      "developerName": "Stormind Games ",
+      "publisherName": "Stormind Games, Soft Source  "
     },
     {
       "name": "Bao Bao's Cozy Cleaning Services",
@@ -1468,57 +1674,6 @@
       "publisherName": "Destroyer Doggo "
     },
     {
-      "name": "Remothered: Red Nun's Legacy",
-      "title": "Remothered: Red Nun's Legacy",
-      "image": "https://store-images.s-microsoft.com/image/apps.23465.14570866189354054.0b43947b-e67e-46f6-b7f1-e30bc3ab5199.7601dc98-abcb-4f7c-85aa-9882848ba46e",
-      "url": "https://www.xbox.com/en-US/games/remothered-red-nuns-legacy",
-      "releaseDate": "2026-10-27",
-      "rating": 4.8,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Stormind Games ",
-      "publisher": "Stormind Games, Soft Source  ",
-      "price": 29.99,
-      "currency": "USD",
-      "productId": "9P5DQT7BKR2K",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Your daughter has been kidnapped. Enter a nightmare to save her, survive what hunts you, and uncover the Red Nun’s truth through retrocognition, mirror abilities and moth manipulation. A modern return to classic survival horror with an Italian neo-giallo twist.",
-      "developerName": "Stormind Games ",
-      "publisherName": "Stormind Games, Soft Source  "
-    },
-    {
-      "name": "Aniimo",
-      "title": "Aniimo",
-      "image": "https://store-images.s-microsoft.com/image/apps.48862.14271146495264987.389490b9-697a-4878-87fc-ab69dd3499a6.d383e873-d7b2-48d4-bfe2-427387d56740",
-      "url": "https://www.xbox.com/en-US/games/aniimo",
-      "releaseDate": "9998-12-30",
-      "rating": 3.7,
-      "categories": [
-        "Action & adventure",
-        "Role playing"
-      ],
-      "developer": "Pawprint Studio",
-      "publisher": "Pawprint Studio",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9PK8PHLCQDF6",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Pawprint Studio",
-      "publisherName": "Pawprint Studio"
-    },
-    {
       "name": "Moadra",
       "title": "Moadra",
       "image": "https://store-images.s-microsoft.com/image/apps.19876.13648223448891808.ffba14bf-d7e9-4e1c-9090-e0c45fe6bd8e.3cb6ad4c-8334-4a84-83b7-dfef0bc483db",
@@ -1543,32 +1698,6 @@
       "description": "Endure... Evolve... or die. Embrace the unknown and traverse a vast alien world riddled with bizarre creatures, deadly hazards, and grim mysteries. Seek redemption, and confront the terrifying sin buried in the depths of the forgotten planet Protea VI.",
       "developerName": "Gloomsoft",
       "publisherName": "Gloomsoft"
-    },
-    {
-      "name": "RESIDENT EVIL 2",
-      "title": "RESIDENT EVIL 2",
-      "image": "https://store-images.s-microsoft.com/image/apps.38246.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.9197ae9d-181d-44ff-a98d-7f64086f509e",
-      "url": "https://www.xbox.com/en-US/games/resident-evil-2",
-      "releaseDate": "2019-01-25",
-      "rating": 4.6,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "CAPCOM CO., LTD.",
-      "publisher": "CAPCOM CO., LTD.",
-      "price": 39.99,
-      "currency": "USD",
-      "productId": "BWMH951M3G3P",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors.\r\n\r\nAn unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you.\r\n\r\nWitness the return of Resident Evil 2.",
-      "developerName": "CAPCOM CO., LTD.",
-      "publisherName": "CAPCOM CO., LTD."
     },
     {
       "name": "Hail to the Rainbow",
@@ -1649,34 +1778,6 @@
       "publisherName": "Bethesda Softworks"
     },
     {
-      "name": "Carry The Glass",
-      "title": "Carry The Glass",
-      "image": "https://store-images.s-microsoft.com/image/apps.33499.14491030974379630.6406d5da-a161-43b2-991a-352f219d4370.cbd70c7c-71b1-43c6-a468-23bccf317b10",
-      "url": "https://www.xbox.com/en-US/games/carry-the-glass",
-      "releaseDate": "2026-10-23",
-      "rating": 5.0,
-      "categories": [
-        "Action & adventure",
-        "Platformer",
-        "Family & kids",
-        "Puzzle & trivia",
-        "Simulation"
-      ],
-      "developer": "SlugShot Games",
-      "publisher": "NAISU",
-      "price": 5.99,
-      "currency": "USD",
-      "productId": "9NXZ0JNC5ZPR",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Team up as two quirky construction workers in this fun 2-player co-op platformer! Carry a fragile glass window through colorful levels filled with challenges. Communicate and coordinate to dodge obstacles and solve puzzles. Can you finish the job without breaking the glass?",
-      "developerName": "SlugShot Games",
-      "publisherName": "NAISU"
-    },
-    {
       "name": "War Thunder",
       "title": "War Thunder",
       "image": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
@@ -1730,31 +1831,6 @@
       "publisherName": "Nuggets Entertainment"
     },
     {
-      "name": "Tidy Up the Halloween Shop",
-      "title": "Tidy Up the Halloween Shop",
-      "image": "https://store-images.s-microsoft.com/image/apps.35773.13513392257797470.b8148782-0882-4299-b3dd-810c4a9863a4.d7040ee3-a017-4576-82c1-805503b5f331",
-      "url": "https://www.xbox.com/en-US/games/tidy-up-the-halloween-shop",
-      "releaseDate": "2026-10-23",
-      "rating": 4.7,
-      "categories": [
-        "Simulation",
-        "Puzzle & trivia"
-      ],
-      "developer": "Over The Moon",
-      "publisher": "Over The Moon",
-      "price": 5.99,
-      "currency": "USD",
-      "productId": "9NBPB4BTNXVF",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
-      "developerName": "Over The Moon",
-      "publisherName": "Over The Moon"
-    },
-    {
       "name": "Palworld",
       "title": "Palworld",
       "image": "https://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
@@ -1782,6 +1858,59 @@
       "publisherName": "Pocketpair"
     },
     {
+      "name": "Carry The Glass",
+      "title": "Carry The Glass",
+      "image": "https://store-images.s-microsoft.com/image/apps.33499.14491030974379630.6406d5da-a161-43b2-991a-352f219d4370.cbd70c7c-71b1-43c6-a468-23bccf317b10",
+      "url": "https://www.xbox.com/en-US/games/carry-the-glass",
+      "releaseDate": "2026-10-23",
+      "rating": 5.0,
+      "categories": [
+        "Action & adventure",
+        "Platformer",
+        "Family & kids",
+        "Puzzle & trivia",
+        "Simulation"
+      ],
+      "developer": "SlugShot Games",
+      "publisher": "NAISU",
+      "price": 5.99,
+      "currency": "USD",
+      "productId": "9NXZ0JNC5ZPR",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Team up as two quirky construction workers in this fun 2-player co-op platformer! Carry a fragile glass window through colorful levels filled with challenges. Communicate and coordinate to dodge obstacles and solve puzzles. Can you finish the job without breaking the glass?",
+      "developerName": "SlugShot Games",
+      "publisherName": "NAISU"
+    },
+    {
+      "name": "Tidy Up the Halloween Shop",
+      "title": "Tidy Up the Halloween Shop",
+      "image": "https://store-images.s-microsoft.com/image/apps.35773.13513392257797470.b8148782-0882-4299-b3dd-810c4a9863a4.d7040ee3-a017-4576-82c1-805503b5f331",
+      "url": "https://www.xbox.com/en-US/games/tidy-up-the-halloween-shop",
+      "releaseDate": "2026-10-23",
+      "rating": 4.7,
+      "categories": [
+        "Simulation",
+        "Puzzle & trivia"
+      ],
+      "developer": "Over The Moon",
+      "publisher": "Over The Moon",
+      "price": 5.99,
+      "currency": "USD",
+      "productId": "9NBPB4BTNXVF",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
+      "developerName": "Over The Moon",
+      "publisherName": "Over The Moon"
+    },
+    {
       "name": "RuneScape: Dragonwilds",
       "title": "RuneScape: Dragonwilds",
       "image": "https://store-images.s-microsoft.com/image/apps.5982.14598963835318421.d3340a04-fc78-4b06-9abb-2849494504b3.77f5bc2d-f8c7-4630-9567-dfd26fb43cb5",
@@ -1807,31 +1936,6 @@
       "description": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
       "developerName": "Jagex: The RuneScape Company",
       "publisherName": "Jagex: The RuneScape Company"
-    },
-    {
-      "name": "Tidy Up the Flower Shop",
-      "title": "Tidy Up the Flower Shop",
-      "image": "https://store-images.s-microsoft.com/image/apps.49576.14613840834215031.ccf86008-c89a-4c00-ab0c-a18fdd4503c6.1c91c16d-93ea-46c8-8747-03be48918868",
-      "url": "https://www.xbox.com/en-US/games/tidy-up-the-flower-shop",
-      "releaseDate": "2026-10-22",
-      "rating": 4.9,
-      "categories": [
-        "Simulation",
-        "Family & kids"
-      ],
-      "developer": "Over The Moon",
-      "publisher": "Over The Moon",
-      "price": 5.99,
-      "currency": "USD",
-      "productId": "9P71830LLG4J",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "The grand opening is tomorrow, and the flower delivery is all over the floor. Gather flowers by the armful, sort them into baskets, and decorate the baskets with colours and patterns. No timers, nobody watching. A cozy first-person tidy-up.",
-      "developerName": "Over The Moon",
-      "publisherName": "Over The Moon"
     },
     {
       "name": "Mortal Kombat 11",
@@ -1883,6 +1987,31 @@
       "description": "Experience a new chapter in the legendary horror series like never before. Clive Barker's Hellraiser: Revival takes first-person action horror survival to the next level. ",
       "developerName": "Saber Interactive Inc.",
       "publisherName": "Saber Interactive Inc."
+    },
+    {
+      "name": "Tidy Up the Flower Shop",
+      "title": "Tidy Up the Flower Shop",
+      "image": "https://store-images.s-microsoft.com/image/apps.49576.14613840834215031.ccf86008-c89a-4c00-ab0c-a18fdd4503c6.1c91c16d-93ea-46c8-8747-03be48918868",
+      "url": "https://www.xbox.com/en-US/games/tidy-up-the-flower-shop",
+      "releaseDate": "2026-10-22",
+      "rating": 4.9,
+      "categories": [
+        "Simulation",
+        "Family & kids"
+      ],
+      "developer": "Over The Moon",
+      "publisher": "Over The Moon",
+      "price": 5.99,
+      "currency": "USD",
+      "productId": "9P71830LLG4J",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "The grand opening is tomorrow, and the flower delivery is all over the floor. Gather flowers by the armful, sort them into baskets, and decorate the baskets with colours and patterns. No timers, nobody watching. A cozy first-person tidy-up.",
+      "developerName": "Over The Moon",
+      "publisherName": "Over The Moon"
     },
     {
       "name": "Valor Mortis",
@@ -6286,7 +6415,7 @@
     {
       "name": "World of Tanks: HEAT",
       "title": "World of Tanks: HEAT",
-      "image": "https://store-images.s-microsoft.com/image/apps.51844.13914660851585642.bf740845-6b4f-4219-8754-f267907650cd.8dd0d24a-2002-449f-8a76-cd569f1ddac4",
+      "image": "https://store-images.s-microsoft.com/image/apps.63783.13914660851585642.a21c2c87-a21a-4263-9436-669b54cfa894.6f6c51ca-27ad-495d-892b-50adfb797702",
       "url": "https://www.xbox.com/en-US/games/world-of-tanks-heat",
       "releaseDate": "2026-05-26",
       "rating": 2.6,
@@ -6540,7 +6669,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.36330.14364758607471359.5497a0ed-4b70-4e20-ac65-ae6509b7e4e7.2a0a6dcc-1da1-4b74-94b5-04d22d21d0ab",
       "url": "https://www.xbox.com/en-US/games/trailmakers",
       "releaseDate": "2019-09-18",
-      "rating": 3.9,
+      "rating": 3.8,
       "categories": [
         "Racing & flying",
         "Simulation"
@@ -7978,7 +8107,7 @@
     {
       "name": "SMITE 2 (Game Preview)",
       "title": "SMITE 2 (Game Preview)",
-      "image": "https://store-images.s-microsoft.com/image/apps.53577.14402893629943553.54fbd0de-7e4f-448e-93c6-1ad78c0a967a.264f684c-58e6-4b9f-b471-91ebc459b46e",
+      "image": "https://store-images.s-microsoft.com/image/apps.61571.14402893629943553.6e6c7d04-2186-4859-a2b8-45f1f1799a2e.bbc0f7a0-8939-4be2-95f9-d3a038af4eed",
       "url": "https://www.xbox.com/en-US/games/smite-2-(game-preview)",
       "releaseDate": "9998-12-30",
       "rating": 2.2,
@@ -9048,7 +9177,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.13296.14269113344377028.d4866d09-61af-42a6-b0fd-d84b50e22019.5a0a89d1-c97f-4b6f-91f9-7d5014445951",
       "url": "https://www.xbox.com/en-US/games/tenebris-somnia",
       "releaseDate": "2026-10-16",
-      "rating": 4.0,
+      "rating": 3.9,
       "categories": [
         "Action & adventure",
         "Puzzle & trivia",
@@ -16571,7 +16700,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.11573.14248845882002576.2ead086c-f8ce-4e19-9d5c-cfb33ad4e55a.fcc55903-9ce1-4cbb-8378-5ead776a7115",
       "url": "https://www.xbox.com/en-US/games/beer-manufacture-simulator",
       "releaseDate": "2026-09-24",
-      "rating": 3.5,
+      "rating": 3.6,
       "categories": [
         "Simulation",
         "Other"
@@ -19425,7 +19554,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.4783.13716374112172288.606f83a3-2215-4208-9cfd-633b290839ea.7718b2b5-8067-456d-bd72-26d35dc07cef",
       "url": "https://www.xbox.com/en-US/games/freestyle-football-2",
       "releaseDate": "",
-      "rating": 4.8,
+      "rating": 4.5,
       "categories": [
         "Sports",
         "Action & adventure"
@@ -23829,7 +23958,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.30754.13814532656914385.135f8e7e-ea3b-4883-bcdf-c9d90ec5b01f.094a9a03-277e-4112-a7de-375e64fd887a",
       "url": "https://www.xbox.com/en-US/games/moving-simulator",
       "releaseDate": "2026-09-18",
-      "rating": 3.5,
+      "rating": 3.4,
       "categories": [
         "Simulation"
       ],
@@ -25672,7 +25801,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.1987.13983078767338073.184ee476-d19a-424a-8646-8d8cb3b7e338.5a496228-11ec-41ad-b4e5-677f25b167cd",
       "url": "https://www.xbox.com/en-US/games/arizona-sunshine",
       "releaseDate": "",
-      "rating": 0.0,
+      "rating": 1.0,
       "categories": [
         "Shooter",
         "Action & adventure",
@@ -30852,7 +30981,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.32418.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.8d3deadc-c733-456f-970d-8b3f90a5e322",
       "url": "https://www.xbox.com/en-US/games/gravhounds-(game-preview)",
       "releaseDate": "9998-12-30",
-      "rating": 3.7,
+      "rating": 3.6,
       "categories": [
         "Shooter",
         "Action & adventure",
@@ -33036,31 +33165,6 @@
       "description": "Ultimate racing game in a style of 80's with the best synth music.",
       "developerName": "Insane Code",
       "publisherName": "Insane Code"
-    },
-    {
-      "name": "Hidden Cats in Beijing",
-      "title": "Hidden Cats in Beijing",
-      "image": "https://store-images.s-microsoft.com/image/apps.40491.13888657806990507.f0c734c7-b0dd-4d2c-92f9-8cb951493f60.89de2d84-f8ea-4b9e-8d9e-3bac21664c0d",
-      "url": "https://www.xbox.com/en-US/games/hidden-cats-in-beijing",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Puzzle & trivia",
-        "Family & kids"
-      ],
-      "developer": "Nukearts Studio",
-      "publisher": "Silesia Games Sp. z o.o.",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9MXS90V0RHTV",
-      "availableOn": [
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "Join the Chinese Spring Festival and spot hundreds of playful cats!",
-      "developerName": "Nukearts Studio",
-      "publisherName": "Silesia Games Sp. z o.o."
     },
     {
       "name": "Twelve Minutes",
@@ -37797,31 +37901,6 @@
       "publisherName": "GameMill Entertainment"
     },
     {
-      "name": "ZERO PARADES: Director's Cut",
-      "title": "ZERO PARADES: Director's Cut",
-      "image": "https://store-images.s-microsoft.com/image/apps.35083.13949582959445374.ea0c1a8c-44e1-403b-9079-6ef2eaca23c4.5f358e0a-9377-4731-a8dc-797a327d324f",
-      "url": "https://www.xbox.com/en-US/games/zero-parades-directors-cut",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Role playing"
-      ],
-      "developer": "",
-      "publisher": "ZA/UM",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9N2TDPGLP9JZ",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "",
-      "publisherName": "ZA/UM"
-    },
-    {
       "name": "Oceanhorn 2 - Knights of the Lost Realm",
       "title": "Oceanhorn 2 - Knights of the Lost Realm",
       "image": "https://store-images.s-microsoft.com/image/apps.55920.13698384919317905.b959831c-27d3-44ae-9e97-c28f059b4998.e1261ee0-4a48-44e9-8157-42b4f3186365",
@@ -41953,7 +42032,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.41134.14215902610565948.ed481fb7-6bda-4a9c-85f5-2d620c71f660.b7dcb885-4d9d-4656-a692-64a9d1257632",
       "url": "https://www.xbox.com/en-US/games/sudoku-champions",
       "releaseDate": "2026-01-29",
-      "rating": 3.3,
+      "rating": 3.4,
       "categories": [
         "Puzzle & trivia",
         "Card & board",
@@ -42623,32 +42702,6 @@
       "description": "Witness the resurrection of the foretold nemesis of the Jurnal Risa family, which was never revealed before. Unveil its dark destiny within this horror-adventure game.",
       "developerName": "Digital Happiness",
       "publisherName": "Soft Source Pte Ltd"
-    },
-    {
-      "name": "Outbreak: Dead City",
-      "title": "Outbreak: Dead City",
-      "image": "https://store-images.s-microsoft.com/image/apps.15392.14551361956905021.c58c6ada-c413-4bae-ae30-761d39d6465c.c32aed83-4e43-42f5-8a56-581fd259286a",
-      "url": "https://www.xbox.com/en-US/games/outbreak-dead-city",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Shooter",
-        "Action & adventure"
-      ],
-      "developer": "Eastasiasoft Limited, ScrapGear Studio",
-      "publisher": "Eastasiasoft Limited",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9P31X50D793N",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Eastasiasoft Limited, ScrapGear Studio",
-      "publisherName": "Eastasiasoft Limited"
     },
     {
       "name": "Chronoscript: The Endless End",
@@ -46033,30 +46086,6 @@
       "publisherName": "HAMSTER Corporation"
     },
     {
-      "name": "PIT OF GOBLIN",
-      "title": "PIT OF GOBLIN",
-      "image": "https://store-images.s-microsoft.com/image/apps.27620.13846192334895629.23a9d00d-834c-4fd7-abe1-41b8b885b3ee.36fa2021-fe84-4d8b-82c1-b8870791b64c",
-      "url": "https://www.xbox.com/en-US/games/pit-of-goblin",
-      "releaseDate": "",
-      "rating": 0.0,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Friendly Foe",
-      "publisher": "Friendly Foe, Bright Gambit",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9MW4MFG0192L",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Friendly Foe",
-      "publisherName": "Friendly Foe, Bright Gambit"
-    },
-    {
       "name": "ACA NEOGEO KING OF THE MONSTERS 2",
       "title": "ACA NEOGEO KING OF THE MONSTERS 2",
       "image": "https://store-images.s-microsoft.com/image/apps.7792.71559774698378122.979e79d1-deaf-4347-9323-290ad9c4c81c.d22f23d3-0bc9-4c95-bdf2-e752669c994a",
@@ -46811,6 +46840,32 @@
       "description": "Dispatch a team of vampire spies through the tense and fractured streets of Cold War Berlin. Fulfill your darkest impulses as you tap into their powers, gain their trust, and manipulate your way through this (blood)thirsty Tactical Narrative RPG.",
       "developerName": "Wispfire",
       "publisherName": "Fellow Traveller"
+    },
+    {
+      "name": "Solo Leveling: ARISE OVERDRIVE",
+      "title": "Solo Leveling: ARISE OVERDRIVE",
+      "image": "https://store-images.s-microsoft.com/image/apps.58106.13858861137035174.76da8517-7719-4de0-80ab-40e09a2e1aab.e676c490-5d1c-4ecf-83d2-f367b95b9496",
+      "url": "https://www.xbox.com/en-US/games/solo-leveling-arise-overdrive",
+      "releaseDate": "2025-11-24",
+      "rating": 4.2,
+      "categories": [
+        "Action & adventure",
+        "Role playing"
+      ],
+      "developer": "Netmarble Neo",
+      "publisher": "Netmarble",
+      "price": 39.99,
+      "currency": "USD",
+      "productId": "9MVHCQ7CJX01",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "The Solo Leveling webtoon is now an action RPG!\nLive the epic journey of E-Rank hunter Sung Jinwoo on his way to becoming the Monarch of Shadows!",
+      "developerName": "Netmarble Neo",
+      "publisherName": "Netmarble"
     },
     {
       "name": "ACA NEOGEO ART OF FIGHTING 3",
@@ -60094,7 +60149,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.48926.14394861700077446.5411760c-fb1a-4913-a7cb-c685a3f3facd.4153660f-a0d1-4219-a42a-a656afa1157a",
       "url": "https://www.xbox.com/en-US/games/grappin",
       "releaseDate": "2024-06-07",
-      "rating": 3.2,
+      "rating": 3.4,
       "categories": [
         "Action & adventure",
         "Platformer"
@@ -60572,30 +60627,6 @@
       "publisherName": "KEMCO"
     },
     {
-      "name": "South of Midnight - Digital Extras",
-      "title": "South of Midnight - Digital Extras",
-      "image": "https://store-images.s-microsoft.com/image/apps.54948.13631408362172437.2b359d33-9703-42aa-93ac-427a3ccdebb5.b8225366-885e-42b4-bdbd-498cef8a2c9c",
-      "url": "https://www.xbox.com/en-US/games/south-of-midnight-digital-extras",
-      "releaseDate": "",
-      "rating": 4.6,
-      "categories": [
-        "Action & adventure"
-      ],
-      "developer": "Compulsion Games",
-      "publisher": "Xbox Game Studios",
-      "price": 0,
-      "currency": "USD",
-      "productId": "9NH6T0059ZP0",
-      "availableOn": [
-        "PC",
-        "XCloud",
-        "XboxSeriesX"
-      ],
-      "description": "Immerse yourself into the macabre and fantastical world of South of Midnight with digital Artbook, Soundtrack, Comic book, Music video and Documentary (Director's cut).\n\nThis is additional content for South of Midnight and does not include the base game.",
-      "developerName": "Compulsion Games",
-      "publisherName": "Xbox Game Studios"
-    },
-    {
       "name": "Illusion of L'Phalcia",
       "title": "Illusion of L'Phalcia",
       "image": "https://store-images.s-microsoft.com/image/apps.61428.13599448365520471.53364ac7-90a4-4919-ae55-e61e0bf33ecb.29b5316a-4026-458f-b6c2-2f7f7318460b",
@@ -60619,6 +60650,30 @@
       "description": "Experience epic 3D battles and customize characters with Runes & Gems in a fantasy RPG with an adventure awaiting in search of the legendary Sword of Amal!",
       "developerName": "EXE-CREATE",
       "publisherName": "KEMCO"
+    },
+    {
+      "name": "South of Midnight - Digital Extras",
+      "title": "South of Midnight - Digital Extras",
+      "image": "https://store-images.s-microsoft.com/image/apps.54948.13631408362172437.2b359d33-9703-42aa-93ac-427a3ccdebb5.b8225366-885e-42b4-bdbd-498cef8a2c9c",
+      "url": "https://www.xbox.com/en-US/games/south-of-midnight-digital-extras",
+      "releaseDate": "",
+      "rating": 4.6,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Compulsion Games",
+      "publisher": "Xbox Game Studios",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9NH6T0059ZP0",
+      "availableOn": [
+        "PC",
+        "XCloud",
+        "XboxSeriesX"
+      ],
+      "description": "Immerse yourself into the macabre and fantastical world of South of Midnight with digital Artbook, Soundtrack, Comic book, Music video and Documentary (Director's cut).\n\nThis is additional content for South of Midnight and does not include the base game.",
+      "developerName": "Compulsion Games",
+      "publisherName": "Xbox Game Studios"
     },
     {
       "name": "My Horse Stories",
@@ -61099,7 +61154,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.54396.13713150471096339.d1d49364-de64-4ce6-a6ff-803678304bca.a84feac6-d20b-483c-9b95-c39febe9e3e2",
       "url": "https://www.xbox.com/en-US/games/the-mildew-children",
       "releaseDate": "2024-04-17",
-      "rating": 4.4,
+      "rating": 4.1,
       "categories": [
         "Action & adventure"
       ],
@@ -63879,6 +63934,30 @@
       "description": "",
       "developerName": "Hautecouture Inc.",
       "publisherName": "Hautecouture Inc."
+    },
+    {
+      "name": "DERELIKT",
+      "title": "DERELIKT",
+      "image": "https://store-images.s-microsoft.com/image/apps.21735.14141057052658170.3350af2b-2178-4f59-b0fe-c3d2f3df2a13.362cae63-993a-41be-a93f-47c9be76ace7",
+      "url": "https://www.xbox.com/en-US/games/derelikt",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure"
+      ],
+      "developer": "Visuwyg, Hyperstrange",
+      "publisher": "Hyperstrange",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9P9CMBKRM1J1",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "DERELIKT is a narrative retro FPS built for fans of PS1-era sci-fi horror.",
+      "developerName": "Visuwyg, Hyperstrange",
+      "publisherName": "Hyperstrange"
     },
     {
       "name": "Asdivine Kamura",
@@ -72069,6 +72148,32 @@
       "publisherName": "Eastasiasoft Limited"
     },
     {
+      "name": "Rex Rocket",
+      "title": "Rex Rocket",
+      "image": "https://store-images.s-microsoft.com/image/apps.15633.14124817113957239.5d345c57-8aec-4361-a067-df0be794af78.5c34d6ff-7baa-4e09-a918-d0e7c6ac83bf",
+      "url": "https://www.xbox.com/en-US/games/rex-rocket",
+      "releaseDate": "2019-09-25",
+      "rating": 4.3,
+      "categories": [
+        "Action & adventure",
+        "Platformer"
+      ],
+      "developer": "Castle Pixel, LLC.",
+      "publisher": "Castle Pixel, LLC.",
+      "price": 9.99,
+      "currency": "USD",
+      "productId": "9PBF1CZQ2156",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "Castle Pixel, LLC.",
+      "publisherName": "Castle Pixel, LLC."
+    },
+    {
       "name": "Glitch Hero",
       "title": "Glitch Hero",
       "image": "https://store-images.s-microsoft.com/image/apps.6504.13882742244132666.dcf68783-c896-4e95-9550-2d408decb4f4.1a0b687c-5396-4274-b0a0-ee56b8315bae",
@@ -72096,32 +72201,6 @@
       "description": "A fatal error has trapped Ada’s father inside Codeland! As young Ada, wield the (virtually) mighty hammer.exe and debug the corrupted virtual world while learning basic coding concepts in an irreverent, fun and thrilling action puzzle adventure!",
       "developerName": "Didactoons",
       "publisherName": "Artax Games"
-    },
-    {
-      "name": "Rex Rocket",
-      "title": "Rex Rocket",
-      "image": "https://store-images.s-microsoft.com/image/apps.15633.14124817113957239.5d345c57-8aec-4361-a067-df0be794af78.5c34d6ff-7baa-4e09-a918-d0e7c6ac83bf",
-      "url": "https://www.xbox.com/en-US/games/rex-rocket",
-      "releaseDate": "2019-09-25",
-      "rating": 4.3,
-      "categories": [
-        "Action & adventure",
-        "Platformer"
-      ],
-      "developer": "Castle Pixel, LLC.",
-      "publisher": "Castle Pixel, LLC.",
-      "price": 9.99,
-      "currency": "USD",
-      "productId": "9PBF1CZQ2156",
-      "availableOn": [
-        "Handheld",
-        "PC",
-        "XboxOne",
-        "XboxSeriesX"
-      ],
-      "description": "",
-      "developerName": "Castle Pixel, LLC.",
-      "publisherName": "Castle Pixel, LLC."
     },
     {
       "name": "Gravity Thrust",
@@ -72607,7 +72686,7 @@
       "image": "",
       "url": "https://www.xbox.com/en-US/games/doodle-harmony",
       "releaseDate": "2025-07-25",
-      "rating": 4.0,
+      "rating": 4.1,
       "categories": [
         "Family & kids",
         "Puzzle & trivia"
@@ -74189,6 +74268,57 @@
       "publisherName": "GestLT"
     },
     {
+      "name": "Wand & Order: Tidy up the Magic shop!",
+      "title": "Wand & Order: Tidy up the Magic shop!",
+      "image": "https://store-images.s-microsoft.com/image/apps.43915.14027881473664341.4a168d76-7e5c-4260-bebd-23ea760a4953.3e805310-c82c-4ecc-93c2-cc6ea9f237e7",
+      "url": "https://www.xbox.com/en-US/games/wand-&-order-tidy-up-the-magic-shop!",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Simulation",
+        "Family & kids",
+        "Other"
+      ],
+      "developer": "OnSkull Games",
+      "publisher": "OnSkull Games",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9N60NV20B61D",
+      "availableOn": [
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "",
+      "developerName": "OnSkull Games",
+      "publisherName": "OnSkull Games"
+    },
+    {
+      "name": "I Am Jesus Christ",
+      "title": "I Am Jesus Christ",
+      "image": "https://store-images.s-microsoft.com/image/apps.63463.14266622154607482.d96b453b-b3eb-4743-becd-a70353605a2a.a8dfc7b3-4600-4b5b-944c-5e394bbe64e3",
+      "url": "https://www.xbox.com/en-US/games/i-am-jesus-christ",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Action & adventure",
+        "Simulation"
+      ],
+      "developer": "Space Boat Studios, ConsoleWay S.A.",
+      "publisher": "Playway S.A.",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9PKJ0WF7PTHH",
+      "availableOn": [
+        "Handheld",
+        "PC",
+        "XboxSeriesX"
+      ],
+      "description": "Experience the Gospel through the eyes of Jesus.",
+      "developerName": "Space Boat Studios, ConsoleWay S.A.",
+      "publisherName": "Playway S.A."
+    },
+    {
       "name": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
       "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
       "image": "https://store-images.s-microsoft.com/image/apps.59277.14424700623627466.1001fa72-40b6-442c-9c47-9f79eb4fe138.0f9fcc33-371c-4799-b69b-70d7e4f313fd",
@@ -74266,6 +74396,33 @@
       "description": "",
       "developerName": "Tovarishch Games / Console Labs S.A. ",
       "publisherName": "PlayWay S.A."
+    },
+    {
+      "name": "Luminova",
+      "title": "Luminova",
+      "image": "https://store-images.s-microsoft.com/image/apps.61311.14441162700650050.286854ec-52cb-4e18-8634-88f0aa87ed3f.3364178a-afd8-490c-af61-a253d7a2c913",
+      "url": "https://www.xbox.com/en-US/games/luminova",
+      "releaseDate": "",
+      "rating": 0.0,
+      "categories": [
+        "Platformer",
+        "Action & adventure",
+        "Family & kids",
+        "Puzzle & trivia"
+      ],
+      "developer": "Renan Felipe",
+      "publisher": "Renan Games",
+      "price": 0,
+      "currency": "USD",
+      "productId": "9NWX7C43VXFH",
+      "availableOn": [
+        "PC",
+        "XboxOne",
+        "XboxSeriesX"
+      ],
+      "description": "Test your reflexes and precision in this minimalist 2.5D auto-runner platformer! Control a high-speed white cube, master wall jumping to change direction, collect 3 fragments in each level, and unlock the portal to victory. One button, 30 levels, and ultimate challenge.",
+      "developerName": "Renan Felipe",
+      "publisherName": "Renan Games"
     },
     {
       "name": "Beauty and the Beast : Hidden Objects",
