@@ -3,8 +3,8 @@
   "totalItemsFromAPI": 2980,
   "totalPagesProcessed": 60,
   "failedPages": [],
-  "lastUpdated": "2026-11-23T12:17:34.730290",
-  "fetchDate": "2026-11-23 12:17:34",
+  "lastUpdated": "2026-11-23T12:36:45.029004",
+  "fetchDate": "2026-11-23 12:36:45",
   "games": [
     {
       "name": "Fortnite",
@@ -452,7 +452,7 @@
       "image": "https://store-images.s-microsoft.com/image/apps.31333.14129895546910591.15ce5e95-e674-4606-9b05-96bd055d9e5f.68f4c3e3-7882-4988-b096-b219ac16fa8e",
       "url": "https://www.xbox.com/en-US/games/cats-in-wonderland",
       "releaseDate": "2026-11-20",
-      "rating": 3.4,
+      "rating": 2.7,
       "categories": [
         "Family & kids",
         "Puzzle & trivia",
